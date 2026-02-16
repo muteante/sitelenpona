@@ -1,6 +1,9 @@
 body{
     --laso: #000099;
     --jelo: #fcffb1;
+    --lupa: #00c4fd;
     font-family: 'Nunito Sans', sans-serif
 }
-h1{font-weight:800; font-variation-settings:"wdth" 75}
+h1{font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
+
+a{color: var(--lupa)}
