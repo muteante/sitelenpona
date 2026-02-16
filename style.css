@@ -9,11 +9,17 @@ body{margin:0;
     --lupa: #00c4fd;
     font-family: 'Nunito Sans', sans-serif
 }
-h1{font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
+
+header{margin: 1rem}
+
+h1{display: flex; background-color: var(--jelo); padding: 0 4rem; margin-bottom: 2rem;
+    font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
+
+h1 p{margin: 1rem}
 
 a{color: var(--lupa)}
 
-p:not(.sp){max-width: 25rem}
+p:not(.sp){width: 25rem}
 p.sp{font-family: "nasin-nanpa", sans-serif;
-    max-width: 10rem
+    width: 10rem
 }
