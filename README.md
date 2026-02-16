@@ -1,3 +1,2 @@
-sitelen pona publishers and typographers association website (work in progress)
+© all rights reserved by the sitelen pona publishers and typographers association, 2026
 
-© all rights reserved.
