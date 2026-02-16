@@ -12,7 +12,7 @@ body{margin:0;
 
 header{margin: 1rem}
 
-h1{display: flex; padding: 0 4rem; border-bottom: solid yellow .5rem
+h1{display: flex; padding: 0 4rem; border-bottom: solid yellow .5rem;
     font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
 
 div.row{display: flex; padding: 0 4rem; margin-bottom: 2rem;}
