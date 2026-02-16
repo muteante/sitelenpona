@@ -15,7 +15,7 @@ header{margin: 1rem}
 h1{display: flex; padding: 0 4rem; border-bottom: solid yellow .5rem;
     font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
 
-div.row{display: flex; padding: 0 4rem; margin-bottom: 2rem;}
+div.row{display: flex; padding: 0 4rem;}
 
 h1 p, div.row p{margin: 1rem}
 
@@ -24,4 +24,8 @@ a{color: var(--lupa)}
 p:not(.sp){width: 25rem}
 p.sp{font-family: "nasin-nanpa", sans-serif;
     width: 10rem
+}
+
+@media (width < 750px) {
+    h1, div{flex-direction: column}
 }
