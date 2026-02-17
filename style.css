@@ -19,7 +19,7 @@ h1{margin-block: 1rem; border-bottom: solid yellow .5rem;
     grid-auto-flow: dense; gap: 1rem 0; padding: 0 6rem
 }
 
-.split > [lang="en"]{grid-column: 2;}
+.split > [lang="en"]{grid-column: 2; max-width: 50ch}
 
 a{color: var(--lupa)}
 a:hover{color: var(--laso)}
