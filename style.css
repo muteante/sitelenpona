@@ -36,5 +36,6 @@ p.sp{font-family: "nasin-nanpa", sans-serif;
     h1, div.row{flex-direction: column;}
     p:not(.sp){width: unset; max-width: 25rem}
     h1 p:lang(en){margin-bottom:0}
-    h1 p.sp{margin-top:0}
+    h1 p.sp, div.row p.sp{margin-top:0}
+    div.row p:lang(en){margin-bottom:.5rem}
 }
