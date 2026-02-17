@@ -16,7 +16,7 @@ h1{margin-block: 1rem; border-bottom: solid yellow .5rem;
     font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
 
 .split{display: grid; grid-template-columns:2rem auto 1rem auto 2rem;
-    grid-auto-flow: dense; gap: 1rem 0; padding-left: 6rem
+    grid-auto-flow: dense; gap: 1rem 0; padding: 0 6rem
 }
 
 .split > [lang="en"]{grid-column: 2;}
