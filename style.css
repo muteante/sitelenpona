@@ -30,6 +30,8 @@ h1.split > p {margin: 1rem 0}
     width: 10rem; min-width: 10rem
 }
 
+.numbering{display:none}
+
 a{color: var(--lupa)}
 a:hover{color: var(--laso)}
 
@@ -39,6 +41,7 @@ a:hover{color: var(--laso)}
 @media (width < 580px) {
     .split {grid-template-columns: 2rem 1fr; padding-inline: 1rem; gap: 1rem 0;
     }
+    .numbering{display:inline; grid-column: 1}
     .split > :not(.numbering){grid-column: 2}
     .split > [lang="en"]{width: unset; max-width: 25rem}
     h1.split{gap: 0}
