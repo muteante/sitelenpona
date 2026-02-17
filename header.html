@@ -3,13 +3,16 @@
             header{padding: 1rem 6rem; background-color: #fcffb1f0; border-bottom: solid var(--laso) .25rem;
                 color: var(--laso); position: sticky; top: 0; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); box-shadow: var(--laso) 0 0 16px -12px;}
 
-        header > div{display: grid; grid-template-columns: 3rem 1fr 1fr 2fr; gap: 3rem; width: fit-content}
+        header > div{display: grid; grid-template-columns: 3rem 1fr 1fr 2fr; gap: min3rem; width: fit-content}
         img{height: 3rem}
         header > div > p{margin:0}
         header > div > p:not(.sp){font-weight: 700}
         header > div > .sp{min-width: unset; width: unset}
 
         header [lang="en"], header [lang="tok"]{grid-column: unset}
+
+        @media (width < 750px) {
+                header > div > p.sp{display:none}}}
 
         </style></head>
         <div>
