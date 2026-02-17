@@ -10,10 +10,6 @@ body{margin:0;
     font-family: 'Nunito Sans', sans-serif
 }
 
-header{padding: 1rem; background-color: var(--jelo); border-bottom: solid var(--laso) .5rem;
-    color: var(--laso)
-}
-
 h1{display: flex; padding: 0 4rem; border-bottom: solid yellow .5rem;
     font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
 
