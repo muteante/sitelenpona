@@ -2,17 +2,15 @@
         <style>
             header{padding: 1rem 6rem; background-color: #fcffb1f0; border-bottom: solid var(--laso) .25rem;
                 color: var(--laso); position: sticky; top: 0; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); box-shadow: var(--laso) 0 0 16px -12px;
-                display: flex; flex-gap: 3rem}
+                display: grid; grid-template-columns: 3rem 1fr 1fr 2fr; gap: 3rem}
 
         img{height: 3rem}
         header p{margin:0}
         header p:not(.sp){font-weight: 600}
-        header div{display: flex; flex-gap: 1rem}
+        header .sp{min-width: unset; width: unset}
 
         </style></head>
 <img src="sitelen/logo.svg">
 <p style="grid-column: 2" lang="tok" >kulupu pali pi<br>sitelen pona</p>
 <p style="grid-column: 3" lang="tok" class="sp">kulupu pali pi sitelen pona</p>
-<div style="grid-column: 4">
-        <p lang="en">sitelen pona<br>publishers &</p>
-        <p lang="en">typographers<br>association</p></div>
+<p style="grid-column: 4" lang="en">sitelen pona publishers &<br>typographers association</p></div>
