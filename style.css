@@ -33,6 +33,8 @@ p.sp{font-family: "nasin-nanpa", sans-serif;
 }
 
 @media (width < 580px) {
-    h1, div.row{flex-direction: column;
-    }
+    h1, div.row{flex-direction: column;}
+    p:not(.sp){width: unset; max-width: 25rem}
+    h1 p:lang(en){margin-bottom:0}
+    h1 p.sp{margin-top:0}
 }
