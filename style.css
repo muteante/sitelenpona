@@ -41,6 +41,7 @@ a:hover{color: var(--laso)}
     }
     .split > :not(.numbering){grid-column: 2}
     .split > [lang="en"]{width: unset; max-width: 25rem}
+    h1.split{gap: 0}
     h1.split > [lang="en"]{margin-bottom:0}
     h1.split > .sp{margin-top:0}
     section.split > p{margin-bottom:0}
