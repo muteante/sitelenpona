@@ -15,13 +15,14 @@ main{margin-bottom: 4rem}
 h1{margin-block: 1rem; border-bottom: solid yellow .5rem;
     font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
 
-.split{display: grid; grid-template-columns:2rem minmax(0, 50ch) 1rem minmax(0, 50ch) 2rem;
-    grid-auto-flow: dense; gap: 1rem 0;
+.split{display: grid; grid-template-columns:2rem auto 1rem auto 2rem;
+    grid-auto-flow: dense; gap: 1rem 0; padding-left: 6rem
 }
 
 .split > [lang="en"]{grid-column: 2;}
 
 a{color: var(--lupa)}
+a:hover{color: var(--laso)}
 
 .split > .sp{grid-column: 4;
     font-family: "nasin-nanpa", sans-serif;
