@@ -19,7 +19,7 @@ h1{margin-block: 1rem; border-bottom: solid yellow .5rem;
     grid-auto-flow: dense; gap: 1rem 0; padding: 0 4rem
 }
 
-details.split > p{margin: 0}
+section.split > p{margin: 0}
 h1.split > p {margin: 1rem 0}
 
 .split > [lang="en"]{grid-column: 2; max-width: 25rem}
