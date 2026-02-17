@@ -15,11 +15,11 @@ main{margin-bottom: 4rem}
 h1{margin-block: 1rem; border-bottom: solid yellow .5rem;
     font-weight:800; font-variation-settings:"wdth" 75; color: var(--laso)}
 
-.split{display: grid; grid-template-columns:2rem auto 1rem auto 2rem;
-    grid-auto-flow: dense; gap: 1rem 0; padding: 0 6rem
+.split{display: grid; grid-template-columns:2rem minmax(0, 25rem) 1rem minmax(0, 10rem) 2rem;
+    grid-auto-flow: dense; gap: 1rem 0; padding: 0 4rem
 }
 
-.split > [lang="en"]{grid-column: 2; max-width: 50ch}
+.split > [lang="en"]{grid-column: 2; max-width: 25rem}
 
 a{color: var(--lupa)}
 a:hover{color: var(--laso)}
