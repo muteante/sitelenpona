@@ -38,6 +38,8 @@ h1.split > p {margin: 1rem 0}
 
 a{color: var(--lupa)}
 
+img{width: 100%; max-width: calc(42rem + 7vw); margin-bottom: 0 auto 2rem; display: block}
+
 @media (width < 800px) {
     .split{padding: 0 6vw}}
 
