@@ -19,8 +19,8 @@ h1{margin-block: 1rem; border-bottom: solid var(--loje-6) 2px;
     font-weight:800; font-variation-settings:"wdth" 75;
 }
 
-.split{display: grid; grid-template-columns:2rem minmax(0, 25rem) minmax(1rem, 7vw) minmax(0, 10rem) 2rem;
-    grid-auto-flow: dense; gap: 1rem 0; padding: 0 1rem 0 6rem;
+.split{display: grid; grid-template-columns:auto minmax(0, 25rem) minmax(1rem, 7vw) minmax(0, 10rem) auto;
+    grid-auto-flow: dense; gap: 1rem 0; padding: 0 1rem;
 }
 section.split{margin-bottom: 2rem}
 
@@ -39,7 +39,7 @@ h1.split > p {margin: 1rem 0}
 a{color: var(--lupa)}
 
 @media (width < 750px) {
-    .split{padding: 0 3vw}}
+    .split{padding: 0 6vw}}
 
 @media (width < 580px) {
     .split {grid-template-columns: 2rem 1fr; padding-inline: 1rem; gap: 1rem 0;
