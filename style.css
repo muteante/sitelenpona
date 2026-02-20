@@ -4,18 +4,18 @@
 }
 
 body{margin:0;
-    --loje-7: #dd3c00;
-    --loje-6: #ff4800;
+    --jelo-7: #cb5300;
+    --jelo-5: #ff7400;
     --lupa: #0063fd;
     background-color: white; color: black;
     font-family: 'Nunito Sans', sans-serif
 }
 
-::selection{background-color: var(--loje-6); color: white}
+::selection{background-color: var(--jelo-5); color: white}
 
 main{margin-bottom: 4rem}
 
-h1{margin-block: 1rem; border-bottom: dotted var(--loje-6) 3px;
+h1{margin-block: 1rem; border-bottom: dotted var(--jelo-5) 3px;
     font-weight:800; font-variation-settings:"wdth" 75;
 }
 
