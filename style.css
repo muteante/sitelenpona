@@ -19,7 +19,7 @@ h1{margin-block: 1rem; border-bottom: dotted var(--jelo-5) 3px;
     font-weight:800; font-variation-settings:"wdth" 75;
 }
 
-.split{display: grid; grid-template-columns:auto minmax(0, 25rem) minmax(1rem, 7vw) minmax(0, 10rem) auto;
+.split{display: grid; grid-template-columns:auto minmax(0, 30rem) minmax(1rem, 7vw) minmax(0, 12rem) auto;
     grid-auto-flow: dense; gap: 1rem 0; padding: 0 1rem;
 }
 section.split{margin-bottom: 2rem}
@@ -27,11 +27,11 @@ section.split{margin-bottom: 2rem}
 section.split > p{margin: 0}
 h1.split > p {margin: 1rem 0}
 
-.split > [lang="en"]{grid-column: 2; max-width: 25rem}
+.split > [lang="en"]{grid-column: 2; max-width: 30rem}
 
 .sp{grid-column: 4;
     font-family: "nasin-nanpa", sans-serif;
-    width: 10rem; min-width: 10rem
+    width: 12rem; min-width: 12rem
 }
 
 .numbering{display:none}
