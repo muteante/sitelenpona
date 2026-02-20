@@ -15,7 +15,7 @@ body{margin:0;
 
 main{margin-bottom: 4rem}
 
-h1{margin-block: 1rem; border-bottom: solid var(--loje-6) 2px;
+h1{margin-block: 1rem; border-bottom: dotted var(--loje-6) 3px;
     font-weight:800; font-variation-settings:"wdth" 75;
 }
 
