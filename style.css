@@ -6,6 +6,7 @@
 body{margin:0;
     --jelo-7: #cb5300;
     --jelo-5: #ff7400;
+    --jelo-1: #ffe3d2;
     --lupa: #0063fd;
     background-color: white; color: black;
     font-family: 'Nunito Sans', sans-serif
@@ -15,8 +16,8 @@ body{margin:0;
 
 main{margin-bottom: 4rem}
 
-h1{margin: 4rem 0 1rem; border-bottom: dotted var(--jelo-5) 3px;
-    font-variation-settings:"wdth" 75;
+h1{margin: 4rem auto 1rem; border-bottom: dotted var(--jelo-5) 3px;
+    font-variation-settings:"wdth" 75; width: fit-content;
 }
 
 .split{display: grid; grid-template-columns:auto minmax(0, 30rem) minmax(1rem, 7vw) minmax(0, 12rem) auto;
@@ -42,12 +43,12 @@ main img{width: 100%; max-width: calc(42rem + 7vw); margin: 1rem auto 4rem; disp
     .split{padding: 0 6vw}}
 
 @media (width < 580px) {
-    .split {grid-template-columns: 2rem 1fr; padding-inline: 1rem; gap: 1rem 0;
+    .split {grid-template-columns: 2rem 1fr 2rem; padding-inline: 1rem; gap: 1rem 0;
     }
     .numbering{display:inline; font-size: 12px; font-weight: 700; grid-column: 1}
     .split > :not(.numbering){grid-column: 2}
     .split > [lang="en"]{width: unset; max-width: 25rem}
-    h1.split{gap: 0}
+    h1.split{gap: 0; margin: 4rem auto 1rem}
     h1.split > [lang="en"]{margin-bottom:0}
     h1.split > .sp{margin-top:0}
     section.split > p{margin-bottom:0}
