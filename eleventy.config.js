@@ -14,15 +14,13 @@ export default async function (eleventyConfig) {
 
         console.log(insa);
         let groups = insa.split(/\n{2,}/);
-        console.log(groups);
         for(let linja of groups){
             linja = linja.replace("\n", "");
             if(linja !== "\n"){
                 pini = pini + `<p ${toki}>\n${linja}\n</p>`
 
-            }else{
-                console.log(linja+"mu");
             }
+            
         }
         return pini;
 
