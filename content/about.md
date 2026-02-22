@@ -18,11 +18,28 @@ permalink: index.html
 {% enden %}
 
 {% sp %}
-    kulupu pali pi sitelen pona li kulupu sona pi sitelen pona.
+    kulupu pali pi sitelen pona li kulupu sona pi sitelen pona   
+    ijo ale pi kulupu ni  
+    zz li sona wawa e sitelen pona  
+    zz li pali pi sitelen pona kepeken nasin ante
 
-    lawa e kulupu li musi li pali e ilo e lipu e linja e ijo ante.
+    ona pi kulupu ni   
+    zz li ken pali e ilo nanpa wawa   
+    zz li pana e sona pi nasin pona tawa kulupu   
+    zz li ken pali musi   
+    zz li ken pana e lipu toki   
+    zz li ken pali e nasin sitelen ilo sin   
+    zz li ijo ante kin
 
-    sona wawa la kulupu ni li wawa li suli e sitelen pona lon kulupu pi toki pona lon kulupu ante.
+    ni^ la   
+    zz kulupu li sama ilo pi sona mute  
+    kepeken ilo ni^> la   
+    zz nasin pi sitelen pona   
+    zz zz o kama wawa   
+    zz zz o kama suli  
+    zz zz zz lon kulupu pi toki+pona  
+    zz zz o kama ken  
+    zz zz zz lon kulupu pi toki+pona ala  
 {% endsp %}
 {% endsplit %}
 
