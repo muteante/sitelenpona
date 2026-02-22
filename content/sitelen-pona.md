@@ -1,7 +1,6 @@
 ---
 title: About Sitelen Pona
 permalink: sitelen-pona.html
-tags: information
 ---
 {% splith %}
     {% en %}What does Sitelen Pona look like?{% enden %}
