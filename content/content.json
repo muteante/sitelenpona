@@ -1,4 +1,4 @@
-{ 
-    "layout": "_layouts/informational.html",
+{
+    "layout": "_layouts/page.html",
     "tags": "informational"
 }

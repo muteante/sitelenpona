@@ -15,11 +15,11 @@ body {
     counter-reset: sp en;
 }
 
-.split p[lang="en"]::before {
+.split span[lang="en"] p::before {
   counter-increment: en; 
   content: "[" counter(en) "]";
 }
-.split p.sp::before {
+.split .sp p::before {
   counter-increment: sp; 
   content: "[" counter(sp) "]";
 }
