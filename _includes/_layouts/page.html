@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/assets/style.css" rel="stylesheet" type="text/css" media="all">
+    <link rel="icon" type="image/x-icon" href="/assets/sitelen/favicon.png">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wdth,wght@0,12,75..100,400..800;1,12,100,400..800&display=swap"
+        rel="stylesheet">
+    <title>About Us</title>
+</head>
+
+<body>
+    <header id="top_bar">
+
+        <style>
+            header {
+                padding: 1rem;
+                background-color: var(--jelo-1);
+                color: var(--jelo-7);
+                display: grid;
+                grid-template-columns: auto minmax(0, 30rem) minmax(1rem, 7vw) minmax(0, 12rem) auto
+            }
+
+            header>div {
+                grid-column: 2 / 5;
+                display: grid;
+                grid-template-columns: 3rem 1fr 2fr;
+                gap: min(3rem, 4vw);
+                width: fit-content
+            }
+
+            header img {
+                height: 3rem
+            }
+
+            header>div>p {
+                margin: 0
+            }
+
+            header>div>p:not(.sp) {
+                font-weight: 700
+            }
+
+            header>div>.sp {
+                min-width: unset;
+                width: unset
+            }
+
+            header [lang="en"],
+            header [lang="tok"] {
+                grid-column: unset
+            }
+
+            @media (width < 800px) {
+                header {
+                    padding: 1rem calc(3vw + 1rem)
+                }
+
+                header>div>p:lang(tok):not(.sp) {
+                    display: none
+                }
+            }
+
+            @media (width < 550px) {
+                header>div>p:lang(en) {
+                    display: none
+                }
+
+                header>div {
+                    grid-template-columns: 3rem 1fr
+                }
+            }
+        </style>
+        <div>
+            <img src="/assets/sitelen/logo.svg">
+            <p lang="tok" class="sp">kulupu pali pi sitelen pona</p>
+            <p lang="en">sitelen pona publishers &<br>typographers association</p>
+        </div>
+</body>
+</header>
+<main>
+
+<h1>{{ title }}</h1>
+{{ content }}
+
+</main>
+<footer class="split">
+    <p lang="en" style="color:var(--jelo-7); margin-top: 4rem">This website uses Nunito Sans, linja lipamanka (both
+        licensed under the SIL) and nasin-nanpa (licensed under the MIT License.)</p>
+    </section>
+</footer>
+
+<script>
+    $("#top_bar").load("header.html");
+</script>
+</body>
+
+</html>

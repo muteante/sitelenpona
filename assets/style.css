@@ -1,0 +1,161 @@
+@font-face {
+    font-family: "nasin-nanpa";
+    src: url("nasin-nanpa-5.0.0-beta.2a.otf") format("opentype")
+}
+
+body {
+    margin: 0;
+    --jelo-7: #cb5300;
+    --jelo-5: #ff7400;
+    --jelo-1: #ffe3d2;
+    --lupa: #0063fd;
+    background-color: white;
+    color: black;
+    font-family: 'Nunito Sans', sans-serif;
+    counter-reset: sp en;
+}
+
+.split span[lang="en"] p::before {
+  counter-increment: en; 
+  content: "[" counter(en) "]";
+}
+.split .sp p::before {
+  counter-increment: sp; 
+  content: "[" counter(sp) "]";
+}
+.split p::before{
+    font-family: 'Nunito Sans', sans-serif;
+    position: absolute;
+    left: -2rem;
+    font-size: 0.6em;
+    font-weight: 800;
+    opacity: 0;
+}
+.split p {
+    position: relative;
+}
+
+
+::selection {
+    background-color: var(--jelo-5);
+    color: white;
+}
+
+main {
+    margin-bottom: 4rem;
+}
+
+h1 {
+    font-variation-settings: "wdth" 75;
+    font-size: 2em;
+    text-align: center;
+}
+
+h2 {
+    margin: 4rem auto 1rem;
+    border-bottom: dotted var(--jelo-5) 3px;
+    font-variation-settings: "wdth" 75;
+    font-size: 2em;
+
+    width: fit-content; 
+}
+
+.split {
+    display: grid;
+    grid-template-columns: auto minmax(0, 30rem) minmax(1rem, 7vw) minmax(0, 12rem) auto;
+    grid-auto-flow: dense;
+    gap: 1rem 0;
+    padding: 0 1rem;
+}
+
+section.split {
+    margin: 0
+}
+
+h2.split>p {
+    margin: 1rem 0
+}
+
+.split>[lang="en"] {
+    grid-column: 2;
+    max-width: 30rem
+}
+
+.sp {
+    grid-column: 4;
+    font-family: "nasin-nanpa", sans-serif;
+    width: 12rem;
+    min-width: 12rem
+}
+
+
+
+a {
+    color: var(--lupa)
+}
+
+main img {
+    width: 100%;
+    max-width: calc(42rem + 7vw);
+    margin: 1rem auto 4rem;
+    display: block
+}
+
+@media (width < 800px) {
+    .split {
+        padding: 0 6vw
+    }
+}
+
+@media (width < 580px) {
+    .split p::before{
+        opacity: 1;
+    }
+    h2{
+        width: inherit;
+    }
+
+
+    .split {
+        grid-template-columns: 2rem 1fr 2rem;
+        padding-inline: 1rem;
+        gap: 1rem 0;
+    }
+
+    .numbering {
+        display: inline;
+        font-size: 12px;
+        font-weight: 700;
+        grid-column: 1
+    }
+
+    .split> :not(.numbering) {
+        grid-column: 2
+    }
+
+    .split>[lang="en"] {
+        width: unset;
+        max-width: 25rem
+    }
+
+    h2.split {
+        gap: 0;
+        margin: 4rem auto 1rem;
+
+    }
+
+    h2.split>[lang="en"] {
+        margin-bottom: 0
+    }
+
+    h2.split>.sp {
+        margin-top: 0
+    }
+
+    section.split> {
+        margin-bottom: 0
+    }
+}
+h2:first-of-type{
+    margin-block-start: 0em;
+}
