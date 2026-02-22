@@ -1,9 +1,8 @@
-import fs from "fs";
-import matter from "gray-matter";
+import { HtmlBasePlugin } from "@11ty/eleventy";
 
 export default async function (eleventyConfig) {
-    // Configure Eleventy
     eleventyConfig.addPassthroughCopy("assets/");
+    eleventyConfig.addPlugin(HtmlBasePlugin);
 
     eleventyConfig.addPairedShortcode("en", (insa) => `<span lang="en">\n${insa}\n</span>`);
     eleventyConfig.addPairedShortcode("sp", (insa) => `<span lang="tok" class="sp">\n${insa}\n</span>`);
