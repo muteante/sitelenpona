@@ -45,3 +45,37 @@ o toki pona e mi a
 {% endsp %}
 {% endsplit %}
 
+{% splith %}
+    {% en %}Contact{% enden %}
+    {% sp %}o toki tawa mi{% endsp %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+Our registered address: 
+
+1081-1249 RUE DU SUSSEX  
+MONTRÉAL QC  H3H 2A1  
+CANADA  
+{% enden %}
+
+{% sp %}
+sina wile pana e ijo tawa kulupu la   
+zz o sitelen e sona ale ni 
+
+nanpa tomo    
+zz li open tan tomo nanpa luka luka ale mute mute mute mute wan   
+zz li pini lon tomo nanpa luka luka tu ale mute mute luka tu tu  
+nimi pi nasin tomo   
+zz li te ma [suno . seli .] to<br>   
+nimi pi ma tomo   
+zz li ma [monsi .. ken . laso .]  
+nimi pi ma lili  
+zz li ma [ken . pilin esun]  
+nanpa pi ma pana  
+zz li te H3H zz 2A1 to<br>  
+nimi pi ma suli  
+zz li ma [kasi . nasin . taso .]   
+{% endsp %}
+{% endsplit %}
+

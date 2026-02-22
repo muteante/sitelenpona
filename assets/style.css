@@ -15,12 +15,10 @@ body {
     counter-reset: sp en;
 }
 
-.split span[lang="en"] p::before {
-  counter-increment: en; 
+.split p[lang="en"]:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: en; 
   content: "[" counter(en) "]";
 }
-.split .sp p::before {
-  counter-increment: sp; 
+.split p.sp:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sp; 
   content: "[" counter(sp) "]";
 }
 .split p::before{
