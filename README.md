@@ -28,7 +28,9 @@ English Content
 
 {% sp %}
 SP Content
-{% sp %}
+{% endsp %}
+{% endsplit %}
+
 ```
 
 `{% splith %}` and `{% split %}` and `{% sp %}` and `{% en %}` are [custom paired shortcodes](https://www.11ty.dev/docs/shortcodes/#paired-shortcodes) that are set up in eleventy.config.js. they expand into html right before the converstion from Markdown to HTML happens, so you can use Markdown content within the shortcodes. 
