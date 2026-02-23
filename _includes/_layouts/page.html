@@ -72,7 +72,6 @@
                 grid-column: 4;
                 justify-self: right;
                 background-color: white;
-                padding: .75rem;
                 outline: solid 2px var(--jelo-7);
                 border-radius: .5rem;
                 box-shadow: var(--jelo-1) 0 0 8px;
@@ -84,7 +83,8 @@
             }
 
             nav summary{
-                list-style-type: none
+                list-style-type: none;
+                padding: .75rem;
             }
 
             nav summary:hover{
@@ -92,12 +92,13 @@
             }
 
             nav details[open] {
+                padding: .75rem;
                 padding-bottom: .25rem
             }
 
             nav details[open] summary{
                 margin-bottom: 1rem;
-                padding-bottom: 1rem;
+                padding: 0 0 1rem;
                 border-bottom: dotted var(--jelo-8) 2px;
                 width: 100%;
             }
