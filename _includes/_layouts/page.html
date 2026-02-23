@@ -76,6 +76,11 @@
                 outline: solid 2px var(--jelo-7);
                 border-radius: .5rem;
                 box-shadow: var(--jelo-1) 0 0 8px;
+                text-align: right
+            }
+
+            nav a {
+                color: var(--jelo-8)
             }
 
             nav summary{
@@ -89,7 +94,7 @@
             nav details[open] summary{
                 margin-bottom: 1rem;
                 padding-bottom: 1rem;
-                border-bottom: dotted var(--jelo-5);
+                border-bottom: dotted var(--jelo-8) 2px;
                 width: 100%;
             }
 
@@ -109,7 +114,7 @@
                 margin-top: 2rem;
             }
 
-            footer a {
+            footer a, nav a {
                 display: block;
                 margin-bottom: .5rem
             }
@@ -154,7 +159,7 @@
 <nav>
     <details>
     <summary><img src="/assets/sitelen/menu.svg"></summary>
-    <a href="about">about us</a>
+    <a href="">about us</a>
     <a href="sitelen-pona">about sitelen pona</a>
     </details>
 </nav>
