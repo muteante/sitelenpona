@@ -65,10 +65,11 @@ h2 {
     display: grid;
     grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
     grid-auto-flow: dense;
+    gap: 1rem 0;
     padding: 0 1rem;
 }
 
-section.split {
+span.split {
     margin: 0
 }
 
@@ -143,7 +144,7 @@ main img {
         margin-top: 0
     }
 
-    section.split>p {
+    span.split> {
         margin-bottom: 0
     }
 }
