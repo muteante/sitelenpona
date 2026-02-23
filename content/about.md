@@ -14,7 +14,7 @@ permalink: index.html
 
     We’re software developers, community leaders, artists, publishers, typographers, and more.
 
-    Using our combined expertise, we organize to promote the development and proliferation of Sitelen Pona within the Toki Pona community and beyond.
+    Using our combined expertise, we organize to promote the advancement and proliferation of Sitelen Pona within the Toki Pona community and beyond.
 {% enden %}
 
 {% sp %}
