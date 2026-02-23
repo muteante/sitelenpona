@@ -57,6 +57,9 @@
             }
 
             nav{
+                position: absolute;
+                width: 100%;
+                top: 1rem;
                 display: grid;
                 grid-template-columns:auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
             }
@@ -88,6 +91,11 @@
             @media (width < 800px) {
                 header, nav {
                     padding: 1rem calc(3vw + 1rem)
+                }
+
+                nav{
+                    width: calc(97vw - 3rem);
+                    top: 0
                 }
 
                 header>div>p:lang(tok):not(.sp) {
