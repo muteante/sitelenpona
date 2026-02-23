@@ -66,6 +66,9 @@
             }
 
             nav > details{
+                display: flex;
+                flex-direction: column;
+                align-items: end;
                 grid-column: 4;
                 justify-self: right;
                 background-color: white;
@@ -79,9 +82,21 @@
                 list-style-type: none
             }
 
+            nav summary:hover{
+                cursor: pointer
+            }
+
+            nav details[open] summary{
+                margin-bottom: 1rem;
+                padding-bottom: 1rem;
+                border-bottom: dotted var(--jelo-5);
+                width: 100%;
+            }
+
             nav img{
                 height: 1.5rem;
-                display: block
+                display: block;
+                margin-left: auto
             }
 
             footer {
@@ -139,7 +154,8 @@
 <nav>
     <details>
     <summary><img src="/assets/sitelen/menu.svg"></summary>
-    testing 123
+    <a href="about">about us</a>
+    <a href="sitelen-pona">about sitelen pona</a>
     </details>
 </nav>
 
