@@ -14,7 +14,7 @@ permalink: index.html
 
     We’re software developers, community leaders, artists, publishers, typographers, and more.
 
-    Using our combined expertise, we organize to promote the development and proliferation of Sitelen Pona within the Toki Pona community and beyond.
+    Using our combined expertise, we organize to promote the advancement and proliferation of Sitelen Pona within the Toki Pona community and beyond.
 {% enden %}
 
 {% sp %}
@@ -90,9 +90,9 @@ tenpo kama la lipu sona o ken e ni> zz ilo ale a li ken kepeken sitelen pona
 
 
 ma [kasi . nasin . taso .] la   
-zz <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">lipu li nasin e kulupu esun pi wile mani ala</a> li nasin e kulupu pali pi sitelen pona
-sina wile lon kulupu la nanpa wan la kulupu o wile e sina  
-zz sina wile ala pana e mani
+zz <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">lipu li nasin e kulupu esun pi wile mani ala</a> li nasin e kulupu pali pi sitelen pona  
+sina wile lon kulupu la nanpa wan la kulupu o wile e sina    
+zz sina wile ala pana e mani  
 sina wile kama lon kulupu la <a href="">nasin toki pi wile kama</a> li lon 
 {% endsp %}
 {% endsplit %}
