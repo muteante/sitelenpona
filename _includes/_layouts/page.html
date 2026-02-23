@@ -87,13 +87,23 @@
             nav summary{
                 list-style-type: none;
                 padding: .75rem;
+
             }
 
             nav summary:hover{
                 cursor: pointer
             }
+            nav summary:focus-visible{ 
+                outline: none;
 
-            nav details:hover, nav details[open]{
+            }
+             details:has(summary:focus-visible){ 
+                outline: 0.1rem solid var(--lupa);  
+                border-radius: 0.5rem;
+            }
+
+
+            nav details:is(:hover, [open], :focus-within) {
                 box-shadow: var(--jelo-5) .5rem .5rem;
             }
 
@@ -182,7 +192,7 @@
 
 <nav>
     <details>
-    <summary><img src="/assets/sitelen/menu.svg"></summary>
+    <summary><img alt="Menu" src="/assets/sitelen/menu.svg"></summary>
     <a href="">about us</a>
     <a href="sitelen-pona">about sitelen pona</a>
     </details>
