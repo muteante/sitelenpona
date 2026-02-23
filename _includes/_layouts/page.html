@@ -57,7 +57,7 @@
             }
 
             nav{
-                position: absolute;
+                position: fixed;
                 width: 100%;
                 top: 1rem;
                 display: grid;
@@ -67,6 +67,15 @@
             nav > details{
                 grid-column: 4;
                 justify-self: right
+            }
+
+            nav summary{
+                list-style-type: none
+            }
+
+            nav img{
+                height: 2rem;
+                display: block
             }
 
             footer {
@@ -94,7 +103,7 @@
                 }
 
                 nav{
-                    width: calc(97vw - 3rem);
+                    width: calc(96vw - 3rem);
                     top: 0
                 }
 
