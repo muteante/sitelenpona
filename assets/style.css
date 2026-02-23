@@ -47,9 +47,15 @@ main {
 }
 
 h1 {
+    display: grid;
+    grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
     font-variation-settings: "wdth" 75;
     font-size: 2em;
-    text-align: center;
+    text-align: left;
+}
+
+h1 {
+    grid-column: 2 / 5;
 }
 
 h2 {
@@ -65,7 +71,7 @@ h2 {
     display: grid;
     grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
     grid-auto-flow: dense;
-    gap: 1rem 0;
+    /*gap: 1rem 0;*/
     padding: 0 1rem;
 }
 
