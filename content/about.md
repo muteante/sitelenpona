@@ -104,14 +104,14 @@ CANADA
 {% sp %}
 sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni.
 
-nanpa tomo li open tan tomo nanpa luka luka ale mute mute mute mute wan  li pini lon tomo nanpa luka luka tu ale mute mute luka tu tu.
-nimi pi nasin tomo  li te ma [suno . seli .] to.
-nimi pi ma tomo  li ma [monsi .. ken . laso .].
-nimi pi ma lili li ma [ken . pilin esun].
-nanpa pi ma pana li te H3H zz 2A1 to.
-nimi pi ma suli li ma [kasi . nasin . taso .].
+nanpa pi(tomo+suli) li nanpa luka luka ale mute mute mute mute wan.  
+nanpa pi(tomo+lili) li nanpa luka luka tu ale mute mute luka tu tu.  
+nimi pi nasin tomo li te ma [suno . seli .] to.  
+nimi pi ma tomo  li ma [monsi .. ken . laso .].  
+nimi pi ma lili li ma [ken . pilin esun].  
+nanpa pi ma pana li te H3H zz 2A1 to.  
+nimi pi ma suli li ma [kasi . nasin . taso .].  
 {% endsp %}
-
 
 <!--{% sp %}
 sina wile pana e ijo tawa kulupu la   
