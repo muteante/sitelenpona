@@ -9,6 +9,8 @@ body {
     --jelo-5: #ff7400;
     --jelo-1: #ffe3d2;
     --lupa: #0063fd;
+    --sp-split: 15rem;
+    --en-split: 15rem;
     background-color: white;
     color: black;
     font-family: 'Nunito Sans', sans-serif;
@@ -60,7 +62,7 @@ h2 {
 
 .split {
     display: grid;
-    grid-template-columns: auto minmax(0, 30rem) minmax(1rem, 7vw) minmax(0, 12rem) auto;
+    grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
     grid-auto-flow: dense;
     gap: 1rem 0;
     padding: 0 1rem;
@@ -76,14 +78,15 @@ h2.split>p {
 
 .split>[lang="en"] {
     grid-column: 2;
-    max-width: 30rem
+    max-width: var(--en-split);
+
 }
 
 .sp {
     grid-column: 4;
     font-family: "nasin-nanpa", sans-serif;
-    width: 12rem;
-    min-width: 12rem
+    width: var(--sp-split);
+    min-width: var(--sp-split);
 }
 
 
@@ -106,40 +109,30 @@ main img {
 }
 
 @media (width < 580px) {
+
+    body{
+        --en-split: 25rem;
+        --sp-split: 15rem;
+    }
+ 
     .split p::before{
         opacity: 1;
     }
+    
     h2{
         width: inherit;
     }
 
 
     .split {
-        grid-template-columns: 2rem 1fr 2rem;
-        padding-inline: 1rem;
-        gap: 1rem 0;
-    }
-
-    .numbering {
-        display: inline;
-        font-size: 12px;
-        font-weight: 700;
-        grid-column: 1
-    }
-
-    .split> :not(.numbering) {
-        grid-column: 2
-    }
-
-    .split>[lang="en"] {
-        width: unset;
-        max-width: 25rem
+        display: flex;
+        flex-direction: column;
+        padding-inline-start: 3rem;
     }
 
     h2.split {
         gap: 0;
         margin: 4rem auto 1rem;
-
     }
 
     h2.split>[lang="en"] {
