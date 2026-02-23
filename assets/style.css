@@ -9,8 +9,8 @@ body {
     --jelo-5: #ff7400;
     --jelo-1: #ffe3d2;
     --lupa: #0063fd;
-    --sp-split: 15rem;
-    --en-split: 15rem;
+    --sp-split: 20rem;
+    --en-split: 20rem;
     background-color: white;
     color: black;
     font-family: 'Nunito Sans', sans-serif;
@@ -26,9 +26,10 @@ body {
 .split p::before{
     font-family: 'Nunito Sans', sans-serif;
     position: absolute;
+    top: 0.15rem;
     left: -2rem;
-    font-size: 0.6em;
-    font-weight: 800;
+    font-size: 0.6rem;
+    font-weight: 700;
     opacity: 0;
 }
 .split p {
@@ -108,7 +109,7 @@ main img {
     }
 }
 
-@media (width < 580px) {
+@media (width < 700px) {
 
     body{
         --en-split: 25rem;

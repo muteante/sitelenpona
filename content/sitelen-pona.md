@@ -9,11 +9,15 @@ permalink: sitelen-pona.html
 
 {% split %}
 {% en %}
-In Sitelen Pona, each Toki Pona word can be represented by one simple pictogram or, ‘glyph.’ Sitelen Pona’s glyphs often look like the things they describe. For example, here are the symbols for tomo (house, structure), pipi (bug, insect), and sike (circle, round, cycle).
+In Sitelen Pona, each word can be represented by one simple pictogram or, ‘glyph,' that often looks like the thing it describes. Here are the symbols for tomo (house), pipi (bug), and sike (circle).
 {% enden %}
 
 {% sp %}
-sitelen pona la nimi wan li sitelen wan. tenpo mute la sitelen li lukin sama toki ona. o lukin e sitelen anpa:
+sitelen pona la nimi wan li sitelen wan  
+tenpo mute la sina sona ala e nasin pi sitelen pona la   
+zz sina awen ken sona e nimi sitelen tan lukin taso  
+zz sitelen li sitelen e ijo nimi  
+tomo en pipi en sike li sitelen e tomo e pipi e sike  
 {% endsp %}
 {% endsplit %}
 
@@ -25,7 +29,15 @@ Sitelen Pona is usually written from left to right, from top to bottom. Glyphs c
 {% enden %}
 
 {% sp %}
-nasin tawa pi sitelen pona li sama sitelen [la.sina:]. sitelen mute li ken kama wan. tomo pipi la pipi li ken lon insa pi sitelen tomo. pipi sike la sitelen sike li ken lon sewi pi pipi.
+nasin tawa pi sitelen pona li sama sitelen [la.sina:] lon tenpo mute  
+o open lon sewi o pini lon anpa  
+sitelen tu li ken kama sama sitelen wan   
+tomo pipi la sitelen pipi li ken lon insa pi sitelen tomo  
+zz o lukin pona e  tomo+pipi  
+pipi sike la sitelen sike li ken lon sewi pi sitelen pipi  
+zz o lukin pona e pipi-sike
+
+
 {% endsp %}
 {% endsplit %}
 
@@ -33,7 +45,7 @@ nasin tawa pi sitelen pona li sama sitelen [la.sina:]. sitelen mute li ken kama 
 
 {% splith %}
     {% en %}What are the advantages of Sitelen Pona?{% enden %}
-    {% sp %}sitelen pona li pona seme{% endsp %}
+    {% sp %}sitelen pona li ken pona seme{% endsp %}
 {% endsplith %}
 
 {% split %}
@@ -42,6 +54,11 @@ For Toki Pona, a language that has less than 150 words, writing with pictographs
 {% enden %}
 
 {% sp %}
-toki pona li jo e nimi pi nanpa lili la sitelen pona li pona a. lipu la sitelen li lili li kepeken tenpo lili. o toki pona e mi a
+nimi pi toki+pona li mute lili la sitelen pi toki+pona li ken mute lili kin  
+kepeken palisa sitelen la luka li ken sitelen pona kepeken tenpo lili   
+zz li ken ala sitelen [la.sina:] kepeken tenpo pi lili sama  
+sitelen pona li ken pona sona tawa lukin la jan pi mute lili li toki e ni  
+te mi lukin e toki kepeken sitelen pona la ken lukin mi li pona  
+zz mi kepeken sitelen [la.sina:] la ken lukin mi li pona sama ala to
 {% endsp %}
 {% endsplit %}
