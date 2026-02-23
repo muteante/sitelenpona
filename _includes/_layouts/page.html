@@ -63,12 +63,16 @@
             }
 
             footer > p {
-            margin-top: 2rem;
+                margin-top: 2rem;
             }
 
             footer a {
-            display: block;
-            margin-bottom: .5rem
+                display: block;
+                margin-bottom: .5rem
+            }
+
+            footer > p::before{
+                display: none
             }
 
             @media (width < 800px) {
@@ -92,12 +96,20 @@
             }
         </style>
         <div>
-            <img src="/assets/sitelen/logo.svg">
+            <img alt="association logo" src="/assets/sitelen/logo.svg">
             <p lang="tok" class="sp">kulupu pali pi sitelen pona</p>
             <p lang="en">sitelen pona publishers &<br>typographers association</p>
         </div>
 </body>
 </header>
+
+<nav>
+    <details>
+    <summary><img src="/assets/sitelen/menu.svg"></summary>
+    testing 123
+    </details>
+</nav>
+
 <main>
 
 <h1 class="split"><div>{{ title }}<div></h1>
