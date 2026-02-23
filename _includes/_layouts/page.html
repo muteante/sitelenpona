@@ -74,8 +74,8 @@
                 background-color: white;
                 outline: solid 2px var(--jelo-7);
                 border-radius: .5rem;
-                box-shadow: var(--jelo-1) 0 0 8px;
-                text-align: right
+                text-align: right;
+                transition: all .25s cubic-bezier(0,1,0,1)
             }
 
             nav a {
@@ -89,6 +89,10 @@
 
             nav summary:hover{
                 cursor: pointer
+            }
+
+            nav details:hover, nav details[open]{
+                box-shadow: var(--jelo-5) .5rem .5rem;
             }
 
             nav details[open] {
