@@ -5,6 +5,8 @@
 
 body {
     margin: 0;
+    /* numbers are approximate APCA contrast ÷ 10 */
+    --jelo-8: #a64300;
     --jelo-7: #cb5300;
     --jelo-5: #ff7400;
     --jelo-1: #ffe3d2;
