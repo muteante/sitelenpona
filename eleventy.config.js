@@ -1,34 +1,34 @@
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import markdownItContainer from 'markdown-it-container';
+import markdownItAttrs from 'markdown-it-attrs';
 
 export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/");
     eleventyConfig.addPlugin(HtmlBasePlugin);
-
-    eleventyConfig.addPairedShortcode("en", (insa) => spansByLine('lang="en"', insa));
-
-    eleventyConfig.addPairedShortcode("sp", (insa) => spansByLine('class=sp lang="tok"', insa));
-
-    function spansByLine(toki, insa){
-        insa = insa.replace(/[^\S\n]{2,}\n/g, "<br>");
-        let pini = "";
-
-        console.log(insa);
-        let groups = insa.split(/\n{2,}/);
-        for(let linja of groups){
-            linja = linja.replace("\n", "");
-            if(linja !== "\n"){
-                pini = pini + `<p ${toki}>\n${linja}\n</p>`
-
+    eleventyConfig.amendLibrary("md", (md) => {
+        md.use(markdownItAttrs);
+        md.use(markdownItContainer, 'attr', {
+            render(tokens, idx, options, env, renderer) {
+                let token = tokens[idx];
+                if (token.type == 'container_attr_open') {
+                    let level = 0;
+                    for (let inner = idx + 1; tokens[inner].type != 'container_attr_close'; inner++) {
+                        level += tokens[inner].nesting;
+                        if (tokens[inner].nesting == 1 && level == 1) {
+                            for (let attr of token.attrs) {
+                                tokens[inner].attrPush(attr);
+                            }
+                        }
+                    }
+                }
+                return '';
             }
-            
-        }
-        return pini;
+        });
+    });
 
-    }
+    eleventyConfig.addPairedShortcode("en", (insa) => insa.startsWith('\n') ? `::: attr {lang=en}\n${insa}\n:::` : `<span lang="en">${insa}</span>`);
+    eleventyConfig.addPairedShortcode("sp", (insa) => insa.startsWith('\n') ? `::: attr {.sp lang=tok}\n${insa}\n:::` : `<span class="sp" lang="tok">${insa}</span>`);
 
     eleventyConfig.addPairedShortcode("split", (insa) => `<span class="split">\n${insa}\n</span>`);
     eleventyConfig.addPairedShortcode("splith", (insa, suli = 2) => `<h${suli} class="split">${insa}</h${suli}>`);
-
-
-
 };
