@@ -23,7 +23,7 @@
                 background-color: var(--jelo-1);
                 color: var(--jelo-7);
                 display: grid;
-                grid-template-columns: auto minmax(0, 30rem) minmax(1rem, 7vw) minmax(0, 12rem) auto
+                grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto
             }
 
             header>div {
@@ -56,6 +56,16 @@
                 grid-column: unset
             }
 
+            nav{
+                display: grid;
+                grid-template-columns:auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
+            }
+
+            nav > details{
+                grid-column: 4;
+                justify-self: right
+            }
+
             footer {
                 color: var(--jelo-8);
                 margin-bottom: 2rem;
@@ -76,7 +86,7 @@
             }
 
             @media (width < 800px) {
-                header {
+                header, nav {
                     padding: 1rem calc(3vw + 1rem)
                 }
 
