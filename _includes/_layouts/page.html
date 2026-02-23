@@ -31,7 +31,7 @@
                 display: grid;
                 grid-template-columns: 3rem 1fr 2fr;
                 gap: min(3rem, 4vw);
-                width: fit-content
+                width: fit-content;
             }
 
             header img {
@@ -58,6 +58,7 @@
 
             nav{
                 position: fixed;
+                z-index: 2;
                 width: 100%;
                 top: 1rem;
                 display: grid;
@@ -66,7 +67,12 @@
 
             nav > details{
                 grid-column: 4;
-                justify-self: right
+                justify-self: right;
+                background-color: white;
+                padding: .75rem;
+                outline: solid 2px var(--jelo-7);
+                border-radius: .5rem;
+                box-shadow: var(--jelo-1) 0 0 8px;
             }
 
             nav summary{
@@ -74,7 +80,7 @@
             }
 
             nav img{
-                height: 2rem;
+                height: 1.5rem;
                 display: block
             }
 
