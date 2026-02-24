@@ -104,13 +104,8 @@ h2.split>p {
 
 a {
     color: var(--lupa);
-    transition: all .25s cubic-bezier(0,1,0,1)
 }
 
-a:hover{
-    color: var(--lupa-pimeja)
-
-}
 
 main img {
     width: 100%;
