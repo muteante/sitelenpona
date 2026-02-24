@@ -14,11 +14,13 @@ permalink: members.html
 {% assign all = members %}
 {% assign current = members | where: 'listed', 'true' %}
 {% assign others = members | where: 'listed', 'false' %}
+{% assign former = former %}
+
 
 
 {% splith %}
     {% en %}Current Members{% enden %}
-    {% sp %}seme li lon kulupu lon tenpo ni{% endsp %}
+    {% sp %}seme li lon kulupu{% endsp %}
 {% endsplith %}
 
 {% split %}
@@ -62,7 +64,28 @@ permalink: members.html
 
 
 
+{% splith %}
+    {% en %}Former Members{% enden %}
+    {% sp %}seme li weka tan kulupu {% endsp %}
+{% endsplith %}
 
+<div id="condensed" markdown="1">
+
+{% split %}
+{% en %}
+        {% for item in former %}
+            {{ item.enname }} 
+        {% endfor %}
+
+{% enden %}
+{% sp %}
+        {% for item in former %}
+            {{ item.spname }} 
+        {% endfor %}
+
+{% endsp %}
+{% endsplit %}
+</div>
 
 
 
