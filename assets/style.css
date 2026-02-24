@@ -11,6 +11,7 @@ body {
     --jelo-5: #ff7400;
     --jelo-1: #ffe3d2;
     --lupa: #0063fd;
+    --lupa-pimeja: #000099;
     --sp-split: 20rem;
     --en-split: 20rem;
     background-color: white;
@@ -102,7 +103,13 @@ h2.split>p {
 
 
 a {
-    color: var(--lupa)
+    color: var(--lupa);
+    transition: all .25s cubic-bezier(0,1,0,1)
+}
+
+a:hover{
+    color: var(--lupa-pimeja)
+
 }
 
 main img {
