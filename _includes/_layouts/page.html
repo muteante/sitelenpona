@@ -189,6 +189,19 @@
                 }
             }
         </style>
+        <script>
+            function langChange(selection) {
+
+                var index = selection.selectedIndex;
+                if (index == 1) {
+                    document.querySelector("body").className = "en"
+                }
+                if (index == 2) {
+                    document.querySelector("body").className = "sp"
+                }
+
+            }
+        </script>
         <div>
             <img alt="association logo" src="/assets/sitelen/logo.svg">
             <p lang="tok" class="sp">kulupu pali pi sitelen pona</p>
@@ -204,7 +217,7 @@
     <a href="sitelen-pona">about sitelen pona</a>
     <a href="members">our members</a>
     <a href="contact">contact</a>
-    <select for="language-select">
+    <select for="language-select" onchange="langChange(this);">
         <option value="bilingual" lang="en">Bilingual</option>
         <option value="english" lang="en">English only</option>
         <option value="sitelen-pona" lang="sp">sitelen pona taso</option>
