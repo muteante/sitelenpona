@@ -118,7 +118,7 @@ main img {
 body.en-only .split p::before, body.sp-only .split p::before{
     display: none
 }
-body.en-only .split p, body.sp-only .split p{
+body.en-only .split:not(h1, footer) *, body.sp-only .split:not(h1, footer) *{
     grid-column: 2 / 5;
     margin-bottom: 0;
 }

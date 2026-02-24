@@ -193,6 +193,9 @@
             function langChange(selection) {
 
                 var index = selection.selectedIndex;
+                if (index == 0) {
+                    document.querySelector("body").className = "en-and-sp"
+                }
                 if (index == 1) {
                     document.querySelector("body").className = "en-only"
                 }
