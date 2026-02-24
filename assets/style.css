@@ -114,11 +114,11 @@ main img {
     display: block
 }
 
-body.en-only split .sp{
+body.en-only .split .sp{
     display: none
 }
 
-body.sp-only split:not(h1, footer) [lang="en"]{
+body.sp-only .split:not(h1, footer) [lang="en"]{
     display: none
 }
 
