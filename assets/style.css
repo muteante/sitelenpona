@@ -114,6 +114,14 @@ main img {
     display: block
 }
 
+body.en-only p.sp{
+    display: none
+}
+
+body.sp-only p[lang="en"]{
+    display: none
+}
+
 @media (width < 800px) {
     .split {
         padding: 0 6vw
