@@ -26,6 +26,26 @@ export default async function (eleventyConfig) {
         });
     });
 
+
+    eleventyConfig.addFilter("nnp", async function (nanpa) {
+        var nanpas = parseInt(nanpa.toString().split(".")[0]);
+        var sulinanpa = Math.floor((nanpas.toString().length - 1) / 2);
+        var nanpai = nanpas;
+        var nanpanimi = "";
+
+        for (var i = sulinanpa; i >= 0; i--) {
+            var nanpac = (nanpai - nanpai % (100 ** i)) / (100 ** i);
+            nanpanimi += "mute ".repeat(Math.floor(nanpac / 20))
+                + "luka ".repeat(Math.floor((nanpac % 20) / 5))
+                + "tu ".repeat(Math.floor((nanpac % 5) / 2))
+                + "wan ".repeat(nanpac % 5 % 2);
+            if (i > 0) nanpanimi += "ale ";
+            nanpai = nanpai % (100 ** i);
+        }
+
+        return nanpanimi;
+    });
+
     eleventyConfig.addPairedShortcode("en", (insa) => insa.startsWith('\n') ? `::: attr {lang=en}\n${insa}\n:::` : `<span lang="en">${insa}</span>`);
     eleventyConfig.addPairedShortcode("sp", (insa) => insa.startsWith('\n') ? `::: attr {.sp lang=tok}\n${insa}\n:::` : `<span class="sp" lang="tok">${insa}</span>`);
 
