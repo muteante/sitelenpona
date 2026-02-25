@@ -38,11 +38,18 @@ zz sina o pana sin e toki kepeken nimi pi ilo sin
 {% en %}
 Our registered address: 
 
+1081-1249 RUE DU SUSSEX  
+MONTRÉAL QC  H3H 2A1  
+CANADA  
+
+<!--
+Using <address> for some reason broke the two-column bilingual layout.
 <address> 
 1081-1249 RUE DU SUSSEX<br />  
 MONTRÉAL QC  H3H 2A1<br />  
 CANADA<br />  
 </address>
+-->
 {% enden %}
 
 {% sp %}
