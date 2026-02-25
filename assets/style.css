@@ -97,12 +97,9 @@ h2.split>p {
     font-family: "nasin-nanpa", sans-serif;
 }
 .split .sp{
-
         grid-column: 4;
-
-            width: var(--sp-split);
-    min-width: var(--sp-split);
-
+        width: var(--sp-split);
+        min-width: var(--sp-split);
 }
 
 
@@ -188,4 +185,23 @@ body.sp-only .split:not(h1, footer) [lang="en"]{
 }
 h2:first-of-type{
     margin-block-start: 0em;
+}
+
+@media (width >= 700px) {
+
+    body{
+        display: grid;
+        grid-template-columns: 15rem auto;
+        grid-template-rows: auto auto;}
+
+    #menu{display:none}
+
+    header{grid-column: 1/3; grid-row: 1}
+
+    main, footer{grid-column: 2; grid-row: 2}
+
+    #sidebar{
+        grid-column: 1; grid-row: 2
+    }
+
 }
