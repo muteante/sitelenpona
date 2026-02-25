@@ -94,10 +94,15 @@ h2.split>p {
 }
 
 .sp {
-    grid-column: 4;
     font-family: "nasin-nanpa", sans-serif;
-    width: var(--sp-split);
+}
+.split .sp{
+
+        grid-column: 4;
+
+            width: var(--sp-split);
     min-width: var(--sp-split);
+
 }
 
 
