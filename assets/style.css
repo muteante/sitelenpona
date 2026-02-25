@@ -192,13 +192,13 @@ h2:first-of-type{
     body{
         display: grid;
         grid-template-columns: 15rem auto;
-        grid-template-rows: auto auto;}
+        grid-template-rows: auto auto auto;}
 
     #menu{display:none}
 
     header{grid-column: 1/3; grid-row: 1}
-
-    main, footer{grid-column: 2; grid-row: 2}
+    main{grid-column: 2; grid-row: 2}
+    footer{grid-column: 1/3; grid-row: 3}
 
     #sidebar{
         grid-column: 1; grid-row: 2
