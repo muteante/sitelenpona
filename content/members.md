@@ -25,6 +25,7 @@ permalink: members.html
         text-align: center;
         justify-content: center;
         display: grid;
+        column-gap: 0.3rem;
     }
     .condensed [lang="en"]{
         white-space: nowrap;
@@ -32,6 +33,7 @@ permalink: members.html
     .condensed .sp{
         display: block;
         white-space: nowrap;
+    
         grid-column: 1 / 3;
         
     }
@@ -81,6 +83,28 @@ permalink: members.html
 {% endsplit %}
 
 
+{% splith %}
+    {% en %}Association President{% enden %}
+    {% sp %}jan lawa kulupu{% endsp %}
+{% endsplith %}
+
+
+{% split %}
+{% en %}
+Gregory Danielson III is serving as the association's president as of January 22, 2026. 
+
+{% enden %}
+{% sp %}
+
+mun lawa [ken . kalama . nasa][mute:] li kama jan lawa kulupu    
+zz lon tenpo suno nanpa mute tu lon tenpo mun nanpa wan   
+zz lon tenpo sike nanpa mute ale mute luka wan
+
+{% endsp %}
+{% endsplit %}
+
+
+
 
 {% splith %}
     {% en %}Former Members{% enden %}
@@ -92,6 +116,8 @@ permalink: members.html
 <li><span>{{ item.emoji }}</span><span lang="en"> {{ item.enname }}</span><span class="sp">{{item.spname}}</span> </li>
 {% endfor %}
 </ul>
+
+
 
 
 
