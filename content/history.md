@@ -250,11 +250,11 @@ tenpo ni la kulupu lili pali li jo e ilo ale wile. pali pi sitelen pona kulupu o
 {% en %}
 In 2025, armed with more usage data and a united vision, things progressed until the end was in sight. 
 
-Anticipating the eventual publication of Common Sitelen Pona, the working group agreed it would register itself as [a not-for-profit corporation in Canada](https://laws.justice.gc.ca/eng/acts/c-7.75/). The association was legally incorporated on July 28, 2025. 
+Anticipating the eventual publication of Common Sitelen Pona, the working group agreed it would register itself as [a not-for-profit corporation in Canada](https://laws.justice.gc.ca/eng/acts/c-7.75/). The association was legally incorporated on July 28, 2025.
 
 Using Mrs. Lang’s methodology, tiers of teachability for the main words were finalized by April, and representative glyphs were finalized by May.
 
-Some matters were resolved by alternative processes. Regarding the issue of whether certain alternate glyphs were semantically distinct enough to require separate codepoints, the organization studied the issue by community-wide outreach and then utilized that data to make a determination by vote. Regarding the teachability of specific punctuation marks and other features of Sitelen Pona, the organization settled this through further community-wide outreach, again followed by a vote.
+Some matters were resolved by alternative processes. One complexity that arose was the issue of whether certain alternate glyphs were semantically distinct enough from the primary glyph for the same word. Glyphs meeting this criteria would require separate codepoints in Unicode, and similarly would need to be recognized and adopted into Common Sitelen Pona independently. The organization studied this issue by community-wide survey, asking members of the community to report whether and how they distinguish the glyphs in question. The organization then utilized that data to determine via vote, which such alternative glyphs should be included. Later, the organization studied specific punctuation marks and other features of Sitelen Pona in a similar manner, and again determined which would be included in Common Sitelen Pona via vote.
 
 In addition to working on Common Sitelen Pona, the font-makers of the association worked to coordinate an ASCII input standard, which would unify the use of ASCII text for writing Sitelen Pona across all implementing fonts.
 {% enden %}
@@ -271,8 +271,7 @@ pali li kama lon poka pini la kulupu lili pali li kama wile ante lawa e nimi e n
 
 kepeken nasin alasa pi anpa sewi la kulupu pali li kama sona e sitelen nimi pi sitelen pona lon tenpo mun #TT e selo pona pi sitelen nimi ni lon tenpo mun #L.
 
-mu mu mu
-
+wile sona ante pi mute lili la mi kama e sona tan nasin ante. wile sona nasa wan li ni: sitelen mute li lon tawa nimi wan la, sitelen ante ni la sona li ante ala ante? sitelen ante pi nimi sama li sona ante la, ona li wile kama sitelen ante lon nasin Juniko. sama la lipu pi sitelen pona kulupu li wile jo e ona sama sitelen ante. mi kulupu li alasa e sona lon ni kepeken ni: mi pana e lipu pi alasa sona tawa jan ale kulupu li alasa e ni mute: sitelen tu ni li sama ala sama lon sona? kama la jan pi kulupu pali li kute e sona li toki e wile lon ni: sitelen ante seme pi nimi sama o lon ala lon lipu pi sitelen pona kulupu. tenpo ante la kulupu pali li alasa e sona sama lon sitelen mute pi nimi ala, lon nasin ante pi sitelen pona. sama la jan pali li toki e wile lon ni: ijo ni o lon ala lon lipu pi sitelen pona kulupu.
 
 tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewika (nasin Asuki)](https://tok.wikipedia.org/wiki/sitelen_Asuki) la nasin li wan ala. nasin ilo ante li sitelen kepeken e ijo sama kepeken sitelen ante pi nasin Asuki. pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: sitelen pona pi nasin Asuki o kepeken nasin wan seme. 
 {% endsl %}

@@ -27,10 +27,9 @@ In presenting Common Sitelen Pona, the Association wanted to use versions of the
 o pali
 {% endsp %}
 {% sl %}
-sitelen pona kulupu li pana e sona ni: sitelen seme o lon. sitelen pona kulupu li pana ala e sona ni: sitelen o seme lukin. kulupu pali li wile e ni: jan pali sitelen li ken kepkeen selo sitelen pi wile ona,
+sitelen pona kulupu li pana e sona ni: sitelen seme li lon. sitelen pona kulupu li pana ala e sona ni: sitelen o seme lukin. kulupu pali li wile e ni: jan pali sitelen li ken kepkeen selo sitelen pi wile ona.
 
-
-taso tenpo sama la, mi kulupu li toki e sitelen pona kulupu li wile pana e sitelen tawa lukin jan. tawa pali ni la mi wile kepeken sitelen ni: ona li suli kepeken. ni la anpa sewi li pali e nasin pi alasa sona. 
+taso tenpo sama la, mi kulupu li toki e sitelen pona kulupu li wile pana e sitelen tawa lukin jan. tawa pali ni la mi wile kepeken sitelen ni: ona li suli kepeken. ni la anpa sewi li pali e nasin pi alasa sona.
 {% endsl %}
 
 
@@ -54,14 +53,14 @@ Four sources of input reflect exercised discretion of invited fontmakers. Two so
 o pali
 {% endsp %}
 {% sl %}
-nimi wan pi toki pona li jo e sitelen pona wan taso ala la o wan e sona tu tu tu. 
+nimi wan pi toki pona li jo e sitelen pona wan taso ala la o wan e sona tu tu tu.
 
-wile kulupu la sona tu tu li kama tan jan pali sona pi sitelen pona ilo. sona tu li kama tan poki suli pi sitelen pona luka. sitelen pona ilo la jan li sitelen pona kepeken ilo sona wawa. sitelen pona luka la jan li sitelen pona kepeken luka ona kepeken palisa sitelen. o kama lukin e sona tu tu tu: 
+sona tu tu li kama tan jan pali sona pi sitelen pona ilo. sona tu li kama tan poki suli pi sitelen pona luka. sitelen pona ilo la jan li sitelen pona kepeken ilo. sitelen pona luka la jan li sitelen pona kepeken luka ona kepeken palisa sitelen. o kama lukin e sona tu tu tu: 
 {% endsl %}
 {% endsplit %}
 
 {% splith 3%}
-{% en %} Ethan Corgatelli (jan Itan){% enden %}
+{% en %}Ethan Corgatelli (jan Itan){% enden %}
 {% sp %}{% endsp %}
 {% sl %}jan Itan{% endsl %}
 {% endsplith %}
@@ -83,11 +82,11 @@ o pali
 {% sl %}
 jan Itan li pali e nasin sitelen ilo lon sike #MAMT. nimi pi nasin ona li 'nasin nanpa.'
 
-awen la, jan mute li kepeken nasin nanpa a. ona li suli kepeken. ona li suli tan ni kin: kulupu li kama kepeken sitelen pona lon ilo Siko la ale li kepeken nasin nanpa. kin la,  anpa sewi li pali e lipu musi ona pi jan Osu kepeken nasin nanpa.
+awen la, jan mute li kepeken nasin nanpa a. ona li suli kepeken. ona li suli tan ni kin: kulupu li kama kepeken sitelen pona lon ilo Siko la open la ale li kepeken nasin nanpa. kin la, anpa sewi li pali e lipu musi ona pi jan Osu kepeken nasin nanpa.
 
-nasin nanpa li sona pona e nasin kepeken kulupu. tenpo wan taso ala la nasin nanpa li ante lili e selo sitelen la kulupu li kama kepeken selo sitelen sin ni. 
+nasin nanpa li sona pona e nasin kepeken kulupu. tenpo wan taso ala la nasin nanpa li ante lili e selo sitelen la kulupu li kama kepeken selo sitelen sin ni. (mi sona ala e ni: ni seme li tan ni seme.)
 
-alasa ni la jan Itan li sona wan pi sona luka wan. taso sona tu li wawa sama, la sona pi jan Itan li anpa e sona ante. 
+alasa ni la jan Itan li sona wan pi sona luka wan. taso sona tu li wawa sama, la sona pi jan Itan li anpa e sona ante.
 {% endsl %}
 {% endsplit %}
 
@@ -112,14 +111,14 @@ lipamanka held one vote within this algorithm.
 o pali
 {% endsp %}
 {% sl %}
-lipamanka li pali e nasin sitelen ilo tu. ona li pali e 'linja sike' lon sike nanpa #MAMW , e 'linja lipamanka' lon sike #MAMTW.
+lipamanka li pali e nasin sitelen ilo tu. ona li pali e 'linja sike' lon sike #MAMW, e 'linja lipamanka' lon sike #MAMTW.
 
 tenpo pi lipu ku ala la 'linja pona' pi jan Same li nasin sitelen pi suli kepeken nanpa wan. 
-'linja sike' en 'linja pona' li sama lli. taso nasin pi linja pona li kama jaki lili tawa lipamanka la ona li ante wawa e linja sike li kama e linja lipamanka.
+'linja sike' en 'linja pona' li sama lili. taso nasin pi linja pona li kama jaki lili tawa lipamanka la ona li ante wawa e linja sike li kama e linja lipamanka.
 
-tenpo pini la, linja lipamanka en linja sike li suli kepeken tan ni: lipamanka li pana e sitelen sin mute e sitelen namako pi nimi jan e nasin sin tawa pali ona. lipamanka a li suli kepeken e sitelen mute pi selo ante. 
+tenpo pini la, linja lipamanka en linja sike li suli kepeken tan ni: lipamanka li pana e sitelen sin mute e sitelen namako pi nimi jan e nasin sin tawa pali ona. lipamanka a li suli kepeken e selo ante pi sitelen mute.
 
-alasa ni la lipamanka li sona wan pi sona luka wan. 
+alasa ni la lipamanka li sona wan pi sona luka wan.
 {% endsl %}
 
 {% endsplit %}
@@ -142,7 +141,13 @@ jan Lepeka held one vote within this algorithm.
 {% enden %}
 
 {% sp %}
-o pana e sitelen pona lon ni
+jan Lepeka li pali e nasin sitelen ilo tu. ona li pali e sitelen 'Fairfax HD', li kama pali e 'sitelen seli kiwen' lon sike #MAMT.
+
+jan Lepeka li mama pi nasin Jusisa, li pali e nasin sitelen tawa ilo lon tenpo sike mute a. ona li kama pana e sitelen pona nasin sitelen ona 'Fairfax HD', li kama pali e 'sitelen seli kiwen' kin. ni li nasin sitelen ilo sin pi sitelen pona, li sama sitelen luka jan. nasin sitelen tu ni la, ona ale la nasin ilo tu tu li lon: 
+
+
+
+alasa ni la jan Lepeka li sona wan pi sona luka wan.
 {% endsp %}
 {% sl %}
 
