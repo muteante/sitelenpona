@@ -80,7 +80,7 @@
                 font-size: 1.25rem;
             }
 
-            nav a {
+            nav a, #sidebar a{
                 color: var(--jelo-8)
             }
 
@@ -236,7 +236,16 @@
 </div>
 
 <div id="sidebar">
-    <p>the quick brown bingus jumps over the lazy dungus,</p>
+    <nav>
+    <a href="/index.html">about us</a>
+    <a href="/sitelen-pona.html">about sitelen pona</a>
+    <a href="/members.html">our members</a>
+    <a href="contact.html">contact</a></nav>
+    <select for="language-select" onchange="langChange(this);">
+        <option value="bilingual" lang="en" selected>Bilingual</option>
+        <option value="english" lang="en">English only</option>
+        <option value="sitelen-pona" lang="sp">sitelen pona taso</option>
+    </select>
 </div>
 
 <main>

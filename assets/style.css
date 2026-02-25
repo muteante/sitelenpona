@@ -207,7 +207,10 @@ h2:first-of-type{
         grid-row: 2 / span 2;
         position: sticky;
         top: 0px;
-        height: max-content;
+        height: calc(100vh - 1rem);
+        border-right: solid var(--jelo-1) 2px;
+        padding: 1rem 1rem 0;
+        font-size: 1.25rem;
     }
 
 }
