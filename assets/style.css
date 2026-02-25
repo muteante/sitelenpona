@@ -128,7 +128,7 @@ body.en-only .split .sp{
     display: none
 }
 body.en-only .split:not(h1, footer) [lang="en"]{
-    --en-split: 400px
+    --en-split: 30rem
 }
 
 body.sp-only .split:not(h1, footer) [lang="en"]{
@@ -145,7 +145,7 @@ body.sp-only .split:not(h1, footer) [lang="en"]{
 @media (width < 700px) {
 
     body{
-        --en-split: 25rem;
+        --en-split: 30rem;
         --sp-split: 15rem;
     }
  
