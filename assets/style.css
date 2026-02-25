@@ -150,8 +150,6 @@ body.sp-only .split:not(h1, footer) [lang="en"]{
         --en-split: 30rem;
         --sp-split: 15rem;
     }
- 
-    #sidebar{display: none}
 
     .split p::before{
         opacity: 1;
@@ -189,7 +187,7 @@ h2:first-of-type{
     margin-block-start: 0em;
 }
 
-@media (width >= 700px) {
+@media (width >= 935px) {
 
     body{
         display: grid;
@@ -213,4 +211,8 @@ h2:first-of-type{
         font-size: 1.25rem;
     }
 
+}
+
+@media (width < 935px) {
+    #sidebar{display: none}
 }
