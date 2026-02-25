@@ -151,6 +151,8 @@ body.sp-only .split:not(h1, footer) [lang="en"]{
         --sp-split: 15rem;
     }
  
+    #sidebar{display: none}
+
     .split p::before{
         opacity: 1;
     }
@@ -201,7 +203,11 @@ h2:first-of-type{
     footer{grid-column: 2; grid-row: 3}
 
     #sidebar{
-        grid-column: 1; grid-row: 2/4
+        grid-column: 1;
+        grid-row: 2 / span 2;
+        position: sticky;
+        top: 0px;
+        height: max-content;
     }
 
 }
