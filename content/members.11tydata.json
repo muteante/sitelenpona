@@ -427,11 +427,11 @@
 
     },
         {
-        "listed": "false",
+        "listed": "true",
 
-        "enname": "",
-        "spname": "soko sijeni",
-        "emoji": "",
+        "enname": "sieni",
+        "spname": "soko [soko ilo jasima esun nasa ilo]",
+        "emoji": "🇪🇸",
         "enbio": [
             "",
             ""
