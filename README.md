@@ -33,7 +33,7 @@ SP Content
 
 ```
 
-`{% splith %}` and `{% split %}` and `{% sp %}` and `{% en %}` are [custom paired shortcodes](https://www.11ty.dev/docs/shortcodes/#paired-shortcodes) that are set up in eleventy.config.js. they expand into html right before the converstion from Markdown to HTML happens, so you can use Markdown content within the shortcodes. 
+`{% splith %}` and `{% split %}` and `{% sp %}` and `{% en %}` are [custom paired shortcodes](https://www.11ty.dev/docs/shortcodes/#paired-shortcodes) that are set up in eleventy.config.js. they expand into HTML right before the conversion from Markdown to HTML happens, so you can use Markdown content within the shortcodes. 
 
 ## Note: 
 - `{% splith %}` and  `{% split %}` are different! `{% splith %}` (with the h) expands into a heading. use `{% split %}` on body text. 
@@ -64,7 +64,7 @@ You have now told GitHub that you want to use actions. Time to tell it which one
 
 That should be enough to get it going. 
 
-If assets fail to load, you might need to rename the path prefix. See .github/workflows/11ty-gh-pages.yml, find where it says this:
+If assets fail to load, you might need to rename the path prefix. See [.github/workflows/11ty-gh-pages.yml](/.github/workflows/11ty-gh-pages.yml), find where it says this:
 
 ```
 run: |
@@ -72,6 +72,6 @@ run: |
     npx @11ty/eleventy --pathprefix=sitelenpona
 ```
 
-change 'sitelenpona' to whatever you need. do not use slashes like --pathprefix=/sitelenpona/.
+change `sitelenpona` to whatever you need. Do not use slashes like `--pathprefix=/sitelenpona/`.
 
 
