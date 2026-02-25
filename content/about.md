@@ -10,7 +10,7 @@ permalink: index.html
 
 {% split %}
 {% en %}
-    The Sitelen Pona Publishers and Typographers Association is a multidisciplinary collective of Sitelen Pona experts.
+    The Sitelen Pona Publishers and Typographers Association is a multidisciplinary collective of <a href="sitelen-pona.md">Sitelen Pona</a> experts.
 
     We’re software developers, community leaders, artists, publishers, typographers, and more.
 
@@ -19,7 +19,7 @@ permalink: index.html
 
 {% sp %}
     kulupu pali pi sitelen pona li kulupu sona pi sitelen pona   
-    ijo ale pi kulupu ni li sona wawa e sitelen pona li pali pi sitelen pona kepeken nasin ante
+    ijo ale pi kulupu ni li sona wawa e sitelen pona li pali pi <a href="sitelen-pona.md">sitelen pona</a> kepeken nasin ante
 
     ona pi kulupu ni   
     zz li ken pali e ilo nanpa wawa li pana e sona pi nasin pona tawa kulupu   
@@ -75,7 +75,7 @@ permalink: index.html
 {% en %}
 Through horizontal consensus decision-making, we prepare living drafts for technical standards. Presently, these standards make it easier for Toki Pona speakers to enjoy Sitelen Pona on their devices. In the future, these standards will enable everyone to read and write Sitelen Pona on their preferred devices and platforms.
 
-We operate as a <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">not-for-profit corporation</a> registered in Canada. Membership in the Association is subject to the approval of existing members. There are no membership fees. Prospective members are welcome to fill out <a href="">our application form</a>.
+We operate as a <a href="https://laws.justice.gc.ca/eng/acts/c-7.75/">not-for-profit corporation</a> registered in Canada. Membership in the Association is subject to the approval of existing <a href="members.md">members</a>. There are no membership fees. Prospective members are welcome to fill out <a href="">our application form</a>.
 {% enden %}
 
 {% sp %}
