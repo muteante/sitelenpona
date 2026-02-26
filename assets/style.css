@@ -152,7 +152,7 @@ body.sp-only .split:not(h1, footer) [lang="en"]{
     }
 
     .split p::before{
-        opacity: 1;
+        opacity: 0.54; /*this is the lowest it can go according to wcag*/
     }
     
     h2{
