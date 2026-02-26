@@ -175,7 +175,7 @@
         {
         "listed": "true",
         "enname": "hecko",
-        "spname": "[kili. taso.]",
+        "spname": "jan [kili. taso.]",
         "emoji": "🇵🇱",
         "enbio": [
             "designer of [linja Kita](<https://github.com/RetSamys/linja-Kita>) and ma pona pi toki pona's sitelen pona emoji",
@@ -202,13 +202,13 @@
 
     },
         {
-        "listed": "false",
+        "listed": "true",
 
-        "enname": "",
-        "spname": "ilo Tani",
+        "enname": "Daniel Huang",
+        "spname": "ilo [tan ale nasin ilo]",
         "emoji": "",
         "enbio": [
-            "",
+            "provides sitelen pona on nimi.li",
             ""
         ],
         "spbio": [
@@ -457,10 +457,10 @@
 
     },
             {
-        "listed": "false",
+        "listed": "true",
 
-        "enname": "",
-        "spname": "jan Tepo",
+        "enname": "jan Tepo",
+        "spname": "jan [tenpo. pona.]",
         "emoji": "",
         "enbio": [
             "",
