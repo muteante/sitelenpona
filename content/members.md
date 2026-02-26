@@ -65,7 +65,7 @@ permalink: members.html
 {% endsp %}
 {% endsplit %}
 
-<ul class="condensed">
+<ul class="condensed shuffle">
 {% for item in current %}
 <li><span lang="en"> {{ item.enname }}</span><span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span> </li>
 {% endfor %}
@@ -112,13 +112,27 @@ zz lon tenpo sike nanpa mute ale mute luka wan </time>
     {% sp %}seme li weka tan kulupu {% endsp %}
 {% endsplith %}
 
-<ul class="condensed">
+<ul class="condensed shuffle">
 {% for item in former %}
 <li><span>{{ item.emoji }}</span><span lang="en"> {{ item.enname }}</span><span class="sp">{{item.spname}}</span> </li>
 {% endfor %}
 </ul>
 
 
+<script>
+    function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+document.querySelectorAll('ul.shuffle').forEach(ul => {
+  const items = Array.from(ul.querySelectorAll('li'));
+  shuffleArray(items).forEach(item => ul.appendChild(item));
+});
+</script>
 
 
 
