@@ -11,13 +11,14 @@ permalink: contact.html
 {% split %}
 {% en %}
 Our facilitator can be contacted at
-[facilitator@sitelenpona.net](mailto:facilitator@sitelenpona.net). 
+[toki@sitelenpona.net](mailto:toki@sitelenpona.net). 
 
 We have lost access to email history on the previous domain. If you have tried to reach us and have not yet received a response, please try contacting us again at the new address. 
 {% enden %}
 
 {% sp %}
-sina wile toki tawa jan lawa kulupu la o kepeken [nimi jan [FACILITATOR]  
+sina wile toki tawa jan lawa kulupu la   
+zz o kepeken [nimi tetokito 
 lon nimi ma [sitelen pona zz sike+lili zz NET ] ](mailto:facilitator@sitelenpona.net)
 
 tenpo pini la kulupu li kepeken ilo ante pi nimi ante  
@@ -57,7 +58,7 @@ sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni
 
 nanpa pi(tomo+suli) li nanpa luka luka ale mute mute mute mute wan  
 nanpa pi(tomo+lili) li nanpa luka luka tu ale mute mute luka tu tu  
-nimi pi nasin tomo li te ma [suno . seli .] to  
+nimi pi nasin tomo li te nasin pi ma [suno . seli .] to  
 nimi pi ma tomo  li ma [monsi .. ken . laso .]  
 nimi pi ma lili li ma [ken . pilin esun]  
 nanpa pi ma pana li te H3H zz 2A1 to  
@@ -84,3 +85,21 @@ zz li ma [kasi . nasin . taso .]
 {% endsp %}-->
 {% endsplit %}
 
+{% splith %}
+    {% en %}Discord{% enden %}
+    {% sp %}kepeken ilo [sina. ko.]{% endsp %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+We currently hold our meetings in a set of private channels on the public Discord server, [*ma pi nasin sitelen*](). Many of us also interact in the public channels available on this server; feel free to use those public channels to ping us with any general inquiries. 
+{% enden %}
+
+{% sp %}
+[ma pi nasin sitelen]() li lon ilo [sina.ko.]  
+lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len  
+taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala  
+jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin    
+sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala
+{% endsp %}
+{% endsplit %}
