@@ -11,14 +11,13 @@ permalink: members.html
         padding: 0;
         display: flex;
         flex-wrap: wrap;
-        row-gap: 1.5em;
         justify-content: center;
         width: 45rem;
         max-width: 100%;
         list-style-type: none;
     }
     .condensed li {
-        padding: 0;
+        padding: 1rem 0;
         margin: 0;
         width: 14rem;
         overflow: visible;
@@ -28,6 +27,7 @@ permalink: members.html
         display: grid;
         column-gap: 0.3rem;
         position: relative;
+        border-radius: 0;
     }
     .condensed [lang="en"]{
         white-space: nowrap;
@@ -44,19 +44,40 @@ permalink: members.html
         left: 0;
         z-index: 3;
         background-color: var(--jelo-1);
-        border: 0.1em solid black;
+        outline: 2px solid var(--jelo-7);
+        border-radius: 1rem;
         list-style-type: none;
-        padding: 1rem 0.25em;
+        padding: 1rem 0.5em;
         opacity: 0.95;
     }
-        .condensed details{
-                    list-style-type: none;
-        }
+    
+    .condensed summary{
+        transition: font-weight .25s cubic-bezier(.08,.82,.17,1);
+    }
+    
+    .condensed summary:hover{
+        cursor: pointer;
+        font-weight: bold;
+    }
+    
+    .condensed details[open] summary{
+        font-weight: bold;
+        border-bottom: dotted 2px var(--jelo-8);
+        padding-bottom: 1rem;
+}
+    
+    .condensed p{
+        margin-bottom: 0
+    }
+    
+    .condensed details{
+        list-style-type: none;
+    }
 
     
 
     
-    max-width: 20em;
+    /*max-width: 20em; ? */
 </style>
 
 {% assign all = members %}
@@ -86,7 +107,7 @@ permalink: members.html
     <li>
         <details name="current">
         <summary>
-        <span lang="en"> {{ item.enname }}</span><span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span></summary>
+        <span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span></summary>
         {% for ijo in item.titles %}<p>{{ ijo }}</p>{% endfor %}
         </details>
     </li>
