@@ -20,12 +20,14 @@ permalink: members.html
     .condensed li {
         padding: 0;
         margin: 0;
-        width: 12rem;
+        width: 14rem;
         overflow: visible;
         text-align: center;
         justify-content: center;
+        align-items: start;
         display: grid;
         column-gap: 0.3rem;
+        position: relative;
     }
     .condensed [lang="en"]{
         white-space: nowrap;
@@ -33,10 +35,24 @@ permalink: members.html
     .condensed .sp{
         display: block;
         white-space: nowrap;
-    
         grid-column: 1 / 3;
-        
     }
+    .condensed details[open]{
+        position: absolute;
+        right: 0;
+        top: -1rem;
+        left: 0;
+        z-index: 3;
+        background-color: var(--jelo-1);
+        border: 0.1em solid black;
+        list-style-type: none;
+        padding: 1rem 0.25em;
+        opacity: 0.95;
+    }
+        .condensed details{
+                    list-style-type: none;
+        }
+
     
 
     
@@ -67,7 +83,13 @@ permalink: members.html
 
 <ul class="condensed shuffle">
 {% for item in current %}
-<li><span lang="en"> {{ item.enname }}</span><span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span> </li>
+    <li>
+        <details name="current">
+        <summary>
+        <span lang="en"> {{ item.enname }}</span><span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span></summary>
+        {% for ijo in item.titles %}<p>{{ ijo }}</p>{% endfor %}
+        </details>
+    </li>
 {% endfor %}
 </ul>
 
@@ -118,7 +140,6 @@ zz lon tenpo sike nanpa mute ale mute luka wan </time>
 {% endfor %}
 </ul>
 
-
 <script>
     function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -133,6 +154,8 @@ document.querySelectorAll('ul.shuffle').forEach(ul => {
   shuffleArray(items).forEach(item => ul.appendChild(item));
 });
 </script>
+
+
 
 
 

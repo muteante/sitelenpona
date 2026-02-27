@@ -4,12 +4,17 @@
         "enname": "waso Keli",
         "spname": "waso [kasi esun lete ilo]",
         "emoji": "🇨🇦",
-        "enbio": [
+        "ownwords": [
             "[SP Font Maker](https://wasokeli.github.io/sp-font-maker/)",
             "[leko majuna](https://kelseyhigham.github.io/leko-majuna/)"
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Font Designer: leka majuna",
+            "Programmer: SP Tool Maker",
+            "Subject Matter Expert: Handwritten SP"
         ]
 
     },
@@ -18,11 +23,16 @@
         "enname": "Mika",
         "spname": "󱤑 󱦐󱤳󱤌󱤞󱤄󱦑",
         "emoji": "🇺🇸🏳️‍⚧️",
-        "enbio": [
+        "ownwords": [
             "co-creator of nasin leko suwi",
             "sitelen pona rendering in Minecraft"
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Font Designer: nasin leko sewi",
+            "Programmer: Sitelen Pona in Minecraft"
 
         ]
 
@@ -32,13 +42,17 @@
         "enname": "lipamanka",
         "spname": "lipamanka",
         "emoji": " 🏳️‍🌈",
-        "enbio": [
-            "toki pona [youtube creator]",
-            "toki pona [dictionary]",
-            "indented sitelen pona"
-
+        "ownwords": [
         ],
         "spbio": [
+
+        ],
+        "titles": [
+
+             "Content Creator",
+            "Lexicographer",
+            "Typographer: Indentation"
+
 
         ]
 
@@ -48,10 +62,14 @@
         "enname": "waso Juwan",
         "spname": "waso [jasima unpa wan :]",
         "emoji": "🇧🇷🇵🇹",
-        "enbio": [
+        "ownwords": [
      
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Wikipedian"
 
         ]
 
@@ -61,12 +79,17 @@
         "enname": "jan Popo",
         "spname": "jan [pona . pona .]",
         "emoji": "🇳🇿",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Author:",
+            "Translator: ",
+            "Typographer: Comics and Manga"
         ]
 
     },
@@ -75,12 +98,19 @@
         "enname": "Gregory Danielson III",
         "spname": "mun [ken . kalama . nasa][mute:]",
         "emoji": "🇺🇸",
-        "enbio": [
+        "ownwords": [
             "creating one of the first lesson series to teach sitelen pona as a central part of toki pona,",
             "significant contributions to lipu Linku",
             "creating ilo Muni"
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Educator",
+            "Programmer: ilo Linku",
+            "Programmer: ilo Muni",
+            "Community Organizer: Ma Toki Pona VR"
 
         ]
 
@@ -90,13 +120,20 @@
         "enname": "Ret Samys",
         "spname": "jan [ken .][taso .mi:] ",
         "emoji": "🇩🇪🇫🇷",
-        "enbio": [
+        "ownwords": [
             "[font overview and collection](https://antetokipona.infinityfreeapp.com/font)",
             "[sitelen pona webcomic](https://kijetesantakalu-o.tumblr.com/)",
             "[augmentation](https://github.com/RetSamys/nishiki-teki-lili) and [manipulation](https://github.com/RetSamys/tan-seme-A) of [all kinds](https://github.com/RetSamys/linja-pimeja-pona) of [fonts](<https://github.com/RetSamys/nasin-sitelen-pu>)",
             "[sitelen pona postcards](<https://liputawa.wordpress.com/>)"
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Researcher: Font Database",
+            "Artist: kijetesantakalu o!",
+            "Font Designer: Augmentation/Manipulation of Nishiki-teki lili, linja pimeja pona, nasin sitelen pu",
+            "Organizer: Postcard project"
 
         ]
 
@@ -106,12 +143,18 @@
         "enname": "mute ante",
         "spname": "mute ante",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "sitelen pona font",
             "experimental sitelen pona typsetting",
             "sitelen pona website"
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Font Designer",
+            "Typographer"
+
 
         ]
 
@@ -121,10 +164,14 @@
         "enname": "Alison Withonel",
         "spname": "seme [alasa lipu ilo sona open nasin]",
         "emoji": "<span style=\"display: inline-block; transform: scaleY(-1)\">🇺🇸</span>🏳️‍⚧️",
-        "enbio": [
+        "ownwords": [
             "[artist](https://youtu.be/mwl2gLiI4os)"
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Artist"
 
         ]
 
@@ -134,10 +181,14 @@
         "enname": "Shachar Zidon",
         "spname": "jan [tonsi en leko . sona ilo]",
         "emoji": "🏳️‍⚧️",
-        "enbio": [
+        "ownwords": [
             "technical maintainer of lipu Linku"
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Programmmer: lipu Linku"
 
         ]
 
@@ -147,12 +198,15 @@
         "enname": "Majeka",
         "spname": "musi-ike[meli+awenjan+eko+ale]",
         "emoji": "🇳🇱",
-        "enbio": [
+        "ownwords": [
             "len Majeka pi toki toki, sitelen Lukasele, sitelen Ilosele, and nanpa Pankantan",
             "sitelen Ongezellig ale",
             "Handwriting expert"
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -162,13 +216,18 @@
         "enname": "Spencer van der Meulen",
         "spname": "jan [pana e nasin sona ante]",
         "emoji": "🇳🇱",
-        "enbio": [
+        "ownwords": [
             "translator and publisher of *Tokipono: la lingvo de bono*",
             "project lead of the ISO code application",
             "author and musician"
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Project Manager: ISO Code Application",
+            "Publisher: *Tokipono: La lingvo de bono",
+            "Author: *mi en waso Kaka en monsuta pi ma kasi*"
         ]
 
     },
@@ -177,11 +236,17 @@
         "enname": "hecko",
         "spname": "jan [kili. taso.]",
         "emoji": "🇵🇱",
-        "enbio": [
+        "ownwords": [
             "designer of [linja Kita](<https://github.com/RetSamys/linja-Kita>) and ma pona pi toki pona's sitelen pona emoji",
             "initiator and editor of [sona.pona.la](<https://sona.pona.la>) "
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Font Designer: linja Kita",
+            "Graphic Designer: Sitelen Pona Emoji",
+            "Project Manager: sona.pona.la"
 
         ]
 
@@ -192,11 +257,14 @@
         "enname": "",
         "spname": "ijo Kesi",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -207,12 +275,16 @@
         "enname": "Daniel Huang",
         "spname": "ilo [tan ale nasin ilo]",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "provides sitelen pona on nimi.li",
             ""
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Programmer: nimi.li",
+            "Researcher: *Language Change and Variation in Toki Pona'"
         ]
 
     },
@@ -222,11 +294,14 @@
         "enname": "",
         "spname": "jan Isapela",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -237,11 +312,14 @@
         "enname": "",
         "spname": "jan Janpa Onjon",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -252,11 +330,14 @@
         "enname": "",
         "spname": "jan Lepeka",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -267,11 +348,14 @@
         "enname": "",
         "spname": "kolo po Menasewi",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -282,11 +366,14 @@
         "enname": "",
         "spname": "kulupu kasi",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -297,11 +384,14 @@
         "enname": "",
         "spname": "jan Alonola",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -312,11 +402,14 @@
         "enname": "",
         "spname": "jan Ali",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -327,11 +420,14 @@
         "enname": "",
         "spname": "jan Kipin",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -342,11 +438,14 @@
         "enname": "",
         "spname": "jan Misali",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -357,11 +456,14 @@
         "enname": "",
         "spname": "jan Nikola",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -372,11 +474,14 @@
         "enname": "",
         "spname": "jan Umijotalu",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -387,12 +492,16 @@
         "enname": "kala Asi",
         "spname": "kala [alasa sona ilo]",
         "emoji": "",
-        "enbio": [
-            "",
-            ""
+        "ownwords": [
+            "maintainer of Sitelen Pona font collection initiator of lipu Wasona"
+
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Project Manager: lipu Wasona", 
+            "Programmer: Font Collection on lipu Linku"
         ]
 
     },
@@ -402,11 +511,14 @@
         "enname": "",
         "spname": "jan Seli",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -417,11 +529,15 @@
         "enname": "",
         "spname": "jan Shihali",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+            ""
+
+        ],
+        "titles": [
 
         ]
 
@@ -432,12 +548,15 @@
         "enname": "sieni",
         "spname": "soko [soko ilo jasima esun nasa ilo]",
         "emoji": "🇪🇸",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Author"
         ]
 
     },
@@ -447,11 +566,14 @@
         "enname": "",
         "spname": "ijo tan anpa nanpa",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -462,11 +584,15 @@
         "enname": "jan Tepo",
         "spname": "jan [tenpo. pona.]",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
+            "Organizer: UCSUR Proposal"
 
         ]
 
@@ -477,11 +603,14 @@
         "enname": "",
         "spname": "jan Misali",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
+
+        ],
+        "titles": [
 
         ]
 
@@ -493,12 +622,16 @@
         "enname": "Chelsea Raacz",
         "spname": "jan [laso. kulupu. seli.]",
         "emoji": "",
-        "enbio": [
+        "ownwords": [
             "",
             ""
         ],
         "spbio": [
 
+        ],
+        "titles": [
+            "Educator: *lipu Inteken*",
+            "Organizer: *utala musi*"
         ]
 
     }  
