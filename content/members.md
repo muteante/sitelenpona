@@ -28,6 +28,7 @@ permalink: members.html
         display: grid;
         column-gap: 0.3rem;
         position: relative;
+        height: 2.5em;
     }
     .condensed [lang="en"]{
         white-space: nowrap;
@@ -37,21 +38,30 @@ permalink: members.html
         white-space: nowrap;
         grid-column: 1 / 3;
     }
+    .condensed summary {
+        position: relative;
+    }
+    .condensed details:not([open]):hover summary{
+        color: var(--jelo-8)
+    }
     .condensed details[open]{
         position: absolute;
         right: 0;
         top: -1rem;
         left: 0;
-        z-index: 3;
-        background-color: var(--jelo-1);
-        border: 0.1em solid black;
+        z-index: 1;
+        background-color: white;
+        border: 0.1em solid var(--jelo-5);
+        border-radius: 0.5rem;
         list-style-type: none;
         padding: 1rem 0.25em;
         opacity: 0.95;
     }
-        .condensed details{
-                    list-style-type: none;
-        }
+    .condensed summary:focus-visible{
+        outline: none;
+    }
+ 
+
 
     
 
@@ -153,8 +163,22 @@ document.querySelectorAll('ul.shuffle').forEach(ul => {
   const items = Array.from(ul.querySelectorAll('li'));
   shuffleArray(items).forEach(item => ul.appendChild(item));
 });
-</script>
 
+const detailsList = document.querySelectorAll('.condensed details');
+detailsList.forEach((details) => {
+  details.addEventListener('focusin', (e) => {
+    if (!e.target.matches(':focus-visible')) return;
+
+    detailsList.forEach((other) => {
+      if (other !== details && other.open) {
+        other.open = false;
+      }
+    });
+  });
+});
+
+
+</script>
 
 
 
