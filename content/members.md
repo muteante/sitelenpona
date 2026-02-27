@@ -38,11 +38,16 @@ permalink: members.html
         white-space: nowrap;
         grid-column: 1 / 3;
     }
+    .condensed p{
+        margin-bottom: 0;
+    }
     .condensed summary {
         position: relative;
+        transition: all .25s cubic-bezier(.08,.82,.17,1);
     }
     .condensed details:not([open]):hover summary{
-        color: var(--jelo-8)
+        color: var(--jelo-8);
+        font-weight: bold
     }
     .condensed details[open]{
         position: absolute;
@@ -51,11 +56,14 @@ permalink: members.html
         left: 0;
         z-index: 1;
         background-color: white;
-        border: 0.1em solid var(--jelo-5);
+        outline: 2px solid var(--jelo-5);
         border-radius: 0.5rem;
         list-style-type: none;
         padding: 1rem 0.25em;
         opacity: 0.95;
+    }
+    .condensed details[open] summary{
+        font-weight: bold
     }
     .condensed summary:focus-visible{
         outline: none;
@@ -96,7 +104,7 @@ permalink: members.html
     <li>
         <details name="current">
         <summary>
-        <span lang="en"> {{ item.enname }}</span><span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span></summary>
+        <span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span></summary>
         {% for ijo in item.titles %}<p>{{ ijo }}</p>{% endfor %}
         </details>
     </li>
