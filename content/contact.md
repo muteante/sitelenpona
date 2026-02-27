@@ -19,7 +19,7 @@ We have lost access to email history on the previous domain. If you have tried t
 {% sp %}
 sina wile toki tawa jan lawa kulupu la   
 zz o kepeken [nimi tetokito 
-lon nimi ma [sitelen pona zz sike+lili zz NET ] ](mailto:facilitator@sitelenpona.net)
+lon nimi ma [sitelen pona zz sike+lili zz NET ] ](mailto:toki@sitelenpona.net)
 
 tenpo pini la kulupu li kepeken ilo ante pi nimi ante  
 tenpo ni la kulupu li kepeken ilo sin pi nimi sin  
