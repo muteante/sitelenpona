@@ -59,8 +59,9 @@ permalink: members.html
         outline: 2px solid var(--jelo-5);
         border-radius: 0.5rem;
         list-style-type: none;
-        padding: 1rem 0.25em;
+        padding: 1rem 0.5em;
         opacity: 0.95;
+        box-shadow: .5rem .5rem var(--jelo-1)
     }
     .condensed details[open] summary{
         font-weight: bold
