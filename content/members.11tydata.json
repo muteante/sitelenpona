@@ -144,8 +144,8 @@
         "pali": [
             "li pali e lipu sona ni <br>[o kama sona a](https://mun.la/sona/)",
             "li pali kulupu e ilo ni <br> [lipu Linku](https://linku.la/)",
-            "li pali e ilo ni <br> [ilo [mu.ni.]](https://ilo.muni.la/)",
-            "li pali e kulupu ni <br> [ma toki+pona pi ilo [wile.jaki.sama.]](https://sona.pona.la/wiki/Ma_Toki_Pona_VR)"
+            "li pali e ilo ni <br> [ilo [mute.nimi.]](https://ilo.muni.la/)",
+            "li pali e kulupu ni <br> [ma toki+pona pi ilo [wile.jan. sama.]](https://sona.pona.la/wiki/Ma_Toki_Pona_VR)"
 
 
         ],
@@ -305,13 +305,13 @@
         "pali": [
             "li pali musi",
             "li nasin e pali kulupu ni <br> [nimi lili pi kulupu [ijo sona.]](https://iso639-3.sil.org/request/2021-043)",
-            "li pali e lipu ni <br> [lipu pu pi toki [en pali esun laso nasin toki olin]](https://www.amazon.ca/Tokipono-lingvo-bono-Sonja-Lang/dp/9464376090)"
+            "li pali e lipu ni <br> [lipu pu pi toki [en pali esun laso nasin toki olin]](https://blackwells.co.uk/bookshop/product/Tokipono-by-Lang-Sonja/9789464376098)"
         ],
         "titles": [
             "Artist",
             "Organizer: <br> [ISO Code Proposal](https://iso639-3.sil.org/request/2021-043)",
-            "Publisher: <br> *[Tokipono: La lingvo de bono](https://www.amazon.ca/Tokipono-lingvo-bono-Sonja-Lang/dp/9464376090)*"
-            
+            "Translator and Publisher: <br> *[Tokipono: La lingvo de bono](https://blackwells.co.uk/bookshop/product/Tokipono-by-Lang-Sonja/9789464376098)*"
+
         ]
 
     },
@@ -328,15 +328,13 @@
 
         ],
         "pali": [
-            "li pali e nasin sitelen sin ni <br> [linja [kili.taso]](https://github.com/RetSamys/linja-Kita>)",
-            "li pali e sitelen+pona kule ni <br> kulupu te [ma pona pi toki pona](https://discord.gg/mapona) to li ken toki kepeken ona",
+            "li pali e nasin sitelen sin ni <br> [linja [kili.taso]](https://github.com/RetSamys/linja-Kita) <br> sitelen toki musi pi te [ma pona pi toki pona](https://discord.gg/mapona) to",
             "li mama pi pali kulupu ni <br> [lipu pi sona pona](https://sona.pona.la/wiki/Main_Page)"
 
 
         ],
         "titles": [
-            "Font Designer: <br> [linja Kita](https://github.com/RetSamys/linja-Kita>)",
-            "Graphic Designer: <br> SP Emoji in [ma pona](https://discord.gg/mapona)",
+            "Font Designer: <br> [linja Kita](https://github.com/RetSamys/linja-Kita>), <br> SP Emoji in [ma pona](https://discord.gg/mapona)",
             "Organizer: <br> [sona.pona.la](https://sona.pona.la/wiki/Main_Page)"
 
         ]
@@ -378,7 +376,7 @@
         ],
         "pali": [
             "li pali e ilo ni <br> te [nimi li](https://nimi.li) to",
-            "li alasa e sona ni <br> nasin toki kulupu li sama seme li kama ante seme"
+            "li alasa e sona ni <br> [nasin toki kulupu li sama seme li kama ante seme](https://doi.org/10.48550/arXiv.2508.10246)"
 
 
         ],
