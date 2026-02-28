@@ -11,10 +11,15 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e nasin sitelen sin ni <br> [leko majuna](https://kelseyhigham.github.io/leko-majuna)",
+            "li pali ilo ni <br> [ilo pali pi nasin sitelen](https://wasokeli.github.io/sp-font-maker/)"
+
+
+        ],
         "titles": [
-            "Font Designer: leka majuna",
-            "Programmer: SP Tool Maker",
-            "Subject Matter Expert: Handwritten SP"
+            "Font Designer: <br> [leko majuna](https://kelseyhigham.github.io/leko-majuna)",
+            "Software Developer: <br> Handwritten [SP Font Maker](https://wasokeli.github.io/sp-font-maker/)"
         ]
 
     },
@@ -30,10 +35,15 @@
         "spbio": [
 
         ],
-        "titles": [
-            "Font Designer: nasin leko sewi",
-            "Programmer: Sitelen Pona in Minecraft"
+        "pali": [
+            "li pali e nasin sitelen ni <br> [nasin leko sewi](https://raw.githubusercontent.com/lipu-linku/ijo/main/nasinsitelen/nasin-leko-suwi.ttf)",
+            "li pali ilo ni <br> musi [ma.nasin kala.] li kepeken sitelen+pona"
 
+
+        ],
+        "titles": [
+            "Font Designer: <br> [nasin leko sewi](https://raw.githubusercontent.com/lipu-linku/ijo/main/nasinsitelen/nasin-leko-suwi.ttf)",
+            "Programmer: <br> SP for Minecraft"
         ]
 
     },
@@ -47,11 +57,20 @@
         "spbio": [
 
         ],
+        "pali": [
+
+            "li alasa e sona nimi",
+             "li pali e musi sin ni <br> [ilo [jo uta tu.]](https://www.youtube.com/channel/UCelq3xUdjS47C_svPFVRO0g)",
+            "li pali e nasin sin ni pi toki sitelen <br> [weka sitelen li lon open](https://lipamanka.gay/toki-pona-taso)"
+
+
+
+        ],
         "titles": [
 
-             "Content Creator",
             "Lexicographer",
-            "Typographer: Indentation"
+             "Content Creator: <br> [YouTube](https://www.youtube.com/channel/UCelq3xUdjS47C_svPFVRO0g)",
+            "Typographer: <br> [Pioneer of SP Indentation](https://lipamanka.gay/toki-pona-taso)"
 
 
         ]
@@ -68,8 +87,13 @@
         "spbio": [
 
         ],
+        "pali": [
+                        "[li pali pi <br>lipu [wile.kili.pali e sijelo. jaki.]](https://meta.wikimedia.org/wiki/User:Juwan)"
+
+
+        ],
         "titles": [
-            "Wikipedian"
+            "[Wikipedian](https://meta.wikimedia.org/wiki/User:Juwan)"
 
         ]
 
@@ -86,10 +110,21 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e ijo musi sin",
+            "li toki+pona e lipu",
+            "li pali e nasin sin ni pi toki sitelen <br> lipu toki pi sitelen musi <br> pi ma [ni.jo.nasin] <br> li toki+pona kepeken sitelen pona"
+
+
+
+        ],
         "titles": [
-            "Author:",
-            "Translator: ",
-            "Typographer: Comics and Manga"
+            "Artist",
+            "Translator",
+            "Typographer: <br> SP Manga Translation"
+
+
+
         ]
 
     },
@@ -106,11 +141,19 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e lipu sona ni <br>[o kama sona a](https://mun.la/sona/)",
+            "li pali kulupu e ilo ni <br> [lipu Linku](https://linku.la/)",
+            "li pali e ilo ni <br> [ilo [mu.ni.]](https://ilo.muni.la/)",
+            "li pali e kulupu ni <br> [ma toki+pona pi ilo [wile.jaki.sama.]](https://sona.pona.la/wiki/Ma_Toki_Pona_VR)"
+
+
+        ],
         "titles": [
-            "Educator",
-            "Programmer: ilo Linku",
-            "Programmer: ilo Muni",
-            "Community Organizer: Ma Toki Pona VR"
+            "Educator: <br>[Learn Toki Pona!](https://mun.la/sona/)",
+            "Maintainer: <br> [lipu Linku](https://linku.la/)",
+            "Software Developer: <br> [ilo Muni](https://ilo.muni.la/)",
+            "Organizer: <br> [Ma Toki Pona VR](https://sona.pona.la/wiki/Ma_Toki_Pona_VR)"
 
         ]
 
@@ -129,11 +172,19 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li awen e sona lon poki ni <br> [poki pi nasin sitelen](https://antetokipona.infinityfreeapp.com/font/)",
+            "li pali e lipu musi ni <br>[kijetesantakalu o](https://kijetesantakalu-o.tumblr.com/)",
+            "li namako e nasin sitelen pi ona ala <br> [nasin [ni.sike.kili.] [telo.kiwen] lili ](https://github.com/RetSamys/nishiki-teki-lili) <br>en [linja pimeja pona](https://github.com/RetSamys/linja-pimeja-pona) en [nasin sitelen pu](https://github.com/RetSamys/nasin-sitelen-pu)",
+            "li mama pi pali kulupu ni <br> [lipu tawa pi sitelen pona](https://liputawa.wordpress.com)"
+
+
+        ],
         "titles": [
-            "Researcher: Font Database",
-            "Artist: kijetesantakalu o!",
-            "Font Designer: Augmentation/Manipulation of Nishiki-teki lili, linja pimeja pona, nasin sitelen pu",
-            "Organizer: Postcard project"
+            "Archivist: <br> [Font Database](https://antetokipona.infinityfreeapp.com/font/)",
+            "Artist: <br>[*kijetesantakalu o!*](https://kijetesantakalu-o.tumblr.com/)",
+            "Font Design and Revision: <br> [Nishike teki lili](https://github.com/RetSamys/nishiki-teki-lili), [linja pimeja pona](https://github.com/RetSamys/linja-pimeja-pona), [nasin sitelen pu](https://github.com/RetSamys/nasin-sitelen-pu)",
+            "Organizer: <br> [lipu tawa pi sitelen pona](https://liputawa.wordpress.com)"
 
         ]
 
@@ -151,16 +202,22 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e nasin sin ni pi toki sitelen <br> ona li nasa",
+            "li pali e nasin sitelen sin",
+            "li pali e lipu ilo ni <br> [lipu pi kulupu pali pi sitelen pona](/index.html)"
+
+
+        ],
         "titles": [
+            "Typographer: <br>Experimental Typesetting",
             "Font Designer",
-            "Typographer"
-
-
+            "Web Design:<br> [Association Website](/index.html)"
         ]
 
     },
         {
-            "listed": "true",
+        "listed": "true",
         "enname": "Alison Withonel",
         "spname": "seme [alasa lipu ilo sona open nasin]",
         "emoji": "<span style=\"display: inline-block; transform: scaleY(-1)\">🇺🇸</span>🏳️‍⚧️",
@@ -170,8 +227,13 @@
         "spbio": [
 
         ],
+        "pali": [
+            "[li pali musi](https://youtu.be/mwl2gLiI4os)"
+
+
+        ],
         "titles": [
-            "Artist"
+            "[Artist](https://youtu.be/mwl2gLiI4os)"
 
         ]
 
@@ -187,8 +249,14 @@
         "spbio": [
 
         ],
+        "pali": [
+         "li awen pali ilo lon pali kulupu ni <br> [lipu Linku](https://linku.la)"
+
+            
+
+        ],
         "titles": [
-            "Programmmer: lipu Linku"
+            "Technical Maintainer: <br> [lipu Linku](https://linku.la)"
 
         ]
 
@@ -206,7 +274,17 @@
         "spbio": [
 
         ],
+        "pali": [
+
+            "li pali e nasin sitelen sin ni <br> [len [meli+awenjan+eko+ale] pi toki+toki<br> en sitelen [lupa+utala ko+ale sona+esun len+e] <br> en sitelen [ijo+lon sona+esun len+e] <br> en nanpa [poki+anpa ko+anpa tomo+anpa]](https://yan-mayeka.github.io/lipu/sitelen-pona/lipu-len-sp.html)",
+"li pali e nasin sin lon lipu ni <br> [sitelen [ona+ni> ko+e sona+esun len+e] <br> en LIPUMAJA](https://yan-mayeka.github.io/lipu/sitelen-pona/tomo-nasin-sp.html)", 
+"li sona mute e ni <br> jan li sitelen pona kepeken luka"
+
+        ],
         "titles": [
+            "Font Designer: <br> [len Majeka pi toki toki, sitelen Lukasele, sitelen Ilosele, nanpa Pankantan](https://yan-mayeka.github.io/lipu/sitelen-pona/lipu-len-sp.html)",
+"Comic Typography: <br> [sitelen Onkesele, LIPUMAJA](https://yan-mayeka.github.io/lipu/sitelen-pona/tomo-nasin-sp.html)", 
+"Consultant: <br> Handwritten SP"
 
         ]
 
@@ -224,10 +302,16 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali musi",
+            "li nasin e pali kulupu ni <br> [nimi lili pi kulupu [ijo sona.]](https://iso639-3.sil.org/request/2021-043)",
+            "li pali e lipu ni <br> [lipu pu pi toki [en pali esun laso nasin toki olin]](https://www.amazon.ca/Tokipono-lingvo-bono-Sonja-Lang/dp/9464376090)"
+        ],
         "titles": [
-            "Project Manager: ISO Code Application",
-            "Publisher: *Tokipono: La lingvo de bono",
-            "Author: *mi en waso Kaka en monsuta pi ma kasi*"
+            "Artist",
+            "Organizer: <br> [ISO Code Proposal](https://iso639-3.sil.org/request/2021-043)",
+            "Publisher: <br> *[Tokipono: La lingvo de bono](https://www.amazon.ca/Tokipono-lingvo-bono-Sonja-Lang/dp/9464376090)*"
+            
         ]
 
     },
@@ -243,10 +327,17 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e nasin sitelen sin ni <br> [linja [kili.taso]](https://github.com/RetSamys/linja-Kita>)",
+            "li pali e sitelen+pona kule ni <br> kulupu te [ma pona pi toki pona](https://discord.gg/mapona) to li ken toki kepeken ona",
+            "li mama pi pali kulupu ni <br> [lipu pi sona pona](https://sona.pona.la/wiki/Main_Page)"
+
+
+        ],
         "titles": [
-            "Font Designer: linja Kita",
-            "Graphic Designer: Sitelen Pona Emoji",
-            "Project Manager: sona.pona.la"
+            "Font Designer: <br> [linja Kita](https://github.com/RetSamys/linja-Kita>)",
+            "Graphic Designer: <br> SP Emoji in [ma pona](https://discord.gg/mapona)",
+            "Organizer: <br> [sona.pona.la](https://sona.pona.la/wiki/Main_Page)"
 
         ]
 
@@ -262,6 +353,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -282,9 +376,15 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e ilo ni <br> te [nimi li](https://nimi.li) to",
+            "li alasa e sona ni <br> nasin toki kulupu li sama seme li kama ante seme"
+
+
+        ],
         "titles": [
-            "Programmer: nimi.li",
-            "Researcher: *Language Change and Variation in Toki Pona'"
+            "Developer: <br> [nimi.li](https://nimi.li)",
+            "Linguist: <br> *Language Change and Variation in Toki Pona*"
         ]
 
     },
@@ -299,6 +399,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -319,6 +422,9 @@
         "spbio": [
 
         ],
+        "pali": [
+
+        ],
         "titles": [
 
         ]
@@ -335,6 +441,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -355,6 +464,9 @@
         "spbio": [
 
         ],
+        "pali": [
+
+        ],
         "titles": [
 
         ]
@@ -371,6 +483,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -391,6 +506,9 @@
         "spbio": [
 
         ],
+        "pali": [
+
+        ],
         "titles": [
 
         ]
@@ -407,6 +525,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -427,6 +548,9 @@
         "spbio": [
 
         ],
+        "pali": [
+
+        ],
         "titles": [
 
         ]
@@ -443,6 +567,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -463,6 +590,9 @@
         "spbio": [
 
         ],
+        "pali": [
+
+        ],
         "titles": [
 
         ]
@@ -479,6 +609,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -499,9 +632,15 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li mama e lipu sona ni <br> [lipu [waso.sona.:]](https://wasona.com/)", 
+            "li awen e ijo lon poki ni <br> [nasin sitelen li lon lipu Linku](https://linku.la/fonts)"
+
+
+        ],
         "titles": [
-            "Project Manager: lipu Wasona", 
-            "Programmer: Font Collection on lipu Linku"
+            "Educator: <br> [lipu Wasona](https://wasona.com/)", 
+            "Archivist: <br> [Font Collection on lipu Linku](https://linku.la/fonts)"
         ]
 
     },
@@ -516,6 +655,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -537,6 +679,9 @@
             ""
 
         ],
+        "pali": [
+
+        ],
         "titles": [
 
         ]
@@ -555,25 +700,38 @@
         "spbio": [
 
         ],
+        "pali": [
+             "[li pali musi](https://sijeni.li.pona.la/sp/)",
+            "li pali e nasin sin ni pi toki sitelen <br>[linja toki li ken open lon poka nasa](https://sijeni.li.pona.la/sp/taso/)"
+
+        ],
         "titles": [
-            "Author"
+            "[Artist](https://sijeni.li.pona.la/sp/)",
+            "Typographer: <br>[Experimental Alignment](https://sijeni.li.pona.la/sp/taso/)"
+
         ]
 
     },
         {
-        "listed": "false",
+        "listed": "true",
 
-        "enname": "",
-        "spname": "ijo tan anpa nanpa",
-        "emoji": "",
+        "enname": "Ethan Corgatelli",
+        "spname": "jan itan",
+        "emoji": "🇺🇸",
         "ownwords": [
-            "",
+            "Made nasin nanpa font",
             ""
         ],
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e nasin sitelen sin ni <br>[nasin nanpa](https://github.com/etbcor/nasin-nanpa)"
+
+
+        ],
         "titles": [
+            "Fontmaker: <br>[nasin nanpa](https://github.com/etbcor/nasin-nanpa)"
 
         ]
 
@@ -591,8 +749,13 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li open e pali ni <br> [sitelen pona o lon <br> nasin [jelo uta sina.jelo. sina . jaki.]](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit)"
+
+
+        ],
         "titles": [
-            "Organizer: UCSUR Proposal"
+            "Organizer: <br> [UCSUR Proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit)"
 
         ]
 
@@ -608,6 +771,9 @@
             ""
         ],
         "spbio": [
+
+        ],
+        "pali": [
 
         ],
         "titles": [
@@ -629,9 +795,15 @@
         "spbio": [
 
         ],
+        "pali": [
+            "li pali e lipu sona ni  <br> [lipu [insa. telo. ken.] ](https://raacz.neocities.org/toki-pona/beginner-material/)",
+            "li mama e pali kulupu ni <br> [utala musi](https://utala.pona.la/)"
+
+
+        ],
         "titles": [
-            "Educator: *lipu Inteken*",
-            "Organizer: *utala musi*"
+            "Educator: <br> *[lipu Inteken](https://raacz.neocities.org/toki-pona/beginner-material/)*",
+            "Organizer: <br> *[utala musi](https://utala.pona.la/)*"
         ]
 
     }  
