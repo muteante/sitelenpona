@@ -69,6 +69,24 @@ permalink: members.html
     .condensed summary:focus-visible{
         outline: none;
     }
+    .tiny-toggle{
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 100%;
+        justify-content:center;
+    }
+    :has(.tiny-toggle #sp-tog:checked) .show-sp, 
+    :has(.tiny-toggle #en-tog:checked) .show-en{
+        display: block;
+    }
+    :has(.tiny-toggle #en-tog:checked) .show-sp, 
+    :has(.tiny-toggle #sp-tog:checked) .show-en{
+        display: none;
+    }
+
+
+ 
+
  
 
 
@@ -100,13 +118,21 @@ permalink: members.html
 {% endsp %}
 {% endsplit %}
 
+ <div class="tiny-toggle">
+     <input type="radio" id="en-tog" name="toki" checked >
+     <label lang="tok" for="en">English</label><br>
+     <input type="radio" id="sp-tog" name="toki">
+     <label lang="tok" class="sp" for="sp">toki pona</label><br>
+ </div>
 <ul class="condensed shuffle">
 {% for item in current %}
     <li>
         <details name="current">
         <summary>
-        <span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span class="sp">{{item.spname}}</span></summary>
-        {% for ijo in item.titles %}<p>{{ ijo }}</p>{% endfor %}
+        <span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span></summary>
+        {% for ijo in item.pali %}<p lang="tok" class="sp show-sp">{{ ijo }}</p>{% endfor %}
+        {% for ijo in item.titles %}<p class="show-en">{{ ijo }}</p>{% endfor %}
+
         </details>
     </li>
 {% endfor %}
