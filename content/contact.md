@@ -92,11 +92,11 @@ zz li ma [kasi . nasin . taso .]
 
 {% split %}
 {% en %}
-We currently hold our meetings in a set of private channels on the public Discord server, [*ma pi nasin sitelen*](). Many of us also interact in the public channels available on this server; feel free to use those public channels to ping us with any general inquiries. 
+We currently hold our meetings in a set of private channels on the public Discord server, [*ma pi nasin sitelen*](https://discord.gg/h2pNXP5Eh2). Many of us also interact in the public channels available on this server; feel free to use those public channels to ping us with any general inquiries. 
 {% enden %}
 
 {% sp %}
-[ma pi nasin sitelen]() li lon ilo [sina.ko.]  
+[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]  
 lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len  
 taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala  
 jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin    
