@@ -145,7 +145,7 @@ permalink: members.html
     {{ others | size }} other members are not listed here.
 {% enden %}
 {% sp %}
-    mi {{ others | size | nnp }} li lon kulupu li pana ala e nimi mi tawa lipu
+    mi {{ others | size | nnp }} li lon kulupu li pana ala e nimi tawa lipu
 {% endsp %}
 {% endsplit %}
 
