@@ -137,6 +137,13 @@ body.sp-only .split:not(h1, footer) [lang="en"]{
     display: none
 }
 
+    :is(a.sp, .sp a){
+        text-underline-offset: 0.3em;
+        text-decoration-thickness: 0.01em; 
+       
+    }
+
+
 
 @media (width < 800px) {
     .split {
