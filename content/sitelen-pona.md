@@ -4,8 +4,8 @@ permalink: sitelen-pona.html
 ---
 {% splith %}
     {% en %}What does Sitelen Pona look like?{% enden %}
-    {% sp %}sitelen pona li seme tawa lukin{% endsp %}
-    {% sl %}sitelen pona li seme tawa lukin?{% endsl %}
+    {% sp %}sitelen pona li seme lukin{% endsp %}
+    {% sl %}sitelen pona li seme lukin?{% endsl %}
 
 {% endsplith %}
 
@@ -52,28 +52,36 @@ nasin tawa pi sitelen pona li sama sitelen Lasina lon tenpo mute. o open lon sew
 ![combined glyphs: pipi inside tomo, sike above pipi](/assets/sitelen/tomopipi-pipisike.svg)
 
 {% splith %}
-    {% en %}What are the advantages of Sitelen Pona?{% enden %}
-    {% sp %}sitelen pona li ken pona seme{% endsp %}
-    {% sl %}sitelen pona li ken pona seme?{% endsl %}
+    {% en %}Why use Sitelen Pona?{% enden %}
+    {% sp %}sitelen pona li pona tan seme{% endsp %}
+    {% sl %}sitelen pona li pona tan seme?{% endsl %}
 
 {% endsplith %}
 
 {% split %}
 {% en %}
-For Toki Pona, a language that has less than 150 words, writing with pictographs in this way feels so natural! It can save so much space and time when writing by hand. Because it’s such a visual script, some find text written with Sitelen Pona easier to understand than text in the Latin alphabet.
+The majority of Toki Pona speakers can read and write Sitelen Pona, and many love to do so. Because Toki Pona has less than 150 words, many people find that writing it with pictographs is natural, efficient, and even fun. 
+
+Because it’s such a visual script, some people find a text written with Sitelen Pona more intuitive to understand than the same text in the Latin alphabet.
 {% enden %}
 
 {% sp %}
+jan li sona e toki+pona la tenpo mute la ona li sona e sitelen+pona kin  
+sitelen pona li pona mute tawa jan mute kulupu  
 nimi pi toki+pona li mute lili la sitelen pi toki+pona li ken mute lili kin  
 kepeken palisa sitelen la luka li ken sitelen pona kepeken tenpo lili   
-zz li ken ala sitelen [la.sina:] kepeken tenpo pi lili sama  
+tan ni taso ala la sitelen pona li musi pilin li pona pilin tawa jan mute  
+
 sitelen pona li ken pona sona tawa lukin la jan pi mute lili li toki e ni  
 te mi lukin e toki kepeken sitelen pona la ken lukin mi li pona  
 zz mi kepeken sitelen [la.sina:] la ken lukin mi li pona sama ala to
 {% endsp %}
 
 {% sl %}
-nimi pi toki pona li mute lili la sitelen pona pi toki pona li ken mute lili kin. kepeken palisa sitelen la luka li ken sitelen pona kepeken tenpo lili li ken ala sitelen Lasina kepeken tenpo pi lili sama. sitelen pona li ken pona sona tawa lukin la jan pi mute lili li toki e ni: "mi lukin e toki kepeken sitelen pona la ken lukin mi li pona. mi kepeken sitelen Lasina la ken lukin mi li pona sama ala."
+jan li sona e toki pona la tenpo mute la ona li sona e sitelen pona kin. sitelen pona li pona mute tawa jan mute kulupu. nimi pi toki pona li mute lili la sitelen pona pi toki pona li ken mute lili kin. kepeken palisa sitelen la luka li ken sitelen pona kepeken tenpo lili. tan ni taso ala la, sitelen pona li musi pilin li pona pilin tawa jan mute.
+
+
+sitelen pona li ken pona sona tawa lukin la jan pi mute lili li toki e ni: "mi lukin e toki kepeken sitelen pona la ken lukin mi li pona. mi kepeken sitelen Lasina la ken lukin mi li pona sama ala."
 {% endsl %}
 
 {% endsplit %}
