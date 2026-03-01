@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-selected-language="bilingual" data-selected-script="sp">
 
 <head>
     <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1">
@@ -56,16 +56,16 @@
                 grid-column: unset
             }
 
-            #menu{
+            #menu {
                 position: fixed;
                 z-index: 2;
                 width: 100%;
                 top: 1rem;
                 display: grid;
-                grid-template-columns:auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
+                grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
             }
 
-            #menu > details{
+            #menu>details {
                 display: flex;
                 flex-direction: column;
                 align-items: end;
@@ -76,29 +76,31 @@
                 border-radius: .5rem;
                 text-align: right;
                 box-shadow: var(--jelo-5) 0 0;
-                transition: box-shadow .25s cubic-bezier(.08,.82,.17,1);
+                transition: box-shadow .25s cubic-bezier(.08, .82, .17, 1);
                 font-size: 1.25rem;
             }
 
-            nav a{
+            nav a {
                 color: var(--jelo-8)
             }
 
-            #menu summary{
+            #menu summary {
                 list-style-type: none;
                 padding: .75rem;
 
             }
 
-            #menu summary:hover{
+            #menu summary:hover {
                 cursor: pointer
             }
-            #menu summary:focus-visible{
+
+            #menu summary:focus-visible {
                 outline: none;
 
             }
-             details:has(summary:focus-visible){ 
-                outline: 0.1rem solid var(--lupa);  
+
+            details:has(summary:focus-visible) {
+                outline: 0.1rem solid var(--lupa);
                 border-radius: 0.5rem;
             }
 
@@ -112,25 +114,25 @@
                 padding-bottom: .25rem
             }
 
-            #menu details[open] summary{
+            #menu details[open] summary {
                 margin-bottom: 1rem;
                 padding: 0 0 1rem;
                 border-bottom: solid var(--jelo-5) 2px;
                 width: 100%;
             }
 
-            #menu img{
+            #menu img {
                 height: 1.5rem;
                 display: block;
                 margin-left: auto;
-                transition: all .25s cubic-bezier(0,1,0,1);
+                transition: all .25s cubic-bezier(0, 1, 0, 1);
             }
 
-            #menu details[open] img{
+            #menu details[open] img {
                 transform: rotate(90deg)
             }
 
-            #menu select{
+            #menu select {
                 margin-bottom: 8px;
             }
 
@@ -140,36 +142,42 @@
                 border-top: solid #ffccab 2px;
             }
 
-            footer > p {
+            footer>p {
                 margin-top: 2rem;
             }
 
-            footer a, nav a{
+            footer a,
+            nav a {
                 color: var(--jelo-8);
-                transition: all .25s cubic-bezier(0,1,0,1)
+                transition: all .25s cubic-bezier(0, 1, 0, 1)
             }
 
-            footer p#links a, nav a {
+            footer p#links a,
+            nav a {
                 display: block;
                 text-decoration-color: transparent;
                 margin-bottom: .5rem;
             }
 
-            footer a:hover, footer p#links a:hover, nav a:hover{
+            footer a:hover,
+            footer p#links a:hover,
+            nav a:hover {
                 color: black;
                 text-decoration-color: black
             }
 
-            footer > p::before{
+            footer>p::before {
                 display: none
             }
 
             @media (width < 800px) {
-                header, #menu {
+
+                header,
+                #menu {
                     padding: 1rem calc(3vw + 1rem)
                 }
 
-                #menu{
+                #menu {
                     width: calc(96vw - 3rem);
                     top: 0
                 }
@@ -189,50 +197,20 @@
                 }
             }
 
-            @media (width >= 935px) {
-                #menu{display:none}
-                header{padding-left: 12.5rem;}
+            @media (width >=935px) {
+                #menu {
+                    display: none
+                }
+
+                header {
+                    padding-left: 12.5rem;
+                }
             }
         </style>
-        <script>
-            function langChange(selection) {
-
-                var index = selection.selectedIndex;
-                if (index == 0) {
-                    document.querySelector("body").classList.add("en-and-sp");
-                    document.querySelector("body").classList.remove("en-only");
-                    document.querySelector("body").classList.remove("sp-only");
-                }
-                if (index == 1) {
-                    document.querySelector("body").classList.remove("en-and-sp");
-                    document.querySelector("body").classList.add("en-only");
-                    document.querySelector("body").classList.remove("sp-only");
-                }
-                if (index == 2) {
-                    document.querySelector("body").classList.remove("en-and-sp");
-                    document.querySelector("body").classList.remove("en-only");
-                    document.querySelector("body").classList.add("sp-only");
-                }
-
-            }
-            function scriptChange(selection) {
-
-                var index = selection.selectedIndex;
-                if (index == 0) {
-                    document.querySelector("body").classList.add("script-sp");
-                    document.querySelector("body").classList.remove("script-sl");
-                }
-                if (index == 1) {
-                    document.querySelector("body").classList.remove("script-sp");
-                    document.querySelector("body").classList.add("script-sl");
-                }
-            }
-
-        </script>
         <div>
             <a href="/index.html" style="z-index: 99">
                 <img alt="association logo" src="/assets/sitelen/logo.svg">
-                </a>
+            </a>
             <p lang="tok" class="sp">kulupu pali pi sitelen pona</p>
             <p lang="en">sitelen pona publishers &<br>typographers association</p>
         </div>
@@ -241,48 +219,59 @@
 
 <div id="menu">
     <details>
-    <summary><img alt="Menu" src="/assets/sitelen/menu.svg"></summary>
-    <nav>
-    <a href="/index.html">about us</a>
-    <a href="/sitelen-pona.html">about sitelen pona</a>
-    <a href="/members.html">our members</a>
-    <a href="/contact.html">contact</a></nav>
-    <select for="language-select" onchange="langChange(this);">
-        <option value="bilingual" lang="en" selected>Bilingual</option>
-        <option value="english" lang="en">English only</option>
-        <option value="sitelen-pona" lang="tok">toki pona taso</option>
-    </select>
-    <select lang="tok" for="script-select" onchange="scriptChange(this);">
-        <option value="sitelen-pona" lang="tok" selected>sitelen pona</option>
-        <option value="toki-pona" lang="tok">sitelen Lasina</option>
-    </select>
+        <summary><img alt="Menu" src="/assets/sitelen/menu.svg"></summary>
+        <nav>
+            <a href="/index.html">about us</a>
+            <a href="/sitelen-pona.html">about sitelen pona</a>
+            <a href="/members.html">our members</a>
+            <a href="/contact.html">contact</a>
+        </nav>
+        <select name="language">
+            <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
+            <option data-language="en" value="en" lang="en">English only</option>
+            <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
+        </select>
+        <select lang="tok" name="script">
+            <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
+            <option data-script="sl" value="sl" lang="tok">sitelen Lasina</option>
+        </select>
 
     </details>
 </div>
 
 <div id="sidebar">
     <nav>
-    <a href="/index.html">about us</a>
-    <a href="/sitelen-pona.html">about sitelen pona</a>
-    <a href="/members.html">our members</a>
-    <a href="contact.html">contact</a></nav>
-    <select for="language-select" onchange="langChange(this);">
-        <option value="bilingual" lang="en" selected>Bilingual</option>
-        <option value="english" lang="en">English only</option>
-        <option value="sitelen-pona" lang="tok">toki pona taso</option>
+        <a href="/index.html">about us</a>
+        <a href="/sitelen-pona.html">about sitelen pona</a>
+        <a href="/members.html">our members</a>
+        <a href="contact.html">contact</a>
+    </nav>
+    <select name="language">
+        <option data-language="bilingual" value="bilingual" lang="en">Bilingual</option>
+        <option data-language="en" value="en" lang="en">English only</option>
+        <option data-language="tok" value="tok" lang="tok">toki pona taso</option>
+    </select>
+    <select lang="tok" name="script">
+        <option data-script="sp" value="sp" lang="tok">sitelen pona</option>
+        <option data-script="sl" value="sl" lang="tok">sitelen Lasina</option>
     </select>
 </div>
 
+<script src="/scripts/switchers.js"></script>
+
 <main>
 
-<h1 class="split"><div>{{ title }}<div></h1>
-{{ content }}
+    <h1 class="split">
+        <div>{{ title }}<div>
+    </h1>
+    {{ content }}
 
 </main>
 <footer class="split">
     <p lang="en" id="links"><a>Legal info (WIP)</a><a href="https://muteante.github.io/sitelenpona/contact">Contact us</a><a>Join us! (WIP)</a></p>
     <p lang="en" style="grid-column: 4">This website uses <a href="https://github.com/googlefonts/NunitoSans">Nunito Sans</a>, <a href="https://lipamanka.gay/linjamanka">linja lipamanka</a> (both
-        licensed under the OFL) and <a href="https://github.com/ETBCOR/nasin-nanpa">nasin-nanpa</a> (licensed under the MIT License.)</p>
+        licensed under the OFL) and <a href="https://github.com/ETBCOR/nasin-nanpa">nasin-nanpa</a> (licensed under the
+        MIT License.)</p>
     </section>
 </footer>
 

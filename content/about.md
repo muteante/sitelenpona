@@ -7,6 +7,8 @@ permalink: index.html
 {% splith %}
     {% en %}Who We Are{% enden %}
     {% sp %}kulupu ni li seme{% endsp %}
+    {% sl %}kulupu ni li seme?{% endsl %}
+
 {% endsplith %}
 
 {% split %}
@@ -34,6 +36,11 @@ permalink: index.html
 {% endsp %}
 
 {% sl %}
+  kulupu pali pi sitelen pona li kulupu sona pi sitelen pona. ijo ale pi kulupu ni li sona wawa e sitelen pona li pali pi <a href="sitelen-pona.html">sitelen pona</a> kepeken nasin ante.
+
+ona pi kulupu ni, li ken pali e ilo nanpa wawa, li pana e sona pi nasin pona tawa kulupu, li ken pali musi, li ken pana e lipu toki, li ken pali e nasin sitelen ilo sin, li ijo ante kin!
+
+    ni la,  kulupu li sama ilo pi sona mute. kepeken ilo ni la nasin pi sitelen pona o kama wawa o kama suli  lon kulupu pi toki pona, o kama ken  lon kulupu pi toki pona ala
 {% endsl %}
 
 

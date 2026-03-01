@@ -4,6 +4,8 @@ import markdownItAttrs from 'markdown-it-attrs';
 
 export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/");
+    eleventyConfig.addPassthroughCopy("scripts/");
+
     eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.amendLibrary("md", (md) => {
         md.use(markdownItAttrs);

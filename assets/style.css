@@ -126,30 +126,36 @@ main img {
 }
 
 
-body.en-only .split p::before, body.sp-only .split p::before{
+[data-selected-language="en"] .split p::before, [data-selected-language="tok"] .split p::before{
     display: none
 }
-body.en-only .split:not(h1, footer) *, body.sp-only .split:not(h1, footer) *{
+[data-selected-language="en"] .split:not(h1, footer) *, [data-selected-language="tok"] .split:not(h1, footer) *{
     grid-column: 2 / 5;
     margin-bottom: 0;
 }
 
-body.en-only .split .sp{
+[data-selected-language="en"] .split :is(.sp, .sl){
     display: none;
 }
-body.en-only .split:not(h1, footer) [lang="en"]{
+[data-selected-language="en"] .split:not(h1, footer) [lang="en"]{
     --en-split: 30rem;
 }
 
-body.sp-only .split:not(h1, footer) [lang="en"]{
+[data-selected-language="tok"] .split:not(h1, footer) .sl{
+    width: unset;
+    max-width: 30rem;
+}
+
+
+[data-selected-language="tok"] .split:not(h1, footer) [lang="en"]{
     display: none;
 }
 
-body.script-sp :is(.split, .splith, .condensed) .sl {
+[data-selected-script="sp"] :is(.split, .splith, .condensed) .sl {
     display: none;
 
 }
-body.script-sl :is(.split, .splith, .condensed) .sp {
+[data-selected-script="sl"] :is(.split, .splith, .condensed) .sp {
     display: none;
 
 }
