@@ -135,8 +135,7 @@ permalink: members.html
 {% for item in current %}
     <li>
         <details name="current">
-        <summary>
-        <span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span>{% if item.enname != item.slname %}<span lang="tok" class="sl"><br>{{item.slname}}</span>{% endif %}</summary><div class="show-tok">{% for ijo in item.pali %}<p lang="tok" class="sp">{{ ijo }}</p>{% endfor %}{% for ijo in item.palisl %}<p lang="tok" class="sl">{{ ijo }}</p>{% endfor %}</div>{% for ijo in item.titles %}<p class="show-en">{{ ijo }}</p>{% endfor %}</details>
+        <summary><span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span>{% if item.enname != item.slname %}<span lang="tok" class="sl"><br>{{item.slname}}</span>{% endif %}</summary><div class="show-tok">{% for ijo in item.pali %}<p lang="tok" class="sp">{{ ijo }}</p>{% endfor %}{% for ijo in item.palisl %}<p lang="tok" class="sl">{{ ijo }}</p>{% endfor %}</div>{% for ijo in item.titles %}<p class="show-en">{{ ijo }}</p>{% endfor %}</details>
     </li>
 {% endfor %}
 </ul>
