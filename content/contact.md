@@ -27,12 +27,22 @@ kulupu li kama ken ala lukin e toki ale pi tenpo pini lon ilo ante
 sina pana e lipu kepeken nimi pi ilo ante li awen kute ala tan mi la   
 zz sina o pana sin e toki kepeken nimi pi ilo sin
 {% endsp %}
+
+{% sl %}
+sina wile toki tawa jan lawa kulupu la, o kepeken [ toki@sitelenpona.net](mailto:toki@sitelenpona.net).
+
+tenpo pini la kulupu li kepeken ilo ante pi nimi ante. tenpo ni la kulupu li kepeken ilo sin pi nimi sin. kulupu li kama ken ala lukin e toki ale pi tenpo pini lon ilo ante.sina pana e lipu kepeken nimi pi ilo ante li awen kute ala tan mi la sina o pana sin e toki kepeken nimi pi ilo sin.
+{% endsl %}
+
+
 {% endsplit %}
 
 
 {% splith %}
     {% en %}Mailing{% enden %}
     {% sp %}kepeken lipu kasi{% endsp %}
+    {% sl %}kepeken lipu kasi{% endsl %}
+
 {% endsplith %}
 
 {% split %}
@@ -65,6 +75,19 @@ nanpa pi ma pana li te H3H zz 2A1 to
 nimi pi ma suli li ma [kasi . nasin . taso .]  
 {% endsp %}
 
+{% sl %}
+sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni:
+
+tomo suli li #LLLAMMMMW.   
+tomo lili li #LLTAMMLTT.  
+nasin tomo li "nasin pi ma Sussex".  
+ma tomo  li ma Monkela.   
+ma lili li ma Kepe.  
+ma pana li lon poka ni: "H3H 2A1."  
+nimi pi ma suli li ma Kanata.
+{% endsl %}
+
+
 <!--{% sp %}
 sina wile pana e ijo tawa kulupu la   
 zz o sitelen e sona ale ni 
@@ -88,6 +111,8 @@ zz li ma [kasi . nasin . taso .]
 {% splith %}
     {% en %}Discord{% enden %}
     {% sp %}kepeken ilo [sina. ko.]{% endsp %}
+    {% sl %}kepeken ilo Siko {% endsl %}
+
 {% endsplith %}
 
 {% split %}
@@ -96,10 +121,14 @@ We currently hold our meetings in a set of private channels on the public Discor
 {% enden %}
 
 {% sp %}
-[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]  
-lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len  
+[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]  lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len  
 taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala  
 jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin    
 sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala
 {% endsp %}
+
+{% sl %}
+[ma pi nasin sitelen](https://discord.gg/h2pNXP5Eh2) li lon ilo [sina.ko.]. lon ma pi nasin sitelen la kulupu pali pi sitelen pona li toki li pali kepeken tomo len. taso jan pi kulupu pali ala li ken lon ma pi nasin sitelen lon tomo toki mute pi len ala. jan mute pi kulupu pali li toki lon tomo len lon tomo pi len ala kin. sina wile sona e ijo pi kulupu pali la sina ken toki tawa kulupu lon tomo pi len ala. 
+{% endsl %}
+
 {% endsplit %}

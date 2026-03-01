@@ -106,6 +106,8 @@ permalink: members.html
 {% splith %}
     {% en %}Current Members{% enden %}
     {% sp %}seme li lon kulupu{% endsp %}
+    {% sl %}seme li lon kulupu?{% endsl %}
+
 {% endsplith %}
 
 
@@ -116,6 +118,10 @@ permalink: members.html
 {% sp %}
     tenpo ni la mi {{ all | size | nnp }} li lon kulupu pali pi sitelen pona
 {% endsp %}
+{% sl %}
+    tenpo ni la mi {{ all | size | nnp }} li lon kulupu pali pi sitelen pona.
+{% endsl %}
+
 {% endsplit %}
 
  <div class="tiny-toggle">
@@ -129,9 +135,9 @@ permalink: members.html
     <li>
         <details name="current">
         <summary>
-        <span lang="en"> {{ item.enname }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span></summary>
+        <span lang="en"> {{ item. }}</span> <span class="emoji">{{ item.emoji }}</span><span lang="tok" class="sp">{{item.spname}}</span></summary>
         {% for ijo in item.pali %}<p lang="tok" class="sp show-sp">{{ ijo }}</p>{% endfor %}
-        {% for ijo in item.titles %}<p class="show-en">{{ ijo }}</p>{% endfor %}
+        {% for ijo in item.titleennames %}<p class="show-en">{{ ijo }}</p>{% endfor %}
 
         </details>
     </li>
@@ -147,28 +153,34 @@ permalink: members.html
 {% sp %}
     mi {{ others | size | nnp }} li lon kulupu li pana ala e nimi tawa lipu
 {% endsp %}
+{% sl %}
+    mi {{ others | size | nnp }} li lon kulupu li pana ala e nimi tawa lipu.
+{% endsl %}
 {% endsplit %}
 
 
 {% splith %}
     {% en %}Association President{% enden %}
     {% sp %}jan lawa kulupu{% endsp %}
+    {% sl %}jan lawa kulupu{% endsl %}
 {% endsplith %}
 
 
 {% split %}
 {% en %}
 Gregory Danielson III is serving as the association's president as of <time datetime="2026-01-22">January 22, 2026</time>. 
-
 {% enden %}
-{% sp %}
 
+{% sp %}
 mun lawa [ken . kalama . nasa][mute:] li kama jan lawa kulupu  
 <time datetime="2026-01-22">
 zz lon tenpo suno nanpa mute tu lon tenpo mun nanpa wan   
 zz lon tenpo sike nanpa mute ale mute luka wan </time>
-
 {% endsp %}
+
+{% sl %}
+mun lawa Kekan San li kama jan lawa kulupu <time datetime="2026-01-22">lon tenpo suno #MT lon tenpo mun nanpa #W  lon tenpo sike nanpa #MAMLW.</time>
+{% endsl %}
 {% endsplit %}
 
 
@@ -177,6 +189,7 @@ zz lon tenpo sike nanpa mute ale mute luka wan </time>
 {% splith %}
     {% en %}Former Members{% enden %}
     {% sp %}seme li weka tan kulupu {% endsp %}
+    {% sl %}seme li weka tan kulupu?{% endsl %}
 {% endsplith %}
 
 <ul class="condensed shuffle">

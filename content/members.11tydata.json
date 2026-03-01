@@ -3,6 +3,7 @@
         "listed": "true",
         "enname": "waso Keli",
         "spname": "waso [ken. lukin insa]",
+        "slname": "waso Keli",
         "emoji": "🇨🇦",
         "ownwords": [
             "[SP Font Maker](https://wasokeli.github.io/sp-font-maker/)",
@@ -11,11 +12,14 @@
         "spbio": [
 
         ],
+        "palisl": [
+            "ona li pali e nasin sitelen sin ni: <br>[leko majuna](https://kelseyhigham.github.io/leko-majuna)",
+            "ona li pali e ilo ni: <br>[ilo pali pi nasin sitelen](https://wasokeli.github.io/sp-font-maker/)"
+
+        ],
         "pali": [
             "li pali e nasin sitelen sin ni <br> [leko majuna](https://kelseyhigham.github.io/leko-majuna)",
             "li pali e ilo ni <br> [ilo pali pi nasin sitelen](https://wasokeli.github.io/sp-font-maker/)"
-
-
         ],
         "titles": [
             "Font Designer: <br> [leko majuna](https://kelseyhigham.github.io/leko-majuna)",
@@ -27,12 +31,18 @@
         "listed": "true",
         "enname": "Mika",
         "spname": "󱤑 󱦐󱤳󱤌󱤞󱤄󱦑",
+        "slname": "jan Mika",
         "emoji": "🇺🇸🏳️‍⚧️",
         "ownwords": [
             "co-creator of nasin leko suwi",
             "sitelen pona rendering in Minecraft"
         ],
         "spbio": [
+
+        ],
+        "palisl": [
+            "ona li pali e nasin sitelen ni: <br> [nasin leko sewi](https://raw.githubusercontent.com/lipu-linku/ijo/main/nasinsitelen/nasin-leko-suwi.ttf)",
+            "ona li pali ilo tawa ni: <br> musi Manka li kepeken sitelen pona"
 
         ],
         "pali": [
@@ -51,11 +61,17 @@
             "listed": "true",
         "enname": "lipamanka",
         "spname": "lipamanka",
+        "slname": "lipamanka",
         "emoji": " 🏳️‍🌈",
         "ownwords": [
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li alasa e sona nimi",
+             "ona li pali e musi sin ni: <br> [ilo Jutu](https://www.youtube.com/channel/UCelq3xUdjS47C_svPFVRO0g)",
+            "ona li pali e nasin sin ni pi toki sitelen: <br> [weka sitelen li lon open](https://lipamanka.gay/toki-pona-taso)"
         ],
         "pali": [
 
@@ -80,11 +96,16 @@
             "listed": "true",
         "enname": "waso Juwan",
         "spname": "waso [jasima unpa wan :]",
+        "slname": "waso Juwan",
         "emoji": "🇧🇷🇵🇹",
         "ownwords": [
      
         ],
         "spbio": [
+
+        ],
+        "palisl": [
+            "[ona li pali pi <br>lipu Wikipesija](https://meta.wikimedia.org/wiki/User:Juwan)"
 
         ],
         "pali": [
@@ -102,6 +123,7 @@
             "listed": "true",
         "enname": "jan Popo",
         "spname": "jan [pona . pona .]",
+        "slname": "jan Popo",
         "emoji": "🇳🇿",
         "ownwords": [
             "",
@@ -109,6 +131,11 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li pali e lipu musi sin",
+            "ona li toki pona e lipu",
+            "ona li pali e nasin sin ni pi toki sitelen: <br> lipu toki pi sitelen musi pi ma Nijon li toki pona kepeken sitelen pona"
         ],
         "pali": [
             "li pali e lipu musi sin",
@@ -132,6 +159,7 @@
             "listed": "true",
         "enname": "Gregory Danielson III",
         "spname": "mun [ken . kalama . nasa][mute:]",
+        "slname": "mun Kekan San",
         "emoji": "🇺🇸",
         "ownwords": [
             "creating one of the first lesson series to teach sitelen pona as a central part of toki pona,",
@@ -140,6 +168,12 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li pali e lipu sona ni: <br>[o kama sona a](https://mun.la/sona/)",
+            "ona li pali kulupu e ilo ni: <br> [lipu Linku](https://linku.la/)",
+            "ona li pali e ilo ni: <br> [ilo Muni](https://ilo.muni.la/)",
+            "ona li pali e kulupu ni: <br> [ma toki pona pi ilo Wija](https://sona.pona.la/wiki/Ma_Toki_Pona_VR)"
         ],
         "pali": [
             "li pali e lipu sona ni <br>[o kama sona a](https://mun.la/sona/)",
@@ -162,6 +196,7 @@
             "listed": "true",
         "enname": "Ret Samys",
         "spname": "jan [ken .][taso .mi:] ",
+        "slname": "jan Ke Tami",
         "emoji": "🇩🇪🇫🇷",
         "ownwords": [
             "[font overview and collection](https://antetokipona.infinityfreeapp.com/font)",
@@ -171,6 +206,12 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li awen e sona lon poki ni: <br> [poki pi nasin sitelen](https://antetokipona.infinityfreeapp.com/font/)",
+            "ona li pali e lipu musi ni: <br>[*kijetesantakalu o!*](https://kijetesantakalu-o.tumblr.com/)",
+            "ona li namako e nasin sitelen ni pi ona ala: <br> [nasin Nishiki teki lili](https://github.com/RetSamys/nishiki-teki-lili) en [linja pimeja pona](https://github.com/RetSamys/linja-pimeja-pona) en [nasin sitelen pu](https://github.com/RetSamys/nasin-sitelen-pu)",
+            "ona li mama pi pali kulupu ni: <br> [lipu tawa pi sitelen pona](https://liputawa.wordpress.com)"
         ],
         "pali": [
             "li awen e sona lon poki ni <br> [poki pi nasin sitelen](https://antetokipona.infinityfreeapp.com/font/)",
@@ -193,6 +234,7 @@
             "listed": "true",
         "enname": "mute ante",
         "spname": "mute ante",
+        "slname": "mute ante",
         "emoji": "",
         "ownwords": [
             "sitelen pona font",
@@ -200,6 +242,12 @@
             "sitelen pona website"
         ],
         "spbio": [
+
+        ],
+        "palisl": [
+            "ona li pali e nasin sin ni pi toki sitelen: <br> nasin li nasa",
+            "ona li pali e nasin sitelen sin",
+            "ona li pali e lipu ilo ni: <br> [lipu pi kulupu pali pi sitelen pona](/index.html)"
 
         ],
         "pali": [
@@ -220,12 +268,16 @@
         "listed": "true",
         "enname": "Alison Withonel",
         "spname": "seme [alasa lipu ilo sona open nasin]",
+        "slname": "seme Alison",
         "emoji": "<span style=\"display: inline-block; transform: scaleY(-1)\">🇺🇸</span>🏳️‍⚧️",
         "ownwords": [
             "[artist](https://youtu.be/mwl2gLiI4os)"
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "[ona li pali musi](https://youtu.be/mwl2gLiI4os)"
         ],
         "pali": [
             "[li pali musi](https://youtu.be/mwl2gLiI4os)"
@@ -242,12 +294,16 @@
         "listed": "true",
         "enname": "Shachar Zidon",
         "spname": "jan [tonsi en leko . sona ilo]",
+        "slname": "jan Telesi",
         "emoji": "🏳️‍⚧️",
         "ownwords": [
             "technical maintainer of lipu Linku"
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+         "ona li awen pali ilo lon pali kulupu ni: <br> [lipu Linku](https://linku.la)"
         ],
         "pali": [
          "li awen pali ilo lon pali kulupu ni <br> [lipu Linku](https://linku.la)"
@@ -265,13 +321,21 @@
         "listed": "true",
         "enname": "Majeka",
         "spname": "musi-ike[meli+awenjan+eko+ale]",
+        "slname": "musi ike Majeka",
         "emoji": "🇳🇱",
         "ownwords": [
-            "len Majeka pi toki toki, sitelen Lukasele, sitelen Ilosele, and nanpa Pankantan",
+            "",
             "sitelen Ongezellig ale",
             "Handwriting expert"
         ],
         "spbio": [
+
+        ],
+        "palisl": [
+                        "onali pali e nasin sitelen sin ni: <br> len Majeka pi toki toki, en sitelen Lukasele, en sitelen Ilosele, en nanpa Pankantan",
+"onali pali e nasin sin lon lipu ni: <br> [sitelen Onkesele en LIPUMAJA](https://yan-mayeka.github.io/lipu/sitelen-pona/tomo-nasin-sp.html)", 
+"onali sona mute e niL <br> jan li sitelen pona kepeken luka kepeken nasin seme"
+
 
         ],
         "pali": [
@@ -293,6 +357,7 @@
         "listed": "true",
         "enname": "Spencer van der Meulen",
         "spname": "jan [pana e nasin sona ante]",
+        "slname": "jan Pensa",
         "emoji": "🇳🇱",
         "ownwords": [
             "translator and publisher of *Tokipono: la lingvo de bono*",
@@ -301,6 +366,11 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li pali musi",
+            "ona li nasin e pali kulupu ni: <br> [nimi lili pi kulupu ISO](https://iso639-3.sil.org/request/2021-043)",
+            "ona li pali e lipu ni: <br> [lipu pu pi toki Epelanto](https://blackwells.co.uk/bookshop/product/Tokipono-by-Lang-Sonja/9789464376098)"
         ],
         "pali": [
             "li pali musi",
@@ -319,6 +389,7 @@
         "listed": "true",
         "enname": "hecko",
         "spname": "jan [kili. taso.]",
+        "slname": "jan Kita",
         "emoji": "🇵🇱",
         "ownwords": [
             "designer of [linja Kita](<https://github.com/RetSamys/linja-Kita>) and ma pona pi toki pona's sitelen pona emoji",
@@ -326,6 +397,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
             "li pali e nasin sitelen sin ni <br> [linja [kili.taso]](https://github.com/RetSamys/linja-Kita) <br> sitelen toki musi pi te [ma pona pi toki pona](https://discord.gg/mapona) to",
@@ -345,6 +419,7 @@
 
         "enname": "",
         "spname": "ijo Kesi",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -352,6 +427,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -366,6 +444,7 @@
 
         "enname": "Daniel Huang",
         "spname": "ilo [tan ale nasin ilo]",
+        "slname": "ilo Tani",
         "emoji": "",
         "ownwords": [
             "provides sitelen pona on nimi.li",
@@ -373,6 +452,10 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li pali e ilo ni: <br> [nimi.li](https://nimi.li)",
+            "ona li alasa e sona ni: <br> [*nasin toki kulupu li sama seme li kama ante seme*](https://doi.org/10.48550/arXiv.2508.10246)"
         ],
         "pali": [
             "li pali e ilo ni <br> te [nimi li](https://nimi.li) to",
@@ -391,6 +474,7 @@
 
         "enname": "",
         "spname": "jan Isapela",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -398,6 +482,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -412,6 +499,7 @@
 
         "enname": "",
         "spname": "jan Janpa Onjon",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -419,6 +507,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -433,6 +524,7 @@
 
         "enname": "",
         "spname": "jan Lepeka",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -440,6 +532,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -454,6 +549,7 @@
 
         "enname": "",
         "spname": "kolo po Menasewi",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -461,6 +557,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -475,6 +574,7 @@
 
         "enname": "",
         "spname": "kulupu kasi",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -482,6 +582,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -496,6 +599,7 @@
 
         "enname": "",
         "spname": "jan Alonola",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -503,6 +607,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -517,6 +624,7 @@
 
         "enname": "",
         "spname": "jan Ali",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -524,6 +632,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -538,6 +649,7 @@
 
         "enname": "",
         "spname": "jan Kipin",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -545,6 +657,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -559,6 +674,7 @@
 
         "enname": "",
         "spname": "jan Misali",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -566,6 +682,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -580,6 +699,7 @@
 
         "enname": "",
         "spname": "jan Nikola",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -587,6 +707,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -601,6 +724,7 @@
 
         "enname": "",
         "spname": "jan Umijotalu",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -608,6 +732,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -622,6 +749,7 @@
 
         "enname": "kala Asi",
         "spname": "kala [alasa sona ilo]",
+        "slname": "kala Asi",
         "emoji": "",
         "ownwords": [
             "maintainer of Sitelen Pona font collection initiator of lipu Wasona"
@@ -629,6 +757,10 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li mama e lipu sona ni: <br> [lipu Wasona](https://wasona.com/)", 
+            "ona li awen e ijo lon poki ni: <br> [nasin sitelen li lon lipu Linku](https://linku.la/fonts)"
         ],
         "pali": [
             "li mama e lipu sona ni <br> [lipu [waso.sona.:]](https://wasona.com/)", 
@@ -647,6 +779,7 @@
 
         "enname": "",
         "spname": "jan Seli",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -654,6 +787,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -668,6 +804,7 @@
 
         "enname": "",
         "spname": "jan Shihali",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -676,6 +813,9 @@
         "spbio": [
             ""
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -690,6 +830,7 @@
 
         "enname": "sieni",
         "spname": "soko&#65025; [soko&#65025; ilo jasima esun nasa ilo]",
+        "slname": "soko Sijeni",
         "emoji": "🇪🇸",
         "ownwords": [
             "",
@@ -697,6 +838,10 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+             "[ona li pali musi](https://sijeni.li.pona.la/sp/)",
+            "ona li pali e nasin sin ni pi toki sitelen: <br>[linja toki li ken open lon poka nasa](https://sijeni.li.pona.la/sp/taso/)"
         ],
         "pali": [
              "[li pali musi](https://sijeni.li.pona.la/sp/)",
@@ -715,6 +860,7 @@
 
         "enname": "Ethan Corgatelli",
         "spname": "jan itan",
+        "slname": "jan Itan",
         "emoji": "🇺🇸",
         "ownwords": [
             "Made nasin nanpa font",
@@ -722,6 +868,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li pali e nasin sitelen sin ni: <br>[nasin nanpa](https://github.com/etbcor/nasin-nanpa)"
         ],
         "pali": [
             "li pali e nasin sitelen sin ni <br>[nasin nanpa](https://github.com/etbcor/nasin-nanpa)"
@@ -739,6 +888,7 @@
 
         "enname": "jan Tepo",
         "spname": "jan [tenpo. pona.]",
+        "slname": "jan Tepo",
         "emoji": "",
         "ownwords": [
             "",
@@ -747,10 +897,11 @@
         "spbio": [
 
         ],
+        "palisl": [
+            "ona li open e pali ni: <br> [sitelen pona o lon <br> nasin UCSUR](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit)"
+        ],
         "pali": [
             "li open e pali ni <br> [sitelen pona o lon <br> nasin [jelo uta sina.jelo. sina . jaki.]](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit)"
-
-
         ],
         "titles": [
             "Organizer: <br> [UCSUR Proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit)"
@@ -763,6 +914,7 @@
 
         "enname": "",
         "spname": "jan Misali",
+        "slname": "",
         "emoji": "",
         "ownwords": [
             "",
@@ -770,6 +922,9 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            ""
         ],
         "pali": [
 
@@ -785,6 +940,7 @@
 
         "enname": "Chelsea Raacz",
         "spname": "jan [laso. kulupu. seli.]",
+        "slname": "jan Lakuse",
         "emoji": "",
         "ownwords": [
             "",
@@ -792,6 +948,10 @@
         ],
         "spbio": [
 
+        ],
+        "palisl": [
+            "ona li pali e lipu sona ni:  <br> [lipu Inteken](https://raacz.neocities.org/toki-pona/beginner-material/)",
+            "ona li mama e pali kulupu ni: <br> [utala musi](https://utala.pona.la/)"
         ],
         "pali": [
             "li pali e lipu sona ni  <br> [lipu [insa. telo. ken.] ](https://raacz.neocities.org/toki-pona/beginner-material/)",
@@ -811,17 +971,23 @@
 "former": [
      {
        "enname": "The Sonja Lang Corps",
-        "spname": "kulupu [sina olin n jan ali lawa a nasin kulupu ona]"
+        "spname": "kulupu [sina olin n jan ali lawa a nasin kulupu ona]",
+        "slname": "kulupu Sonjalanko"
+
 
     },
      {
        "enname": "jan Sepulon",
-        "spname": "jan [sina en pilin uta lon olin nasin]"
+        "spname": "jan [sina en pilin uta lon olin nasin]",
+        "slname": "jan Sepulon"
+
 
     },
     {
        "enname": "Janet Blackquill",
-        "spname": "akesi [jan anu nanpa]"
+        "spname": "akesi [jan anu nanpa]",
+        "slname": "akesi Jan"
+
 
     }
     
