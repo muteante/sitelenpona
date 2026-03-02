@@ -1,0 +1,29 @@
+<h3>  Tier {{ number }} Punctuation Glyphs</h3>
+<ul class="punctuation">
+        {%- for entry in tier["punctuation"] -%}
+        <li  class="{%- if entry.no-codepoint == 'true' -%} no-codepoint {%- endif -%}">
+            {%- if entry.pair != "true" -%}
+            <span class="word-glyph {%- if entry.invisible == 'true' -%} invisible {%- endif -%}">{{ entry.input }}</span>
+            <span class="word-name">
+                <span>{{ entry.name }}</span>
+            {%- else -%}
+            <span class="word-glyph">{{ entry.input[0] }}</span>
+            <span class="word-glyph pair">{{ entry.input[1] }}</span>
+            <span class="word-name">
+                <span>{{ entry.name[0] }}</span>,
+                <span>{{ entry.name[1] }}</span>
+            {%- endif -%}
+                {%- if entry.explain -%}
+                <div class="explain">{{ entry.explain }}</div>
+                <div class="example">
+                <span>Before:</span> 
+                <code>{{ entry.example-before }}</code>
+                <span>After: </span>
+                <span class="after">{{ entry.example-after}}</span>
+                </div>
+
+                {%- endif -%}
+            </span>
+        </li>
+        {%- endfor -%}
+</ul>

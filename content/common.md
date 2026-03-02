@@ -61,7 +61,6 @@ permalink: common.html
     justify-content: center;
     align-items: center;
     text-align: center;
-    border: 0.2rem solid black;
     height: 2em;
 }
 
@@ -84,9 +83,18 @@ permalink: common.html
 
 .punctuation .word-name {
     padding: 0.5em;
-    border: 0.2rem solid black;
     grid-area: name;
 }
+
+.punctuation :is(.word-name, .word-glyph){
+    border: 0.2rem solid black;
+}
+
+.punctuation .no-codepoint :is(.word-name, .word-glyph){
+    border: 0.2rem dashed black;
+}
+
+
 
 .explain {
     font-size: 0.8em;
@@ -273,98 +281,14 @@ lon tenpo mun nanpa wan pi sike ni la kulupu li pana e lipu pi pini ala tawa luk
     
 </div>
 
-
 <div class="punctuation">
 
-###  Tier 1 Punctuation Glyphs
-<ul class="punctuation">
-        {%- for entry in tier_1["punctuation"] -%}
-        <li>
-            {%- if entry.pair != "true" -%}
-            <span class="word-glyph {%- if entry.invisible == 'true' -%} invisible {%- endif -%}">{{ entry.input }}</span>
-            <span class="word-name">
-                <span>{{ entry.name }}</span>
-            {%- else -%}
-            <span class="word-glyph">{{ entry.input[0] }}</span>
-            <span class="word-glyph pair">{{ entry.input[1] }}</span>
-            <span class="word-name">
-                <span>{{ entry.name[0] }}</span>,
-                <span>{{ entry.name[1] }}</span>
-            {%- endif -%}
-                {%- if entry.explain -%}
-                <div class="explain">{{ entry.explain }}</div>
-                <div class="example">
-                <span>Before:</span> 
-                <code>{{ entry.example-before }}</code>
-                <span>After: </span>
-                <span class="after">{{ entry.example-after}}</span>
-                </div>
+{% include "partials/punctuation.liquid",  number: "1", tier: tier_1 %}
+{% include "partials/punctuation.liquid",  number: "2", tier: tier_2 %}
+{% include "partials/punctuation.liquid",  number: "3", tier: tier_3 %}
 
-                {%- endif -%}
-            </span>
-        </li>
-        {%- endfor -%}
-</ul>
 
-###  Tier 2 Punctuation Glyphs
-<ul class="punctuation">
-        {%- for entry in tier_2["punctuation"] -%}
-        <li>
-            {%- if entry.pair != "true" -%}
-            <span class="word-glyph {%- if entry.invisible == 'true' -%} invisible {%- endif -%}">{{ entry.input }}</span>
-            <span class="word-name">
-                <span>{{ entry.name }}</span>
-            {%- else -%}
-            <span class="word-glyph">{{ entry.input[0] }}</span>
-            <span class="word-glyph pair">{{ entry.input[1] }}</span>
-            <span class="word-name">
-                <span>{{ entry.name[0] }}</span>,
-                <span>{{ entry.name[1] }}</span>
-            {%- endif -%}
-                {%- if entry.explain -%}
-                <div class="explain">{{ entry.explain }}</div>
-                <div class="example">
-                <span>Before:</span> 
-                <code>{{ entry.example-before }}</code>
-                <span>After: </span>
-                <span class="after">{{ entry.example-after}}</span>
-                </div>
-
-                {%- endif -%}
-            </span>
-        </li>
-        {%- endfor -%}
-</ul>
-
-###  Tier 3 Punctuation Glyphs
-<ul class="punctuation">
-        {%- for entry in tier_3["punctuation"] -%}
-        <li>
-            {%- if entry.pair != "true" -%}
-            <span class="word-glyph {%- if entry.invisible == 'true' -%} invisible {%- endif -%}">{{ entry.input }}</span>
-            <span class="word-name">
-                <span>{{ entry.name }}</span>
-            {%- else -%}
-            <span class="word-glyph">{{ entry.input[0] }}</span>
-            <span class="word-glyph pair">{{ entry.input[1] }}</span>
-            <span class="word-name">
-                <span>{{ entry.name[0] }}</span>,
-                <span>{{ entry.name[1] }}</span>
-            {%- endif -%}
-                {%- if entry.explain -%}
-                <div class="explain">{{ entry.explain }}</div>
-                <div class="example">
-                <span>Before:</span> 
-                <code>{{ entry.example-before }}</code>
-                <span>After: </span>
-                <span class="after">{{ entry.example-after}}</span>
-                </div>
-
-                {%- endif -%}
-            </span>
-        </li>
-        {%- endfor -%}
-</ul>
+</div>
 
 
 
