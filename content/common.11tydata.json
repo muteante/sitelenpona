@@ -1,0 +1,709 @@
+{
+ "tier_1": {
+  "words": [
+   {
+    "name": "a",
+    "input": "a"
+   },
+   {
+    "name": "akesi",
+    "input": "akesi"
+   },
+   {
+    "name": "ala",
+    "input": "ala"
+   },
+   {
+    "name": "alasa",
+    "input": "alasa"
+   },
+   {
+    "name": "ale, ali",
+    "input": "ale"
+   },
+   {
+    "name": "anpa",
+    "input": "anpa"
+   },
+   {
+    "name": "ante",
+    "input": "ante"
+   },
+   {
+    "name": "anu",
+    "input": "anu"
+   },
+   {
+    "name": "awen",
+    "input": "awen"
+   },
+   {
+    "name": "e",
+    "input": "e"
+   },
+   {
+    "name": "en",
+    "input": "en"
+   },
+   {
+    "name": "esun",
+    "input": "esun"
+   },
+   {
+    "name": "ijo",
+    "input": "ijo"
+   },
+   {
+    "name": "ike",
+    "input": "ike"
+   },
+   {
+    "name": "ilo",
+    "input": "ilo"
+   },
+   {
+    "name": "insa",
+    "input": "insa"
+   },
+   {
+    "name": "jaki",
+    "input": "jaki"
+   },
+   {
+    "name": "jan",
+    "input": "jan"
+   },
+   {
+    "name": "jelo",
+    "input": "jelo"
+   },
+   {
+    "name": "jo",
+    "input": "jo"
+   },
+   {
+    "name": "kala",
+    "input": "kala"
+   },
+   {
+    "name": "kalama",
+    "input": "kalama"
+   },
+   {
+    "name": "kama",
+    "input": "kama"
+   },
+   {
+    "name": "kasi",
+    "input": "kasi"
+   },
+   {
+    "name": "ken",
+    "input": "ken"
+   },
+   {
+    "name": "kepeken",
+    "input": "kepeken"
+   },
+   {
+    "name": "kili",
+    "input": "kili"
+   },
+   {
+    "name": "kin",
+    "input": "kin"
+   },
+   {
+    "name": "kiwen",
+    "input": "kiwen"
+   },
+   {
+    "name": "ko",
+    "input": "ko"
+   },
+   {
+    "name": "kon",
+    "input": "kon"
+   },
+   {
+    "name": "kule",
+    "input": "kule"
+   },
+   {
+    "name": "kulupu",
+    "input": "kulupu"
+   },
+   {
+    "name": "kute",
+    "input": "kute"
+   },
+   {
+    "name": "la",
+    "input": "la"
+   },
+   {
+    "name": "lape",
+    "input": "lape"
+   },
+   {
+    "name": "laso",
+    "input": "laso"
+   },
+   {
+    "name": "lawa",
+    "input": "lawa"
+   },
+   {
+    "name": "len",
+    "input": "len"
+   },
+   {
+    "name": "lete",
+    "input": "lete"
+   },
+   {
+    "name": "li",
+    "input": "li"
+   },
+   {
+    "name": "lili",
+    "input": "lili"
+   },
+   {
+    "name": "linja",
+    "input": "linja"
+   },
+   {
+    "name": "lipu",
+    "input": "lipu"
+   },
+   {
+    "name": "loje",
+    "input": "loje"
+   },
+   {
+    "name": "lon",
+    "input": "lon"
+   },
+   {
+    "name": "luka",
+    "input": "luka"
+   },
+   {
+    "name": "lukin",
+    "input": "lukin"
+   },
+   {
+    "name": "lupa",
+    "input": "lupa"
+   },
+   {
+    "name": "ma",
+    "input": "ma"
+   },
+   {
+    "name": "mama",
+    "input": "mama"
+   },
+   {
+    "name": "mani",
+    "input": "mani"
+   },
+   {
+    "name": "meli",
+    "input": "meli"
+   },
+   {
+    "name": "mi",
+    "input": "mi"
+   },
+   {
+    "name": "mije",
+    "input": "mije"
+   },
+   {
+    "name": "moku",
+    "input": "moku"
+   },
+   {
+    "name": "moli",
+    "input": "moli"
+   },
+   {
+    "name": "monsi",
+    "input": "monsi"
+   },
+   {
+    "name": "monsuta",
+    "input": "monsuta"
+   },
+   {
+    "name": "mu",
+    "input": "mu"
+   },
+   {
+    "name": "mun",
+    "input": "mun"
+   },
+   {
+    "name": "musi",
+    "input": "musi"
+   },
+   {
+    "name": "mute",
+    "input": "mute"
+   },
+   {
+    "name": "nanpa",
+    "input": "nanpa"
+   },
+   {
+    "name": "nasa",
+    "input": "nasa"
+   },
+   {
+    "name": "nasin",
+    "input": "nasin"
+   },
+   {
+    "name": "nena",
+    "input": "nena"
+   },
+   {
+    "name": "ni, decided by font",
+    "input": "ni"
+   },
+   {
+    "name": "ni, downwards",
+    "input": "niv"
+   },
+   {
+    "name": "nimi",
+    "input": "nimi"
+   },
+   {
+    "name": "noka",
+    "input": "noka"
+   },
+   {
+    "name": "o",
+    "input": "o"
+   },
+   {
+    "name": "olin",
+    "input": "olin"
+   },
+   {
+    "name": "ona",
+    "input": "ona"
+   },
+   {
+    "name": "open",
+    "input": "open"
+   },
+   {
+    "name": "pakala",
+    "input": "pakala"
+   },
+   {
+    "name": "pali",
+    "input": "pali"
+   },
+   {
+    "name": "palisa",
+    "input": "palisa"
+   },
+   {
+    "name": "pan",
+    "input": "pan"
+   },
+   {
+    "name": "pana",
+    "input": "pana"
+   },
+   {
+    "name": "pi",
+    "input": "pi"
+   },
+   {
+    "name": "pilin",
+    "input": "pilin"
+   },
+   {
+    "name": "pimeja",
+    "input": "pimeja"
+   },
+   {
+    "name": "pini",
+    "input": "pini"
+   },
+   {
+    "name": "pipi",
+    "input": "pipi"
+   },
+   {
+    "name": "poka",
+    "input": "poka"
+   },
+   {
+    "name": "poki",
+    "input": "poki"
+   },
+   {
+    "name": "pona",
+    "input": "pona"
+   },
+   {
+    "name": "pu",
+    "input": "pu"
+   },
+   {
+    "name": "sama",
+    "input": "sama"
+   },
+   {
+    "name": "seli",
+    "input": "seli"
+   },
+   {
+    "name": "selo",
+    "input": "selo"
+   },
+   {
+    "name": "seme",
+    "input": "seme"
+   },
+   {
+    "name": "sewi, decided by font",
+    "input": "sewi"
+   },
+   {
+    "name": "sewi, pu style",
+    "input": "sewi"
+   },
+   {
+    "name": "sijelo",
+    "input": "sijelo"
+   },
+   {
+    "name": "sike",
+    "input": "sike"
+   },
+   {
+    "name": "sin",
+    "input": "sin"
+   },
+   {
+    "name": "sina",
+    "input": "sina"
+   },
+   {
+    "name": "sinpin",
+    "input": "sinpin"
+   },
+   {
+    "name": "sitelen",
+    "input": "sitelen"
+   },
+   {
+    "name": "sona",
+    "input": "sona"
+   },
+   {
+    "name": "soweli",
+    "input": "soweli"
+   },
+   {
+    "name": "suli",
+    "input": "suli"
+   },
+   {
+    "name": "suno",
+    "input": "suno"
+   },
+   {
+    "name": "supa",
+    "input": "supa"
+   },
+   {
+    "name": "suwi",
+    "input": "suwi"
+   },
+   {
+    "name": "tan",
+    "input": "tan"
+   },
+   {
+    "name": "taso",
+    "input": "taso"
+   },
+   {
+    "name": "tawa",
+    "input": "tawa"
+   },
+   {
+    "name": "telo",
+    "input": "telo"
+   },
+   {
+    "name": "tenpo",
+    "input": "tenpo"
+   },
+   {
+    "name": "toki",
+    "input": "toki"
+   },
+   {
+    "name": "tomo",
+    "input": "tomo"
+   },
+   {
+    "name": "tonsi",
+    "input": "tonsi"
+   },
+   {
+    "name": "tu",
+    "input": "tu"
+   },
+   {
+    "name": "unpa",
+    "input": "unpa"
+   },
+   {
+    "name": "uta",
+    "input": "uta"
+   },
+   {
+    "name": "utala",
+    "input": "utala"
+   },
+   {
+    "name": "walo",
+    "input": "walo"
+   },
+   {
+    "name": "wan",
+    "input": "wan"
+   },
+   {
+    "name": "waso",
+    "input": "waso"
+   },
+   {
+    "name": "wawa",
+    "input": "wawa"
+   },
+   {
+    "name": "weka",
+    "input": "weka"
+   },
+   {
+    "name": "wile",
+    "input": "wile"
+   }
+  ],
+  "punctuation": [
+   {
+    "name": "between words or tokens (zero-width)",
+    "input": "",
+    "explain": "Fontmakers rely on this invisible glyph to separate units from each other",
+    "example-before": "mi 'zero-width-space' pona",
+    "example-after": "mi pona"
+   },
+   {
+    "name": [
+      "start of cartouche",
+      "end of cartouche"
+    ],
+    "input": [
+      "[",
+      "]"
+
+    ], 
+    "explain": "Paired with each other, these glyphs can be used to write a container for proper names",
+        "example-before": "jan 'cartouche start' anpa mama awen 'cartouch end'",
+    "example-after": "jan [anpa mama awen]",
+    "pair": "true"
+
+   },
+   {
+    "name": "combined glyph, decided by font <br>(zero-width joiner)",
+    "input": "luka&luka",
+    "explain": "This invisible glyph is used to combine two glyphs in a way the fontmaker specifies. Depending on the shape of the glyphs and preferences of the fontmaker, the combination may end up stacked, nested, or combined some other way.",
+    "example-before": "soweli 'zw-joiner' suwi li kalama 'zw-joiner' jaki",
+    "example-after": "soweli&suwi li kalama&jaki"
+   },
+   {
+    "name": "combined glyph, written above <br>(stacking joiner)",
+    "input": "luka-luka",
+    "explain": "This invisible glyph is used to combine two glyphs by stacking the second glyph over the first.",
+    "example-before": "soweli 'stack-joiner' suwi li kalama 'stack-joiner' jaki",
+    "example-after": "soweli-suwi li kalama-jaki"
+   },
+   {
+    "name": "combined glyph, written inside <br>(scaling joiner)",
+    "input": "luka+luka",
+    "explain": "This invisible glyph is used to combine two glyphs by writing the second glyph inside the first.",
+    "example-before": "soweli 'scale-joiner' suwi li kalama 'scale-joiner' jaki",
+    "example-after": "soweli+suwi li kalama+jaki"
+
+   },
+   {
+    "name": "ideographic space",
+    "input": "|",
+    "explain": "This glyph is used to create a visible space, which can be used as sentence-ending punctuation, or within the indented style.",
+    "example-before": "mi toki 'ideographic space' sina toki ala",
+    "example-after": "mi toki zz sina toki ala"
+
+   }
+  ]
+ },
+ "tier_2": {
+  "words": [
+   {
+    "name": "kijetesan-takalu",
+    "input": "kijetesantakalu"
+   },
+   {
+    "name": "kipisi",
+    "input": "kipisi"
+   },
+   {
+    "name": "ku",
+    "input": "ku"
+   },
+   {
+    "name": "leko",
+    "input": "leko"
+   },
+   {
+    "name": "misikeke",
+    "input": "misikeke"
+   },
+   {
+    "name": "n",
+    "input": "n"
+   },
+   {
+    "name": "namako",
+    "input": "namako"
+   },
+   {
+    "name": "soko",
+    "input": "soko"
+   }
+  ],
+  "punctuation": [
+   {
+    "name": [
+      "start of long glyph",
+      "end of long glyph"
+    ],
+    "input": [
+      "zz",
+      "zz"
+    ],
+    "explain": "When used after a glyph that a fontmaker supports as extendable, this pair of glyphs go on either side of the glyphs that the extension should go around.",
+    "example-before": "kili pi 'long-start' nena 'zw-joiner' mute 'long-end' li lon 'long-start' tomo 'long-end'",
+    "example-after": "kili pi(nena&mute) li lon(tomo)" ,
+
+    "pair": "true"
+
+   },
+
+   {
+    "name": [
+      "left corner bracket",
+      "right corner bracket"
+    ],
+    "input": [
+      "te",
+      "to"
+    ],
+    "explain": "This pair of glyphs are used as quotation punctuation. The left opens, the right closes.",
+    "example-before": "ona li toki 'left-bracket' sina pona 'right-bracket",
+    "example-after": "ona li toki te sina pona to" ,
+    "pair": "true"
+   },
+   {
+    "name": "middle dot",
+    "input": ".",
+    "explain": "This glyph is mostly used as sentence-ending punctuation. In a cartouche, it can refer to one morae in nasin sitelen kalama. ",
+    "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middledot'",
+    "example-after": "a. nasin pi ma[poka.] li wawa." 
+
+   },
+   {
+    "name": "semicolon",
+    "input": ":",
+    "explain": "In a cartouche, this glyph can refer to two morae in nasin sitelen kalama. ",
+    "example-before": "ma 'cartouche-start' a meli 'semicolon' 'middledot' kala 'middledot' 'cartouch-end' seli",
+    "example-after": "ma [a meli:.kala.] seli" 
+
+   }
+  ]
+ },
+ "tier_3": {
+  "words": [
+   {
+    "name": "epiku",
+    "input": "epiku"
+   },
+   {
+    "name": "jasima",
+    "input": "jasima"
+   },
+   {
+    "name": "lanpan",
+    "input": "lanpan"
+   },
+   {
+    "name": "linluwi",
+    "input": "linluwi"
+   },
+   {
+    "name": "majuna",
+    "input": "majuna"
+   },
+   {
+    "name": "meso",
+    "input": "meso"
+   },
+   {
+    "name": "ni, leftwards",
+    "input": "ni<"
+   },
+   {
+    "name": "ni, upwards",
+    "input": "ni^"
+   },
+   {
+    "name": "ni, rightwards",
+    "input": "ni>"
+   },
+   {
+    "name": "oko",
+    "input": "oko"
+   },
+   {
+    "name": "sewi, alternate",
+    "input": "sewi&#65025;"
+   },
+   {
+    "name": "su",
+    "input": "su"
+   }
+  ],
+  "punctuation": [
+   {
+    "name": "combining tally mark",
+    "input": ",",
+    "explain": "In a cartouche, to write names in the compact nasin sitelen kalama pi linja lili style. ",
+    "example-before": "ma 'cartouche-start' a meli 'tally' 'tally' 'tally' kala 'tally' 'cartouch-end' seli",
+    "example-after": "ma [a meli,,,kala,] seli" 
+
+
+   }
+  ]
+ }
+}
