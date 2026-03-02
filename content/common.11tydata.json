@@ -631,7 +631,7 @@
    {
     "name": "middle dot",
     "input": ".",
-    "explain": "This glyph is mostly used as sentence-ending punctuation. In a cartouche, it can refer to one morae in nasin sitelen kalama. ",
+    "explain": "This glyph is mostly used as sentence-ending punctuation. In a cartouche, it can refer to one mora in nasin sitelen kalama. ",
     "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middledot'",
     "example-after": "a. nasin pi ma[poka.] li wawa."
    },
