@@ -32,7 +32,7 @@ caption {
     padding-left: .5rem;
 }
 h3{
-    margin-bottom: 0
+    margin: 2rem auto 0;
 }
 
     </style>
