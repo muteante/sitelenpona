@@ -122,15 +122,13 @@ permalink: common.html
 }
 h1{
     margin-bottom: 0;
-    border-bottom: 0;
 }
 
- h2{
-    border-bottom:   0.1rem solid var(--jelo-5);
-        margin: auto;
-        text-align: left;
-        width: unset;
-        padding: 0 0 0.5em 1em;
+h2{
+    margin: auto;
+    text-align: left;
+    width: unset;
+    padding: 0 0 0.5em 1em;
 
     }
 .foreword h2{
@@ -142,8 +140,17 @@ h1{
     grid-template-columns: 1fr 1fr;
 }
 .foreword div {
-    margin: 1em 2em;
+    margin: 1em;
+    max-width: 30rem
 }
+
+.foreword div:first-child{
+    margin-left: auto
+}
+.foreword div:last-child{
+    margin-right: auto
+}
+
 .asterisk {
     text-align: right;
     margin-right: 2em;
@@ -191,7 +198,10 @@ h1{
         flex-direction: column;
     }
     .foreword {
-                grid-template-columns: 1fr;
+        grid-template-columns: 1fr;
+    }
+    .foreword div{
+        margin: 1em auto
     }
 }
 
