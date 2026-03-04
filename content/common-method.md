@@ -5,17 +5,27 @@ permalink: common-method.html
 ---
 
 <style>
-    .tiers * {
-    border-collapse: collapse;
-    border: 0.1em solid black;
+.table{
+    margin: auto
 }
-.tiers :is(td){
-    padding: 0.2em;
+.tiers :is(td, th){
+    padding: .5rem 2rem .5rem .5rem;
+    max-width: 30rem
+}
+thead {
+  border-bottom: solid 2px black;
 }
 .tiers{
-    max-width: 40rem;
-    margin: 2em auto;
-
+    max-width: 50rem
+    margin: 2em;
+    text-align: left
+}
+tbody tr:nth-child(2n-1) {
+    background-color: var(--jelo-1);
+}
+caption {
+    text-align: left;
+    padding-left: .5rem;
 }
 
     </style>
@@ -42,6 +52,7 @@ SP Content
 {% endsp %}
 {% endsplit %}
 
+<span class="table">
 <table class="tiers">
     <caption>Summarizing Tiers of Teachability<caption>
     <thead>
@@ -69,6 +80,7 @@ SP Content
         </tbody>
     </thead>
 </table>
+</div>
 
 
 {% split %}
@@ -81,6 +93,7 @@ SP Content
 {% endsp %}
 {% endsplit %}
 
+<span class="table">
 <table class="tiers">
 <caption>Word Notability Algorithm Participants</caption>
    <thead>
@@ -117,6 +130,7 @@ Tier 3: [30%; 60%]
     </tr>
 </tbody>
 </table>
+</div>
 
 {% splith 3 %}
     {% en %}Results{% enden %}
