@@ -143,6 +143,7 @@ h2{
 .foreword {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin-top: 2rem
 }
 .foreword div {
     margin: 1em 0;
