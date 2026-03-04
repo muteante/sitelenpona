@@ -199,7 +199,6 @@ h2{
     }
 
     .example {
-        width: 100%;
         display: flex;
         flex-direction: column;
     }
