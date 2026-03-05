@@ -117,16 +117,6 @@ SP Content
         <td>No rigid threshold, but generally corresponding to usage in Official publications. All words featured in TP:LOG immediately assigned to Tier 1.</td>
     </tr>
     <tr>
-        <td>mun Kekan San <br> (Tie-breaker vote)</td>
-        <td>ilo Muni: A word frequency analyzer that draws on a large corpus of community data.
-        TODO </td>
-        <td>
-        Tier 1: - 5yrs / 10% authorship <br> 
-        Tier 2: - 4yrs / 7.5% authorship  <br>
-        Tier 3: - 3yrs / 5% authorship<br>
-        </td>
-    </tr>
-    <tr>
         <td>kala Asi</td>
         <td>Linku: The Linku project annually conducts a far-reaching word usage survey. The first survey occured in 2020. Analysts of Linku have been assigning words to usage categories since 2023.</td>
         <td>
@@ -135,6 +125,16 @@ Tier 2: [60%; 80%] <br>
 Tier 3: [30%; 60%]
         </td>
     </tr>
+    <tr>
+        <td>mun Kekan San <br> (Tie-breaker vote)</td>
+        <td>ilo Muni: A word frequency analyzer that draws on a large corpus of community data.
+        TODO </td>
+        <td>
+        Tier 1: - 5yrs / 10% authorship <br> 
+        Tier 2: - 4yrs / 7.5% authorship  <br>
+        Tier 3: - 3yrs / 5% authorship<br>
+        </td>
+    </tr>   
 </tbody>
 </table>
 </span>
