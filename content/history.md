@@ -25,7 +25,7 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}Winter-Spring 2024: Early Work <br>
+    {% en %}Early 2024: Early Work <br>
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
@@ -54,7 +54,7 @@ o pana e sitelen pona lon ni
 
 
 {% splith %}
-    {% en %}Summer-Fall 2024: Gathering Data <br> 
+    {% en %}Late 2024: Gathering Data <br> 
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
