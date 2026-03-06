@@ -24,16 +24,18 @@ permalink: /history.html
 
 
 {% splith %}
-    {% en %}<span class="year-marker">Pre-2024:</span> Hunger
+    {% en %}<span class="year-marker">Pre-2024:</span> Growing Demand
 {% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
 
 {% split %}
 {% en %}
-Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic response. Resources for Sitelen Pona grew exponentially. Prior to lockdowns, there were only a few Sitelen Pona fonts in use. In the period since, a large amount of Sitelen Pona fonts have been produced. As early as 2021, the need for community-wide coordination of encoding was apparent. 
+Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns. Resources for Sitelen Pona grew exponentially. Prior to 2020, there were only a few Sitelen Pona fonts in use. In the period since, a large amount of Sitelen Pona fonts have been produced. As early as 2021, the need for community-wide coordination of encoding was apparent.
 
-Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) d to the Under-ConScript Unicode Registry. A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, following the UCSUR's adoption by major Toki Pona fonts, tech-savvy members of the Toki Pona community were able to modify their messaging clients and fully chat in online spaces using Sitelen Pona. However, for members who were not so technically-oriented, the non-universality of UCSUR resulted in unequal access. Several community members independently arrived at a common conclusion: We should organize to get Sitelen Pona into Unicode. 
+Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to perculate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry. A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, UCSUR came to see unanimous adoption by major Toki Pona fonts. 
+
+With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in online spaces using Sitelen Pona. However, for members who are not so technically-oriented, the provisational and hacky measures required to use UCSUR in various platforms are rather inaccessible. The more normalized Sitelen Pona usage came to be in such spaces, the more obvious it was that a more permanent solution needed to be pursued. 
 {% enden %}
 
 {% sp %}
@@ -53,16 +55,15 @@ o pana e sitelen pona lon ni
 
 Starting in 2024, efforts to draft a proposal began in earnest. 
 
-In January, several interested community members formed an ad-hoc working group. After four months of investigation, internal discussions, and survey outreach, the working group submitted a preliminary proposal to the Unicode Consortium in April.
+In January, several interested community members formed an ad-hoc working group. After four months of investigation, internal discussions, and survey outreach, the working group submitted a draft proposal to the Unicode Consortium in April.
 
-While this first edition of the proposal was able to demonstrate wide usage of Sitelen Pona as a writing system, the proposal failed to outline a stable set of glyphs to be encoded. It also didn't decide on representative versions of the glyphs. 
+This draft edition of the proposal demonstrated wide usage of Sitelen Pona as a writing system, but refrained from outlining a stable set of glyphs to be encoded. The working group had determined that before it provide such a set, advancements in Toki Pona data analysis needed to be made. 
 
-Why did the first proposal fail to present a stable set of glyphs? 
+Prior to 2024, usage of Toki Pona vocabulary was primarily assessed by the Linku project’s annual write-in surveys. But the working group felt that this data was not enough for the Unicode Proposal. Linku does not directly observe usage and only reflects what people report their own usage to be. The bar for Unicode would need to be higher. 
 
-Toki Pona’s core vocabulary, assessed by the Linku project’s annual write-in surveys, appeared to be relatively stable. But there was still some doubt. Linku does not directly observe usage and could only reflect what people reported their own usage to be. It couldn't be used to determine the stability of words in practice. 
+After running a write-in survey for Sitelen Pona usage, the working group came to a similar conclusion for assessing the stability of Sitelen Pona glyphs. Write-in surveys would not be enough. Organic usage needed to be gathered into a corpus and analyzed. 
 
-Similarly, the Sitelen Pona write-in surveys that were sent out during this period presented conclusions that weren't intuitive. Finally, the working group determined that it could not confidently progress without being able to statistically analyze Toki Pona and Sitelen Pona usage directly. They set about making the tools required to pursue this new direction.
-
+The working group set about making the tools required to pursue this new direction. 
 {% enden %}
 
 {% sp %}
