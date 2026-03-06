@@ -356,7 +356,7 @@ Forthcoming
 {% include "partials/punctuation.liquid",  number: "2", tier: tier_2 %}
 {% include "partials/punctuation.liquid",  number: "3", tier: tier_3 %}
 
-<p class="asterisk">* These glyphs already represented by public-use Unicode codepoints and do not require new assignments.<p>
+<p class="asterisk">* These glyphs are already represented by public-use Unicode codepoints and do not require new assignments.<p>
 </div>
 
 
