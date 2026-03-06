@@ -174,9 +174,9 @@ o lukin e [nimi pi wawa nanpa tu wan]()
 o lanpan e sona ale:
 [words-tiers.txt](/content/common/words-tiers.txt)  
 
-{% endsl %}
+{% endsp %}
 
-{% sp %}
+{% sl %}
 o lukin e [nimi pi wawa nanpa wan]()  
 o lukin e [nimi pi wawa nanpa tu]()  
 o lukin e [nimi pi wawa nanpa tu wan]()  
