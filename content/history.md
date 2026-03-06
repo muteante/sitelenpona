@@ -26,7 +26,8 @@ h2 {
         left: 2rem;
         top: 0rem;
         text-align: center;
-        
+        padding: .5rem;
+        border-radius: 2rem;
         
     }
     h2:has(.year-marker){
