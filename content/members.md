@@ -125,12 +125,6 @@ permalink: members.html
 
 {% endsplit %}
 
- <div class="tiny-toggle">
-     <input type="radio" id="en-tog" name="toki" checked >
-     <label lang="tok" for="en-tog" style="margin-right: 1rem">English</label><br>
-     <input type="radio" id="sp-tog" name="toki">
-     <label lang="tok" class="sp" for="sp-tog">toki pona</label><br>
- </div>
 <ul class="condensed shuffle">
 {% for item in current %}
     <li>
