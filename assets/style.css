@@ -27,7 +27,7 @@ body {
 .split p.sp:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sp; 
   content: "[" counter(sp) "]";
 }
-.split p.sl:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sp; 
+.split p.sl:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sl; 
   content: "[" counter(sl) "]";
 }
 .split p::before{
