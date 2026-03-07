@@ -38,7 +38,7 @@ Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic
 
 Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to perculate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry. A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, UCSUR came to see unanimous adoption by major Toki Pona fonts. 
 
-With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in online spaces using Sitelen Pona. However, for members who are not so technically-oriented, the provisational and hacky measures required to use UCSUR in various platforms are rather inaccessible. The more normalized Sitelen Pona usage came to be in such spaces, the more obvious it was that a more permanent solution needed to be pursued. 
+With UCSUR, tech-savvy members of the Toki Pona community are able to modify their messaging clients and fully chat in online spaces using Sitelen Pona. However, for members who are not so technically-oriented, the provisational and hacky measures required to use UCSUR in various platforms are rather inaccessible. The more normalized Sitelen Pona usage came to be in such spaces, the more obvious it was that a robust solution needed to be pursued. 
 {% enden %}
 
 {% sp %}
