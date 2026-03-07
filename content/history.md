@@ -34,7 +34,7 @@ permalink: /history.html
 
 {% split %}
 {% en %}
-Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns. Resources for Sitelen Pona grew exponentially. Prior to 2020, there were only a few Sitelen Pona fonts in use. In the period since, a large amount of Sitelen Pona fonts have been produced. As early as 2021, the need for community-wide coordination of encoding was apparent.
+Toki Pona experienced a boost in popularity as a result of the Covid-19 pandemic lockdowns, and resources for Sitelen Pona grew exponentially. Prior to 2020, there were only a few Sitelen Pona fonts in use; in the period since, a large amount of Sitelen Pona fonts have been released. As early as 2021, the need for community-wide coordination of encoding was apparent.
 
 Following the successful coordination of a proposal for Toki Pona's [ISO-639-3 code](https://iso639-3.sil.org/code/tok), discussions regarding the feasibility of Sitelen Pona in Unicode began to perculate. As a provisional measure, Toki Pona speakers submitted a [proposal](https://hackmd.io/f60orzD_T6S3wwciXdJosw?edit) to the Under-ConScript Unicode Registry. A [few](https://hackmd.io/@hTJocmVJRdy2APPREmseXQ/Bygid_8Jg9) [iterations](https://www.kreativekorp.com/ucsur/charts/sitelen.html) later, UCSUR came to see unanimous adoption by major Toki Pona fonts. 
 
