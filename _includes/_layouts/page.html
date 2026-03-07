@@ -319,7 +319,13 @@
 <main>
 
     <h1 class="split">
-        <div>{{ title }}<div>
+        <div>
+            {% include "partials/ui-translate.liquid", 
+            enName: title, 
+            spName: spTitle, 
+            sLName: sLTitle 
+            %}
+        <div>
     </h1>
     {{ content }}
 

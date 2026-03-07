@@ -1,6 +1,7 @@
 ---
 title: "Methodology behind Common Sitelen Pona"
-toktitle: sitelen pona kulupu (li pini ala)
+sLTitle: nasin alasa pi sitelen pona kulupu
+spTitle: nasin alasa pi sitelen pona kulupu
 permalink: method.html
 ---
 

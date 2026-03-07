@@ -1,6 +1,9 @@
 ---
 title: Our Members
-toktitle: mi seme li lon kulupu
+sLTitle: mi mute li seme
+spTitle: mi mute pi kulupu pali li seme
+
+
 permalink: members.html
 ---
 

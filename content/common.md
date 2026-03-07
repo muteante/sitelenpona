@@ -1,6 +1,7 @@
 ---
 title: "Draft: Common Sitelen Pona"
-toktitle: sitelen pona kulupu (li pini ala)
+sLTitle: lipu pi sitelen pona kulupu (li pini ala)
+spTitle: lipu+ni pi sitelen pona kulupu li pini ala
 permalink: common.html
 ---
 <style>

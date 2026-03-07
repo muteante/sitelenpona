@@ -1,6 +1,7 @@
 ---
 title: About Us
-toktitle: kulupu ni li seme
+sLTitle: mi kulupu pali pi sitelen pona
+spTitle: mi kulupu pali pi sitelen pona
 permalink: index.html
 ---
 
