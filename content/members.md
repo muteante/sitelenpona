@@ -183,18 +183,18 @@ permalink: members.html
 
 {% split %}
 {% en %}
-Gregory Danielson III is serving as the association's president as of <time datetime="2026-01-22">January 22, 2026</time>. 
+Gregory Danielson III is serving as the association's president as of <time datetime="2026-01-21">January 21, 2026</time>. 
 {% enden %}
 
 {% sp %}
 mun lawa [ken . kalama . nasa][mute:] li kama jan lawa kulupu  
-<time datetime="2026-01-22">
-zz lon tenpo suno nanpa mute tu lon tenpo mun nanpa wan   
+<time datetime="2026-01-21">
+zz lon tenpo suno nanpa mute wan lon tenpo mun nanpa wan   
 zz lon tenpo sike nanpa mute ale mute luka wan </time>
 {% endsp %}
 
 {% sl %}
-mun lawa Kekan San li kama jan lawa kulupu <time datetime="2026-01-22">lon tenpo suno #MT lon tenpo mun nanpa #W  lon tenpo sike nanpa #MAMLW.</time>
+mun lawa Kekan San li kama jan lawa kulupu <time datetime="2026-01-21">lon tenpo suno #MW lon tenpo mun nanpa #W  lon tenpo sike nanpa #MAMLW.</time>
 {% endsl %}
 {% endsplit %}
 
