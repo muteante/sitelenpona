@@ -97,7 +97,7 @@ o pana e sitelen pona lon ni
 {% en %}
 In the latter half of 2024, the working group’s attention was fixed on creating new tools and gathering usage data. 
 
-mun Kekan San published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer, in August. Owing to (extensive web-scraping efforts)[https://ilo.muni.la/about/#where-is-the-data-from], ilo Muni provides robust data on word usage in Toki Pona from 2016 onwards. 
+mun Kekan San published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer, in August. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#where-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona from 2016 onwards. 
 
 Usage data for Sitelen Pona glyphs and variations was pursued in three ways. At the font level, jan Ke Tami created a [new annotated database of all Sitelen Pona fonts](https://antetokipona.infinityfreeapp.com/font/?i=1). At the text level, working group members gathered and annotated a new corpus of Sitelen Pona handwriting examples. Finally, waso Keli created and published [SP Font Maker](https://wasokeli.github.io/sp-font-maker/). This tool allows anyone to create and upload their own handwriting samples to create a Sitelen Pona font, and also serves as a database where individual preferences for Sitelen Pona glyphs can be batched and analyzed.
 
