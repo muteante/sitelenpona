@@ -377,7 +377,15 @@ Or download the [raw results for representative glyphs](/content/common/represen
 {% endsplith %}
 
 
+{% split %}
+{% en %}
+English Content
+{% enden %}
 
+{% sp %}
+SP Content
+{% endsp %}
+{% endsplit %}
 
 
 {% splith %}
@@ -388,7 +396,24 @@ Or download the [raw results for representative glyphs](/content/common/represen
 
 {% split %}
 {% en %}
-English Content
+For most of the punctuation glyphs in Common Sitelen Pona the answer to this is self-evident. Novel glyphs that have no existing equivalent are recommended to have new codepoints, glyphs that are already used in other scripts are recommended to rely on existing codepoints. 
+
+Recommended to be assigned new codepoints:
+- SITELEN PONA START OF CARTOUCHE, SITELEN PONA END OF CARTOUCHE
+- SITELEN PONA STACKING JOINER
+- SITELEN PONA NESTING JOINER
+- SITELEN PONA START OF LONG GLYPH
+- SITELEN PONA END OF LONG GLYPH
+- SITELEN PONA COMBINING TALLY MARK
+
+Reccommended to be mapped to existing codepoints:
+- ZERO WIDTH SPACE
+- ZERO WIDTH JOINER
+- IDEOGRAPHIC SPACE
+- LEFT CORNER BRACKET
+- RIGHT CORNER BRACKET
+
+However two punctuation glyphs, MIDDLE DOT and COLON, form an exceptional case. The primary use for these two glyphs are to appear in cartouches, requiring additional rendering rulesets. For this reason, The Association recommends that SITELEN PONA MIDDLE DOT and SITELEN PONA COLON be assigned new codepoints and not be combined with their existing Unicode equivelants. 
 {% enden %}
 
 {% sp %}
