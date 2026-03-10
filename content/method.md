@@ -210,29 +210,6 @@ o lanpan e sona ale:
 {% endsplit %}
 
 
-{% splith %}
-    {% en %}Which non-word characters are commonly used in Sitelen Pona?{% enden %}
-    {% sp %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsp %}
-    {% sl %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsl %}
-{% endsplith %}
-
-
-
-{% split %}
-{% en %}
-English Content
-{% enden %}
-
-{% sp %}
-SP Content
-{% endsp %}
-{% endsplit %}
-
-{% splith %}
-    {% en %}Which non-word glyphs commonly rely on uniquely Sitelen Pona codepoints? {% enden %}
-    {% sp %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona{% endsp %}
-    {% sl %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona? {% endsl %}
-{% endsplith %}
 
 
 {% splith %}
@@ -270,9 +247,9 @@ SP Content
 
 {% split %}
 {% en %}
-Algorithm: Use six sources of input to identify the most representative glyphs of Toki Pona words. 
+Algorithm: Use six sources of input to identify the most representative glyphs of for Toki Pona words that are known to have variants. 
 
-The sources are listed below:
+The input sources are listed below:
 {% enden %}
 
 {% sp %}
@@ -372,5 +349,49 @@ musi ike Majeka transcribed 698 samples of handwritten Sitelen Pona shared onlin
 
 {% sp %}
 o pana e sitelen pona lon ni
+{% endsp %}
+{% endsplit %}
+
+{% splith 3 %}
+    {% en %}Results{% enden %}
+    {% sp %}o ante toki e nimi suli ni{% endsp %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+Jump to [Word Glyphs]()  
+
+Or download the [raw results for representative glyphs](/content/common/representative-glyphs.txt).
+
+{% enden %}
+
+{% sp %}
+
+{% endsp %}
+{% endsplit %}
+
+{% splith %}
+    {% en %}Which non-word features are commonly used in Sitelen Pona?{% enden %}
+    {% sp %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsp %}
+    {% sl %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsl %}
+{% endsplith %}
+
+
+
+
+
+{% splith %}
+    {% en %}Which non-word glyphs commonly rely on uniquely Sitelen Pona codepoints? {% enden %}
+    {% sp %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona{% endsp %}
+    {% sl %}sitelen seme pi nimi ala li kepeken nanpa pi sitelen pona? {% endsl %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+English Content
+{% enden %}
+
+{% sp %}
+SP Content
 {% endsp %}
 {% endsplit %}
