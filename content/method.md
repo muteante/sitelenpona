@@ -74,7 +74,7 @@ h3{
         <tbody>
             <tr>
                 <td>Tier 1</td>
-                <td>Almost universal, reflecting conservative interpretations of the writing system as described in <em>Toki Pona: The Language of Good<em> (2014)</td>
+                <td>Almost universal, reflecting conservative interpretations of the writing system as first described in <em>Toki Pona: The Language of Good<em> (2014)</td>
             </tr>
             <tr>
                 <td>Tier 2</td>
@@ -113,28 +113,80 @@ h3{
 {% split %}
 {% en %}
 Algorithm: Three appointed members describe words to one of four Tiers of Teachability, drawing on different sources of data. 
+
+The three representatives were free to design their own algorithms based on their data source. 
+
+Here are the three sources:
 {% enden %}
 
 {% sp %}
 poki tu tu pi wawa sona la<br>zz jan tu wan li poki e nimi kepeken sona ante
+sona ante la<br>zz jan tu wan ni^ li pali e nasin ante
+
 {% endsp %}
 {% sl %}
 poki tu tu pi wawa sona la jan tu wan li poki e nimi kepeken sona ante.
 {% endsl %}
+sona ante la jan tu wan ni li pali e nasin ante.
+
 {% endsplit %}
+
+{% splith 4 %}
+    {% en %}Mrs. Lang (anpa sewi){% enden %}
+    {% sp %}o ante toki e nimi suli ni{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
 
 {% split %}
 {% en %}
-The three representatives were free to design their own algorithms based on their data source. 
+As the creator of the Toki Pona language and the Sitelen Pona script, Mrs. Lang has a unique decades-long view of their stability. Mrs. Lang published Sitelen Pona in *Toki Pona: The Language of Good* (2014). In 2021, Mrs. Lang conducted a series of word usage surveys, the results of which were published in the seminal book, *The Toki Pona Dictionary.*
+
+Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then assign the rest via discretion, informed by the *Official Toki Pona* book series and the creator's own venerable lived experience.
+{% enden %}
+
+
+
+{% sp %}
+{% endsp %}
+{% sl %}
+{% endsl %}
+{% endsplit %}
+
+{% splith 4 %}
+    {% en %}lipu Linku{% enden %}
+    {% sp %}o ante toki e nimi suli ni{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+
+{% split %}
+{% en %}
 {% enden %}
 
 {% sp %}
-sona ante la<br>zz jan tu wan ni^ li pali e nasin ante
 {% endsp %}
 {% sl %}
-sona ante la jan tu wan ni li pali e nasin ante.
 {% endsl %}
 {% endsplit %}
+
+{% splith 4 %}
+    {% en %}ilo Muni{% enden %}
+    {% sp %}o ante toki e nimi suli ni{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+
+{% split %}
+{% en %}
+{% enden %}
+
+{% sp %}
+{% endsp %}
+{% sl %}
+{% endsl %}
+{% endsplit %}
+
 
 <span>
 <table class="tiers">
@@ -253,7 +305,7 @@ SP Content
 
 {% split %}
 {% en %}
-Algorithm: Use six sources of input to identify the most representative glyphs of for Toki Pona words that are known to have variants. 
+Algorithm: Use six sources of input to identify the most representative glyphs of for Toki Pona words that are known to have variants. Four sources of input reflect exercised discretion of invited fontmakers. Two sources of input reflect sampled handwriting data from community. 
 
 The input sources are listed below:
 {% enden %}
@@ -264,7 +316,7 @@ SP Content
 {% endsplit %}
 
 {% splith 4%}
-    {% en %} Ethan Corgatelli (jan Itan): nasin nanpa{% enden %}
+    {% en %} Ethan Corgatelli (jan Itan){% enden %}
     {% sp %}{% endsp %}
     {% sl %}{% endsl %}
 {% endsplith %}
@@ -272,9 +324,13 @@ SP Content
 
 {% split %}
 {% en %}
-*nasin nanpa* (2022) is a monospaced font by jan Itan that continues to be a popular font in 2026. It also carries historical notability; *nasin nanpa* was the first font that Toki Pona speakers used for Sitelen Pona texting on Discord, and it is the Sitelen Pona font for *The Wonderful Wizard of Oz (Toki Pona edition)* released in the series *Official Toki Pona*. 
+jan Itan is the creator of *nasin nanpa* (2022).
 
-On multiple occasions, the font has made strong choices that have correctly predicted (or predicated) the success of certain variant glyphs. *nasin nanpa* held the tiebreaker vote within this algorithmn.
+*nasin nanpa* continues to be a popular font in 2026. It carries historical notability; *nasin nanpa* was the first font that Toki Pona speakers used for Sitelen Pona texting on Discord, and it is the Sitelen Pona font for *The Wonderful Wizard of Oz (Toki Pona edition)* released in the series *Official Toki Pona*. 
+
+On multiple occasions, the font has made strong choices that have correctly predicted (or predicated) the success of certain variant glyphs. 
+
+jan Itan held the tiebreaker vote within this algorithmn.
 {% enden %}
 
 {% sp %}
@@ -285,16 +341,20 @@ SP Content
 
 
 {% splith 4%}
-    {% en %}lipamanka: linja sike and linja lipamanka {% enden %}
+    {% en %}lipamanka {% enden %}
     {% sp %}lipamanka{% endsp %}
     {% sl %}lipamanka{% endsl %}
 {% endsplith %}
 
 {% split %}
 {% en %}
-*linja sike* (2021), lipamanka's first published font, was stylized as a succesor to jan Same's *linja pona* (2016), the most prevalent font of the pre-2021 period. *linja lipamanka* (2023), is a reworking of *linja sike* aimed to be more visually distinct from *linja pona.* 
+lipamanka is the creator of *linja sike* (2021) and *linja lipamanka* (2023).
+
+*linja sike* was stylized as a succesor to jan Same's *linja pona* (2016), the most prevalent font of the pre-2021 period. *linja lipamanka* reworks *linja sike* to be more visually distinct from *linja pona.* 
 
 Both of lipamanka's fonts were influential, as lipamanka was highly responsive to requests for rare glyphs, individual name glyphs, and experimental features. lipamanka is personally responsible for many alt glyphs, either by authoring them or by promoting them into wider usage. 
+
+lipamanka held one vote within this algorithm. 
 {% enden %}
 
 
@@ -305,15 +365,19 @@ SP Content
 {% endsplit %}
 
 {% splith 4 %}
-    {% en %} Rebecca Bettencourt (jan Lepeka): Fairfax HD and sitelen seli kiwen{% enden %}
+    {% en %} Rebecca Bettencourt (jan Lepeka){% enden %}
     {% sp %}jan Lepeka{% endsp %}
 {% endsplith %}
 
 {% split %}
 {% en %}
-Rebecca Bettencourt maintains the UCSUR and has been making fonts for decades. In addition to integrating Sitelen Pona into her Fairfax HD font family, which covers several other constructed scripts, she also made the popular handwritten font, *sitelen seli kiwen* (2022).
+jan Lepeka is the creator of *Fairfax HD* and *sitelen seli kiwen* (2022).
 
-These fonts are regarded as the most completionist fonts available yet; they are valued records of rare Sitelen Pona. Because to the robust coverage of these fonts, they are often used as fonts for community dictionaries like [nimi.li]().
+jan Lepeka maintains the UCSUR and has been making fonts for decades. In addition to integrating Sitelen Pona into her Fairfax HD font family, which covers several other constructed scripts, she also made the popular handwritten font family, *sitelen seli kiwen*. There are separate versions of the family for ASCII-input, Unicode-input, monospaced, and non-monospaced. 
+
+These two font families are held in very high esteem. They are the most completionist fonts created to date, preserving many rare glyphs. Because of the robust coverage offered by these fonts, they are often used in community dictionaries like [nimi.li](https://nimi.li/).
+
+jan Lepeka held one vote within this algorithm. 
 {% enden %}
 
 {% sp %}
@@ -322,7 +386,7 @@ o pana e sitelen pona lon ni
 {% endsplit %}
 
 {% splith 4%}
-    {% en %} waso Keli: SP Font Maker and leko majuna {% enden %}
+    {% en %} waso Keli and SP Font Maker {% enden %}
     {% sp %}{% endsp %}
     {% sl %}{% endsl %}
 {% endsplith %}
@@ -330,11 +394,13 @@ o pana e sitelen pona lon ni
 
 {% split %}
 {% en %}
-waso Keli is responsible for two input sources: SP Font Maker, and *leko majuna*. 
+waso Keli is the creator of *leko majuna* (2022) and the tool, SP Font Maker (2024). 
 
-SP Font Maker is a tool waso Keli developed to study glyph variance. Users of the SP Font Maker submit a template with the glyphs they prefer to include in their font. Later, preferences are manually anotated and tabulated across user templates. The most popular representative glyph chosen by users of SP Font Maker was given one vote in this algorithm. 
+SP Font Maker is a tool waso Keli developed to study glyph variance. Users of the SP Font Maker submit a template with the glyphs they prefer to include in their font. Later, waso Keli manually annotates and tabulates preferences across user templates. 
 
-*leko majuna* (2022) is a pixelated font developed for use in a video game translation. It  was the first font to contain a diagonal variant of the *ni* (pointing arrow) glyph. 
+*leko majuna* is a pixelated font developed for use in a video game translation. It  was the first font to contain a diagonal variant of the *ni* (pointing arrow) glyph.
+
+waso Keli tabled two votes within this algorithm. The majority preference of SP Font Maker users held one vote, while waso Keli herself held one vote.  
 {% enden %}
 
 {% sp %}
@@ -344,13 +410,15 @@ SP Font Maker is a tool waso Keli developed to study glyph variance. Users of th
 
 
 {% splith 4 %}
-    {% en %}musi ike Majeka: Handwriting Corpus{% enden %}
+    {% en %}Handwriting Corpus{% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
 {% endsplith %}
 
 {% split %}
 {% en %}
-musi ike Majeka transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized. The glyph variants found to have been favoured within this corpus were given one vote in this algorithm. 
+musi ike Majeka transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized. 
+
+The majority preference of submissions from the handwriting corpus held one vote within this algorithm. Where musi ike Majeka determined that no strong preference was evident, the corpus would not receive a vote.  
 {% enden %}
 
 {% sp %}
@@ -404,7 +472,7 @@ SP Content
 {% en %}
 For most of the punctuation glyphs in Common Sitelen Pona, the answer to this is self-evident. 
 
-Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoints, glyphs that have an equivelant are recommended to rely on existing codepoints. 
+Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoint. Glyphs that have an equivelant are recommended to rely on existing codepoints. 
 
 Reccommended to be mapped to existing codepoints:
 - <span class="tech">ZERO WIDTH SPACE</span>
