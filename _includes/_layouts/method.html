@@ -1,0 +1,32 @@
+--- 
+layout: _layouts/page.html
+---
+
+<style>
+    h1{
+        margin-top: 2em;
+    }
+    .breadcrumb{
+        position: absolute;
+        top: 0;
+        left: 1em;
+    }
+    main{
+        position: relative;
+    }
+</style>
+
+<p class="breadcrumb">
+    <a href="">Common Sitelen Pona</a> / <a href="">Method</a>
+</p>
+
+{{ content }}
+
+
+{% assign previousPost = collections.method | getPreviousCollectionItem %}
+{% assign nextPost = collections.method | getNextCollectionItem %}
+
+<p>{% if previousPost %}Previous: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}</p>
+
+<p>{% if nextPost %}Next: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% endif %}</p>
+
