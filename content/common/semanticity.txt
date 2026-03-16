@@ -1,0 +1,37 @@
+usage score (semantic)	usage score (users only)	usage score (glyph)	usage score ("always" only)	teachability rating	
+95.6	99	96	89	1	moku vs pan
+94	98	96	94	1	musi vs mu
+93.8	99	94	93	1	selo vs kasi
+88.1	96	91	84	2	jan vs mije
+48.8	70	70	18	3	sewi vs spacial sewi
+39.5	66	60	15	3	ni down vs ni right
+38.4	75	51	24	3	ni down vs ni up
+37.9	72	53	19	3	ni up vs ni right
+36.9	68	54	14	3	ni down vs ni left
+36.1	69	52	19	3	ni left vs ni right
+31.3	75	42	12	4	ni topleft vs ni bottomright (initially tier 3, excluded due to diagonal ni itself not being used enough)
+30.4	89	34	17	4	mute vs 4-luka (initially tier 3, excluded due to vote)
+29.1	65	44	11	4	ni down vs ni bottomleft
+29.1	66	44	10	4	ni down vs ni topleft
+28.6	65	44	11	4	ni down vs ni topright
+28.1	65	43	10	4	ni down vs ni bottomright
+28.1	86	32	14	4	a vs aaa
+15.1	31	49	7	4	old namako vs pepper namako
+7.3	20	36	2	4	olin vs emitters olin
+5.2	17	31	1	4	mije vs mars mije
+4.4	14	31	1	4	meli vs venus meli
+4.2	5	76	1	4	6-akesi vs 4-akesi
+3.6	21	17	2	4	linluwi vs linuwi
+3.6	45	8	1	4	triangle kiki vs kiki
+2.9	65	4	2	4	su1 vs su2
+2.6	24	11	1	4	misikeke vs pestle misikeke
+1.8	2	91	2	4	jaki vs jaki
+1.6	3	53	0	4	kala vs eyes kala
+1.6	9	17	1	4	LL-LL vs 4-luka
+1.3	1	90	1	4	jaki vs jaki
+1	1	83	0	4	kasi vs symmetric kasi
+0.8	14	6	0	4	sinpin vs eyes sinpin
+0.5	3	20	0	4	moli vs pixel moli
+0.5	1	48	0	4	soko vs thick soko
+0.5	3	15	0	4	akesi vs rotatesi
+0	0	6	0	4	monsi vs tail monsi

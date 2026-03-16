@@ -62,6 +62,20 @@ h3{
 {% endsplit %}
 
 
+{% split %}
+{% en %}
+{% enden %}
+
+{% sp %}
+o pana e sitelen pona lon ni
+{% endsp %}
+
+{% sl %}
+o pana e sitelen pona lon ni
+{% endsl %}
+{% endsplit %}
+
+
 
 <span>
 <table class="tiers">
@@ -143,7 +157,9 @@ sona ante la jan tu wan ni li pali e nasin ante.
 {% en %}
 As the creator of the Toki Pona language and the Sitelen Pona script, Mrs. Lang has a unique decades-long view of their stability. Mrs. Lang published Sitelen Pona in *Toki Pona: The Language of Good* (2014). In 2021, Mrs. Lang conducted a series of word usage surveys, the results of which were published in the seminal book, *The Toki Pona Dictionary.*
 
-Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then assign the rest via discretion, informed by the *Official Toki Pona* book series and the creator's own venerable lived experience.
+Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then assigned the rest via discretion, informed by the *Official Toki Pona* book series and the creator's own distinctive lived experience.
+
+Mrs. Lang (author of *Official Toki Pona* series) held one vote within this algorithm. 
 {% enden %}
 
 
@@ -155,7 +171,7 @@ Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then
 {% endsplit %}
 
 {% splith 4 %}
-    {% en %}lipu Linku{% enden %}
+    {% en %}lipu Linku and kala Asi{% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
     {% sl %}{% endsl %}
 {% endsplith %}
@@ -163,6 +179,15 @@ Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then
 
 {% split %}
 {% en %}
+The Linku project provides open datasets for Toki Pona. The Linku maintainers anually survey the community regarding what words they use and understand. The dataset gives the words usage categories: core (90%- 100%), common (60%-90%), uncommon (30%-60%), and obscure (0%-30%). 
+
+In reworking this data for Tiers of Teachibility in Common Sitelen Pona, kala Asi, the initiator of Linku, slightly modified the threshold: 
+
+- Tier 1: [80%; 100%], reflecting 'Linku core' words and some 'Linku common' words
+- Tier 2: [60%; 80%], reflecting most 'Linku common' words
+- Tier 3: [30%; 60%], reflecting 'Linku uncommon words'
+
+As reported by kala Asi, the Linku project held one vote within this algorithm. 
 {% enden %}
 
 {% sp %}
@@ -172,7 +197,7 @@ Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then
 {% endsplit %}
 
 {% splith 4 %}
-    {% en %}ilo Muni{% enden %}
+    {% en %}ilo Muni and Gregory Danielson III (mun Kekan San){% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
     {% sl %}{% endsl %}
 {% endsplith %}
@@ -180,6 +205,15 @@ Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then
 
 {% split %}
 {% en %}
+
+[ilo Muni](https://ilo.muni.la/?scale=r) is a word usage analyzer that draws on a [large corpus of community data](https://ilo.muni.la/about/#where-is-the-data-from), filtered to [only contain text authored in Toki Pona](https://github.com/gregdan3/sona-toki). mun Kekan San is the author of ilo Muni and set the following thresholds in assigning the words to Tiers of Teachability. 
+
+- Tier 1: 5yrs / 10% authorship, reflecting the threshold that coptures all of the words in the *Official Toki Pona* series' 2014 publication, as these words are known to be stable 
+- Tier 2: - 4yrs / 7.5% authorship, reflecting the threshold that almost perfectly captures all words in Linku's 'common' tier
+- Tier 3: - 3yrs / 5% authorship, reflecting the point at which statistical noise becomes an overwhelming issue
+
+
+As reported by mun Kekan San, ilo Muni held the tiebreaking vote within this algorithm.
 {% enden %}
 
 {% sp %}
@@ -189,44 +223,7 @@ Mrs. Lang assigned all words from the 2014 publication as Tier 1 words, and then
 {% endsplit %}
 
 
-<span>
-<table class="tiers">
-<caption>Word Notability Algorithm Participants</caption>
-   <thead>
-       <tr>
-           <th>Representative</th>
-           <th>Data Source</th>
-            <th>Threshold</th>
-       </tr>
-   </thead>
-<tbody>
- <tr>
-        <td>Mrs. Lang</td>
-        <td>Lived experience: As the language's creator, Mrs. Lang has a unique decades-long viewer of the language's tendencies and stability. Mrs. Lang also ran her own series of word usage surveys in 2021, the results of which were published in the seminal book *The Toki Pona Dictionary.</td>
-        <td>No rigid threshold, but generally corresponding to usage in Official publications. All words featured in TP:LOG immediately assigned to Tier 1.</td>
-    </tr>
-    <tr>
-        <td>kala Asi</td>
-        <td>Linku: The Linku project annually conducts a far-reaching word usage survey. The first survey occured in 2020. Analysts of Linku have been assigning words to usage categories since 2023.</td>
-        <td>
-Tier 1: [80%; 100%] <br>
-Tier 2: [60%; 80%] <br>
-Tier 3: [30%; 60%]
-        </td>
-    </tr>
-    <tr>
-        <td>mun Kekan San <br> (Tie-breaker vote)</td>
-        <td>ilo Muni: A word frequency analyzer that draws on a large corpus of community data.
-        TODO </td>
-        <td>
-        Tier 1: - 5yrs / 10% authorship <br> 
-        Tier 2: - 4yrs / 7.5% authorship  <br>
-        Tier 3: - 3yrs / 5% authorship<br>
-        </td>
-    </tr>   
-</tbody>
-</table>
-</span>
+
 
 {% splith 3 %}
     {% en %}Results{% enden %}
@@ -327,7 +324,7 @@ SP Content
 {% en %}
 jan Itan is the creator of *nasin nanpa* (2022).
 
-*nasin nanpa* continues to be a popular font in 2026. It carries historical notability; *nasin nanpa* was the first font that Toki Pona speakers used for Sitelen Pona texting on Discord, and it is the Sitelen Pona font for *The Wonderful Wizard of Oz (Toki Pona edition)* released in the series *Official Toki Pona*. 
+*nasin nanpa* continues to be a popular font in 2026. It carries historical notability; *nasin nanpa* was the first font that Toki Pona speakers used for Sitelen Pona texting on Discord, and it is the Sitelen Pona font for *The Wonderful Wizard of Oz (Toki Pona edition)* released in the series, *Official Toki Pona*. 
 
 On multiple occasions, the font has made strong choices that have correctly predicted (or predicated) the success of certain variant glyphs. 
 
@@ -446,21 +443,120 @@ Or download the [raw results for representative glyphs](/content/common/represen
 {% endsplit %}
 
 {% splith %}
-    {% en %}Which non-word features are commonly used in Sitelen Pona?{% enden %}
+    {% en %}Which variant glyphs for the same word are commonly used co-currently?{% enden %}
+    {% sp %}{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+{% splith 3 %}
+    {% en %}Rationale{% enden %}
+    {% sp %}{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+In the methodology developed by Mrs. Lang for Common Sitelen Pona, one word shall receive one codepoint, except in the case where a variant glyphs have distinct a teachable sub-meanings. 
+{% enden %}
+
+{% sp %}
+o pana e sitelen pona lon ni
+{% endsp %}
+
+{% sl %}
+o pana e sitelen pona lon ni
+{% endsl %}
+{% endsplit %}
+
+
+
+{% splith 3 %}
+    {% en %}Process and Results{% enden %}
+    {% sp %}{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+We invited survey respondants to describe whether they used certain variant glyph pairs, and if they used both, we asked whether both glyphs had the same meaning.
+
+[insert rationale for determining cut-off thresholds here]
+
+These results indicated that a prominent minority used the 'secular' and 'pu-style' glyphs for *sewi* with distinct meanings, and that versions of directional *ni* were commonly used with distinctive meanings.
+
+The data also showed that the 'four hands' glyph for *mute* had a distinctive meaning from the three-line glyph for *mute.* However, a vote by the association settled that the four-hands variant would be present in Common Sitelen Pona as four stacked *luka* (hands), instead of being a distinct glyph. 
+
+Download the [raw results for semantic variance](/content/common/semanticity.txt).
+{% enden %}
+
+{% sp %}
+{% endsp %}
+
+{% sl %}
+{% endsl %}
+{% endsplit %}
+
+
+
+{% splith %}
+    {% en %}Which non-word glyphs are commonly used in Sitelen Pona?{% enden %}
     {% sp %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsp %}
     {% sl %}sitelen seme pi nimi ala li wawa lon sitelen pona{% endsl %}
 {% endsplith %}
 
 
+
+{% splith 3%}
+    {% en %}Process{% enden %}
+    {% sp %}{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+
 {% split %}
 {% en %}
-English Content
-{% enden %}
+In the first phase, members of the association ran a survey asking respondants about whether they (1) use, (2) use in some situations, (3) avoid in most situations" or (4) never use, thirty-eight Sitelen Pona punctuation features. Visual examples of the punctuation features were provided.  
 
+We received 505 responses to the survey. 
+
+Each feature was given a a base percentage score. Those that had indicated they use the feature "in some situations" and "avoid in most situations" were respectively counted as 2/3rds and 1/3rd of a full user.
+
+We then linearly scaled these base percentages to bring pu-style Sitelen Pona cartouches, the most universal punctuation feature of Sitelen Pona, to 100%. Punctuation features were assigned a temporary tier based on this scaled score. 
+
+- Tier 1: 90% and higher
+- Tier 2: 60% and higher
+- Tier 3: 30% and higher
+- Unlisted: Lower than 30%
+
+These results were then compiled and shared internally. 
+
+In second phase, we provided the results of the community survey to our members and asked them to complete a new survey:
+
+As multidisciplinary collective of Sitelen Pona experts, what tier of teachability did they think suitable for these surveyed Sitelen Pona features? Members were invited to consider the results of the community survey in their responses, but were under no strict obligation to do so. 
+
+Twenty-one of our members responded to the survey. The median response of members was used to determine the final tier assignments, with one exception. The Latin-style period was initially assigned to the third tier and later excluded through an informal poll. 
+{% enden %}
 {% sp %}
 SP Content
 {% endsp %}
 {% endsplit %}
+
+
+{% splith 3%}
+    {% en %}Results{% enden %}
+    {% sp %}{% endsp %}
+    {% sl %}{% endsl %}
+{% endsplith %}
+
+{% split %}
+{% en %}
+Jump to the Common Sitelen Pona's non-word glyphs.
+{% enden %}
+{% sp %}
+SP Content
+{% endsp %}
+{% endsplit %}
+
 
 
 {% splith %}
