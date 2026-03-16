@@ -179,7 +179,7 @@ main img {
 
 
 
-@media (width < 800px) {
+@media (width < 860px) {
     .split {
         padding: 0 6vw
     }
@@ -237,7 +237,7 @@ h2:first-of-type{
     margin-block-start: 0em;
 }
 
-@media (width >= 935px) {
+@media (width >= 1070px) {
 
     body{
         display: grid;
