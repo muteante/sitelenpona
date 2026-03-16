@@ -1,3 +1,4 @@
+tier    word
 1	a
 1	akesi
 1	ala

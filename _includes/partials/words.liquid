@@ -1,0 +1,12 @@
+<h3>Tier {{index}} Word Glyphs</h3>
+<div class="word-grid">
+    {%- for entry in words  -%}
+                <span class="cell">
+                <span class="word-glyph">&#x{{ entry.codepoint }};</span>
+                <div class="word-name">
+                    {{ entry.name }}<br>
+                </div>
+                <div class="tech">{{ entry.technical_name }}</div>
+                </span>
+    {%- endfor -%}
+</div>

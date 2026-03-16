@@ -1,0 +1,50 @@
+word    c/r    tier result    
+akesi   common	1   4-legged
+apeja	rare        8<o
+epiku	common  3   pona with emitters
+isipin	rare        lawa with emitters
+kala	common  1   eyeless
+kamalawala  rare    circle with A, anarchy sign
+kapesi	rare        ma over triangle
+kiki	rare        double triangle
+kokosila    rare    slashed circle with emitters
+ku	    common  2   dot only
+lanpan	common  3   right-facing with dot underneath
+linluwi	3 connected circles
+"luka-luka-luka-luka"   n/a    all thumbs face inward
+majuna	common  3   lotus
+meli	common  1   pu style
+melome	rare        stacked right-side-up olin inside the hair of meli
+meso	common  3   |*|
+mije	common  1   pu style
+mijomi	rare        stacked right-side-up olin on the shoulders of mije
+misa	rare        2 eyes, tail on left
+misikeke    common  2   capsule
+moli    common  1   pu style
+monsi	common  1   pu style
+n       common  2   with line
+namako	common  2   pepper
+nimisin	rare        nimi surrounded by sin
+nja	    rare        cat
+oke     rare        check mark without circle
+olin	common  1   disconnected
+omekapo	rare        kala with emitters
+pake	rare        T
+poka	common  1   pu style
+powe	rare        x|
+puwa	rare        symmetrical cloud with 3 peaks and flat bottom
+san	    rare        Japanese san
+sinpin	common  1   pu style
+soko	common  2   thin stem with annulus
+taki	rare        dotless yin-yang
+te	    rare        corner brackets
+to	    rare        corner brackets
+unu	    rare        mun over triangle
+usawi	rare        nasa with emitters
+uta	    common  1   with dot
+wa	    rare        like a or n but with small wile
+wile	common  1   pu style
+wuwojiti    rare    5 deg rotated square with lines coming out each face
+yupekosi    rare    rounded-style latin lowercase y
+
+	

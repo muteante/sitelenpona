@@ -19,6 +19,7 @@ Use this template when adding new bilingual content two-column content:
 {% splith %}
     {% en %}English H2{% enden %}
     {% sp %}o ante toki e nimi suli ni{% endsp %}
+    {% sl %}{% endsl %}
 {% endsplith %}
 
 {% split %}
@@ -29,6 +30,10 @@ English Content
 {% sp %}
 o pana e sitelen pona lon ni
 {% endsp %}
+
+{% sl %}
+o pana e sitelen pona lon ni
+{% endsl %}
 {% endsplit %}
 
 ```

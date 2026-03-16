@@ -1,6 +1,7 @@
 ---
 title: "Draft: Common Sitelen Pona"
-toktitle: sitelen pona kulupu (li pini ala)
+sLTitle: lipu pi sitelen pona kulupu (li pini ala)
+spTitle: lipu+ni pi sitelen pona kulupu li pini ala
 permalink: common.html
 ---
 <style>
@@ -30,7 +31,7 @@ permalink: common.html
 
 .cell {
     display: grid;
-    grid-template-rows: 4em 4em;
+    grid-template-rows: 2em 3em 3em;
     grid-template-columns: 1fr;
     width: 5em;
     text-align: center;
@@ -164,6 +165,21 @@ h2{
 }
 
 
+
+.tech{
+    font-size: 0.5em;
+    line-height: 1;
+    padding-inline: 0.8rem;
+    font-variation-settings: "wdth" 50;
+    font-weight: 500;
+}
+.word-grid .word-name{
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
 @media (max-width: 1561px) {
     .long {
@@ -313,40 +329,14 @@ Forthcoming
 
 <div class="word-grid-container">
 
-### Tier 1 Word Glyphs
+{% include "partials/words.liquid",  index: "1", words: tier_1["words"] %}
 
-    <div class="word-grid">
-    
-        {%- for entry in tier_1["words"] -%}
-                <span class="cell">
-                    <span class="word-glyph">{{ entry.input }}</span>
-                    <span class="word-name">{{ entry.name }}</span>
-                </span>
-        {%- endfor -%}
-    </div>
 
-### Tier 2 Word Glyphs
-    <div class="word-grid">
-    
-        {%- for entry in tier_2["words"] -%}
-                <span class="cell">
-                    <span class="word-glyph">{{ entry.input }}</span>
-                    <span class="word-name">{{ entry.name }}</span>
-                </span>
-        {%- endfor -%}
-    </div>
+{% include "partials/words.liquid",  index: "2", words: tier_2["words"] %}
 
-### Tier 3 Word Glyphs
-    <div class="word-grid">
-    
-        {%- for entry in tier_3["words"] -%}
-                <span class="cell">
-                    <span class="word-glyph">{{ entry.input }}</span>
-                    <span class="word-name">{{ entry.name }}</span>
-                </span>
-        {%- endfor -%}
-    </div>
-    
+
+{% include "partials/words.liquid",  index: "3", words: tier_3["words"] %}
+
 </div>
 
 <div class="punctuation">

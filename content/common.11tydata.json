@@ -3,509 +3,749 @@
   "words": [
    {
     "name": "a",
-    "input": "a"
+    "input": "a",
+    "technical_name": "SITELEN PONA IDEOGRAPH A",
+    "codepoint": "F1900"
    },
    {
     "name": "akesi",
-    "input": "akesi"
+    "input": "akesi",
+    "technical_name": "SITELEN PONA IDEOGRAPH AKESI",
+    "codepoint": "F1901"
    },
    {
     "name": "ala",
-    "input": "ala"
+    "input": "ala",
+    "technical_name": "SITELEN PONA IDEOGRAPH ALA",
+    "codepoint": "F1902"
    },
    {
     "name": "alasa",
-    "input": "alasa"
+    "input": "alasa",
+    "technical_name": "SITELEN PONA IDEOGRAPH ALASA",
+    "codepoint": "F1903"
    },
    {
     "name": "ale, ali",
-    "input": "ale"
+    "input": "ale",
+    "technical_name": "SITELEN PONA IDEOGRAPH ALE",
+    "codepoint": "F1904"
    },
    {
     "name": "anpa",
-    "input": "anpa"
+    "input": "anpa",
+    "technical_name": "SITELEN PONA IDEOGRAPH ANPA",
+    "codepoint": "F1905"
    },
    {
     "name": "ante",
-    "input": "ante"
+    "input": "ante",
+    "technical_name": "SITELEN PONA IDEOGRAPH ANTE",
+    "codepoint": "F1906"
    },
    {
     "name": "anu",
-    "input": "anu"
+    "input": "anu",
+    "technical_name": "SITELEN PONA IDEOGRAPH ANU",
+    "codepoint": "F1907"
    },
    {
     "name": "awen",
-    "input": "awen"
+    "input": "awen",
+    "technical_name": "SITELEN PONA IDEOGRAPH AWEN",
+    "codepoint": "F1908"
    },
    {
     "name": "e",
-    "input": "e"
+    "input": "e",
+    "technical_name": "SITELEN PONA IDEOGRAPH E",
+    "codepoint": "F1909"
    },
    {
     "name": "en",
-    "input": "en"
+    "input": "en",
+    "technical_name": "SITELEN PONA IDEOGRAPH EN",
+    "codepoint": "F190A"
    },
    {
     "name": "esun",
-    "input": "esun"
+    "input": "esun",
+    "technical_name": "SITELEN PONA IDEOGRAPH ESUN",
+    "codepoint": "F190B"
    },
    {
     "name": "ijo",
-    "input": "ijo"
+    "input": "ijo",
+    "technical_name": "SITELEN PONA IDEOGRAPH IJO",
+    "codepoint": "F190C"
    },
    {
     "name": "ike",
-    "input": "ike"
+    "input": "ike",
+    "technical_name": "SITELEN PONA IDEOGRAPH IKE",
+    "codepoint": "F190D"
    },
    {
     "name": "ilo",
-    "input": "ilo"
+    "input": "ilo",
+    "technical_name": "SITELEN PONA IDEOGRAPH ILO",
+    "codepoint": "F190E"
    },
    {
     "name": "insa",
-    "input": "insa"
+    "input": "insa",
+    "technical_name": "SITELEN PONA IDEOGRAPH INSA",
+    "codepoint": "F190F"
    },
    {
     "name": "jaki",
-    "input": "jaki"
+    "input": "jaki",
+    "technical_name": "SITELEN PONA IDEOGRAPH JAKI",
+    "codepoint": "F1910"
    },
    {
     "name": "jan",
-    "input": "jan"
+    "input": "jan",
+    "technical_name": "SITELEN PONA IDEOGRAPH JAN",
+    "codepoint": "F1911"
    },
    {
     "name": "jelo",
-    "input": "jelo"
+    "input": "jelo",
+    "technical_name": "SITELEN PONA IDEOGRAPH JELO",
+    "codepoint": "F1912"
    },
    {
     "name": "jo",
-    "input": "jo"
+    "input": "jo",
+    "technical_name": "SITELEN PONA IDEOGRAPH JO",
+    "codepoint": "F1913"
    },
    {
     "name": "kala",
-    "input": "kala"
+    "input": "kala",
+    "technical_name": "SITELEN PONA IDEOGRAPH KALA",
+    "codepoint": "F1914"
    },
    {
     "name": "kalama",
-    "input": "kalama"
+    "input": "kalama",
+    "technical_name": "SITELEN PONA IDEOGRAPH KALAMA",
+    "codepoint": "F1915"
    },
    {
     "name": "kama",
-    "input": "kama"
+    "input": "kama",
+    "technical_name": "SITELEN PONA IDEOGRAPH KAMA",
+    "codepoint": "F1916"
    },
    {
     "name": "kasi",
-    "input": "kasi"
+    "input": "kasi",
+    "technical_name": "SITELEN PONA IDEOGRAPH KASI",
+    "codepoint": "F1917"
    },
    {
     "name": "ken",
-    "input": "ken"
+    "input": "ken",
+    "technical_name": "SITELEN PONA IDEOGRAPH KEN",
+    "codepoint": "F1918"
    },
    {
     "name": "kepeken",
-    "input": "kepeken"
+    "input": "kepeken",
+    "technical_name": "SITELEN PONA IDEOGRAPH KEPEKEN",
+    "codepoint": "F1919"
    },
    {
     "name": "kili",
-    "input": "kili"
+    "input": "kili",
+    "technical_name": "SITELEN PONA IDEOGRAPH KILI",
+    "codepoint": "F191A"
    },
    {
     "name": "kin",
-    "input": "kin"
+    "input": "kin",
+    "technical_name": "SITELEN PONA IDEOGRAPH KIN",
+    "codepoint": "F1979"
    },
    {
     "name": "kiwen",
-    "input": "kiwen"
+    "input": "kiwen",
+    "technical_name": "SITELEN PONA IDEOGRAPH KIWEN",
+    "codepoint": "F191B"
    },
    {
     "name": "ko",
-    "input": "ko"
+    "input": "ko",
+    "technical_name": "SITELEN PONA IDEOGRAPH KO",
+    "codepoint": "F191C"
    },
    {
     "name": "kon",
-    "input": "kon"
+    "input": "kon",
+    "technical_name": "SITELEN PONA IDEOGRAPH KON",
+    "codepoint": "F191D"
    },
    {
     "name": "kule",
-    "input": "kule"
+    "input": "kule",
+    "technical_name": "SITELEN PONA IDEOGRAPH KULE",
+    "codepoint": "F191E"
    },
    {
     "name": "kulupu",
-    "input": "kulupu"
+    "input": "kulupu",
+    "technical_name": "SITELEN PONA IDEOGRAPH KULUPU",
+    "codepoint": "F191F"
    },
    {
     "name": "kute",
-    "input": "kute"
+    "input": "kute",
+    "technical_name": "SITELEN PONA IDEOGRAPH KUTE",
+    "codepoint": "F1920"
    },
    {
     "name": "la",
-    "input": "la"
+    "input": "la",
+    "technical_name": "SITELEN PONA IDEOGRAPH LA",
+    "codepoint": "F1921"
    },
    {
     "name": "lape",
-    "input": "lape"
+    "input": "lape",
+    "technical_name": "SITELEN PONA IDEOGRAPH LAPE",
+    "codepoint": "F1922"
    },
    {
     "name": "laso",
-    "input": "laso"
+    "input": "laso",
+    "technical_name": "SITELEN PONA IDEOGRAPH LASO",
+    "codepoint": "F1923"
    },
    {
     "name": "lawa",
-    "input": "lawa"
+    "input": "lawa",
+    "technical_name": "SITELEN PONA IDEOGRAPH LAWA",
+    "codepoint": "F1924"
    },
    {
     "name": "len",
-    "input": "len"
+    "input": "len",
+    "technical_name": "SITELEN PONA IDEOGRAPH LEN",
+    "codepoint": "F1925"
    },
    {
     "name": "lete",
-    "input": "lete"
+    "input": "lete",
+    "technical_name": "SITELEN PONA IDEOGRAPH LETE",
+    "codepoint": "F1926"
    },
    {
     "name": "li",
-    "input": "li"
+    "input": "li",
+    "technical_name": "SITELEN PONA IDEOGRAPH LI",
+    "codepoint": "F1927"
    },
    {
     "name": "lili",
-    "input": "lili"
+    "input": "lili",
+    "technical_name": "SITELEN PONA IDEOGRAPH LILI",
+    "codepoint": "F1928"
    },
    {
     "name": "linja",
-    "input": "linja"
+    "input": "linja",
+    "technical_name": "SITELEN PONA IDEOGRAPH LINJA",
+    "codepoint": "F1929"
    },
    {
     "name": "lipu",
-    "input": "lipu"
+    "input": "lipu",
+    "technical_name": "SITELEN PONA IDEOGRAPH LIPU",
+    "codepoint": "F192A"
    },
    {
     "name": "loje",
-    "input": "loje"
+    "input": "loje",
+    "technical_name": "SITELEN PONA IDEOGRAPH LOJE",
+    "codepoint": "F192B"
    },
    {
     "name": "lon",
-    "input": "lon"
+    "input": "lon",
+    "technical_name": "SITELEN PONA IDEOGRAPH LON",
+    "codepoint": "F192C"
    },
    {
     "name": "luka",
-    "input": "luka"
+    "input": "luka",
+    "technical_name": "SITELEN PONA IDEOGRAPH LUKA",
+    "codepoint": "F192D"
    },
    {
     "name": "lukin",
-    "input": "lukin"
+    "input": "lukin",
+    "technical_name": "SITELEN PONA IDEOGRAPH LUKIN",
+    "codepoint": "F192E"
    },
    {
     "name": "lupa",
-    "input": "lupa"
+    "input": "lupa",
+    "technical_name": "SITELEN PONA IDEOGRAPH LUPA",
+    "codepoint": "F192F"
    },
    {
     "name": "ma",
-    "input": "ma"
+    "input": "ma",
+    "technical_name": "SITELEN PONA IDEOGRAPH MA",
+    "codepoint": "F1930"
    },
    {
     "name": "mama",
-    "input": "mama"
+    "input": "mama",
+    "technical_name": "SITELEN PONA IDEOGRAPH MAMA",
+    "codepoint": "F1931"
    },
    {
     "name": "mani",
-    "input": "mani"
+    "input": "mani",
+    "technical_name": "SITELEN PONA IDEOGRAPH MANI",
+    "codepoint": "F1932"
    },
    {
     "name": "meli",
-    "input": "meli"
+    "input": "meli",
+    "technical_name": "SITELEN PONA IDEOGRAPH MELI",
+    "codepoint": "F1933"
    },
    {
     "name": "mi",
-    "input": "mi"
+    "input": "mi",
+    "technical_name": "SITELEN PONA IDEOGRAPH MI",
+    "codepoint": "F1934"
    },
    {
     "name": "mije",
-    "input": "mije"
+    "input": "mije",
+    "technical_name": "SITELEN PONA IDEOGRAPH MIJE",
+    "codepoint": "F1935"
    },
    {
     "name": "moku",
-    "input": "moku"
+    "input": "moku",
+    "technical_name": "SITELEN PONA IDEOGRAPH MOKU",
+    "codepoint": "F1936"
    },
    {
     "name": "moli",
-    "input": "moli"
+    "input": "moli",
+    "technical_name": "SITELEN PONA IDEOGRAPH MOLI",
+    "codepoint": "F1937"
    },
    {
     "name": "monsi",
-    "input": "monsi"
+    "input": "monsi",
+    "technical_name": "SITELEN PONA IDEOGRAPH MONSI",
+    "codepoint": "F1938"
    },
    {
     "name": "monsuta",
-    "input": "monsuta"
+    "input": "monsuta",
+    "technical_name": "SITELEN PONA IDEOGRAPH MONSUTA",
+    "codepoint": "F197D"
    },
    {
     "name": "mu",
-    "input": "mu"
+    "input": "mu",
+    "technical_name": "SITELEN PONA IDEOGRAPH MU",
+    "codepoint": "F1939"
    },
    {
     "name": "mun",
-    "input": "mun"
+    "input": "mun",
+    "technical_name": "SITELEN PONA IDEOGRAPH MUN",
+    "codepoint": "F193A"
    },
    {
     "name": "musi",
-    "input": "musi"
+    "input": "musi",
+    "technical_name": "SITELEN PONA IDEOGRAPH MUSI",
+    "codepoint": "F193B"
    },
    {
     "name": "mute",
-    "input": "mute"
+    "input": "mute",
+    "technical_name": "SITELEN PONA IDEOGRAPH MUTE",
+    "codepoint": "F193C"
    },
    {
     "name": "nanpa",
-    "input": "nanpa"
+    "input": "nanpa",
+    "technical_name": "SITELEN PONA IDEOGRAPH NANPA",
+    "codepoint": "F193D"
    },
    {
     "name": "nasa",
-    "input": "nasa"
+    "input": "nasa",
+    "technical_name": "SITELEN PONA IDEOGRAPH NASA",
+    "codepoint": "F193E"
    },
    {
     "name": "nasin",
-    "input": "nasin"
+    "input": "nasin",
+    "technical_name": "SITELEN PONA IDEOGRAPH NASIN",
+    "codepoint": "F193F"
    },
    {
     "name": "nena",
-    "input": "nena"
+    "input": "nena",
+    "technical_name": "SITELEN PONA IDEOGRAPH NENA",
+    "codepoint": "F1940"
    },
    {
-    "name": "ni, decided by font",
-    "input": "ni"
-   },
-   {
-    "name": "ni, downwards",
-    "input": "niv"
+    "name": "ni",
+    "input": "niv",
+    "technical_name": "SITELEN PONA IDEOGRAPH NI",
+    "codepoint": "F1941"
    },
    {
     "name": "nimi",
-    "input": "nimi"
+    "input": "nimi",
+    "technical_name": "SITELEN PONA IDEOGRAPH NIMI",
+    "codepoint": "F1942"
    },
    {
     "name": "noka",
-    "input": "noka"
+    "input": "noka",
+    "technical_name": "SITELEN PONA IDEOGRAPH NOKA",
+    "codepoint": "F1943"
    },
    {
     "name": "o",
-    "input": "o"
+    "input": "o",
+    "technical_name": "SITELEN PONA IDEOGRAPH O",
+    "codepoint": "F1944"
    },
    {
     "name": "olin",
-    "input": "olin"
+    "input": "olin",
+    "technical_name": "SITELEN PONA IDEOGRAPH OLIN",
+    "codepoint": "F1945"
    },
    {
     "name": "ona",
-    "input": "ona"
+    "input": "ona",
+    "technical_name": "SITELEN PONA IDEOGRAPH ONA",
+    "codepoint": "F1946"
    },
    {
     "name": "open",
-    "input": "open"
+    "input": "open",
+    "technical_name": "SITELEN PONA IDEOGRAPH OPEN",
+    "codepoint": "F1947"
    },
    {
     "name": "pakala",
-    "input": "pakala"
+    "input": "pakala",
+    "technical_name": "SITELEN PONA IDEOGRAPH PAKALA",
+    "codepoint": "F1948"
    },
    {
     "name": "pali",
-    "input": "pali"
+    "input": "pali",
+    "technical_name": "SITELEN PONA IDEOGRAPH PALI",
+    "codepoint": "F1949"
    },
    {
     "name": "palisa",
-    "input": "palisa"
+    "input": "palisa",
+    "technical_name": "SITELEN PONA IDEOGRAPH PALISA",
+    "codepoint": "F194A"
    },
    {
     "name": "pan",
-    "input": "pan"
+    "input": "pan",
+    "technical_name": "SITELEN PONA IDEOGRAPH PAN",
+    "codepoint": "F194B"
    },
    {
     "name": "pana",
-    "input": "pana"
+    "input": "pana",
+    "technical_name": "SITELEN PONA IDEOGRAPH PANA",
+    "codepoint": "F194C"
    },
    {
     "name": "pi",
-    "input": "pi"
+    "input": "pi",
+    "technical_name": "SITELEN PONA IDEOGRAPH PI",
+    "codepoint": "F194D"
    },
    {
     "name": "pilin",
-    "input": "pilin"
+    "input": "pilin",
+    "technical_name": "SITELEN PONA IDEOGRAPH PILIN",
+    "codepoint": "F194E"
    },
    {
     "name": "pimeja",
-    "input": "pimeja"
+    "input": "pimeja",
+    "technical_name": "SITELEN PONA IDEOGRAPH PIMEJA",
+    "codepoint": "F194F"
    },
    {
     "name": "pini",
-    "input": "pini"
+    "input": "pini",
+    "technical_name": "SITELEN PONA IDEOGRAPH PINI",
+    "codepoint": "F1950"
    },
    {
     "name": "pipi",
-    "input": "pipi"
+    "input": "pipi",
+    "technical_name": "SITELEN PONA IDEOGRAPH PIPI",
+    "codepoint": "F1951"
    },
    {
     "name": "poka",
-    "input": "poka"
+    "input": "poka",
+    "technical_name": "SITELEN PONA IDEOGRAPH POKA",
+    "codepoint": "F1952"
    },
    {
     "name": "poki",
-    "input": "poki"
+    "input": "poki",
+    "technical_name": "SITELEN PONA IDEOGRAPH POKI",
+    "codepoint": "F1953"
    },
    {
     "name": "pona",
-    "input": "pona"
+    "input": "pona",
+    "technical_name": "SITELEN PONA IDEOGRAPH PONA",
+    "codepoint": "F1954"
    },
    {
     "name": "pu",
-    "input": "pu"
+    "input": "pu",
+    "technical_name": "SITELEN PONA IDEOGRAPH PU",
+    "codepoint": "F1955"
    },
    {
     "name": "sama",
-    "input": "sama"
+    "input": "sama",
+    "technical_name": "SITELEN PONA IDEOGRAPH SAMA",
+    "codepoint": "F1956"
    },
    {
     "name": "seli",
-    "input": "seli"
+    "input": "seli",
+    "technical_name": "SITELEN PONA IDEOGRAPH SELI",
+    "codepoint": "F1957"
    },
    {
     "name": "selo",
-    "input": "selo"
+    "input": "selo",
+    "technical_name": "SITELEN PONA IDEOGRAPH SELO",
+    "codepoint": "F1958"
    },
    {
     "name": "seme",
-    "input": "seme"
+    "input": "seme",
+    "technical_name": "SITELEN PONA IDEOGRAPH SEME",
+    "codepoint": "F1959"
    },
    {
-    "name": "sewi, decided by font",
-    "input": "sewi"
-   },
-   {
-    "name": "sewi, pu style",
-    "input": "sewi"
+    "name": "sewi",
+    "input": "sewi",
+    "technical_name": "SITELEN PONA IDEOGRAPH SEWI",
+    "codepoint": "F195A"
    },
    {
     "name": "sijelo",
-    "input": "sijelo"
+    "input": "sijelo",
+    "technical_name": "SITELEN PONA IDEOGRAPH SIJELO",
+    "codepoint": "F195B"
    },
    {
     "name": "sike",
-    "input": "sike"
+    "input": "sike",
+    "technical_name": "SITELEN PONA IDEOGRAPH SIKE",
+    "codepoint": "F195C"
    },
    {
     "name": "sin",
-    "input": "sin"
+    "input": "sin",
+    "technical_name": "SITELEN PONA IDEOGRAPH SIN",
+    "codepoint": "F195D"
    },
    {
     "name": "sina",
-    "input": "sina"
+    "input": "sina",
+    "technical_name": "SITELEN PONA IDEOGRAPH SINA",
+    "codepoint": "F195E"
    },
    {
     "name": "sinpin",
-    "input": "sinpin"
+    "input": "sinpin",
+    "technical_name": "SITELEN PONA IDEOGRAPH SINPIN",
+    "codepoint": "F195F"
    },
    {
     "name": "sitelen",
-    "input": "sitelen"
+    "input": "sitelen",
+    "technical_name": "SITELEN PONA IDEOGRAPH SITELEN",
+    "codepoint": "F1960"
    },
    {
     "name": "sona",
-    "input": "sona"
+    "input": "sona",
+    "technical_name": "SITELEN PONA IDEOGRAPH SONA",
+    "codepoint": "F1961"
    },
    {
     "name": "soweli",
-    "input": "soweli"
+    "input": "soweli",
+    "technical_name": "SITELEN PONA IDEOGRAPH SOWELI",
+    "codepoint": "F1962"
    },
    {
     "name": "suli",
-    "input": "suli"
+    "input": "suli",
+    "technical_name": "SITELEN PONA IDEOGRAPH SULI",
+    "codepoint": "F1963"
    },
    {
     "name": "suno",
-    "input": "suno"
+    "input": "suno",
+    "technical_name": "SITELEN PONA IDEOGRAPH SUNO",
+    "codepoint": "F1964"
    },
    {
     "name": "supa",
-    "input": "supa"
+    "input": "supa",
+    "technical_name": "SITELEN PONA IDEOGRAPH SUPA",
+    "codepoint": "F1965"
    },
    {
     "name": "suwi",
-    "input": "suwi"
+    "input": "suwi",
+    "technical_name": "SITELEN PONA IDEOGRAPH SUWI",
+    "codepoint": "F1966"
    },
    {
     "name": "tan",
-    "input": "tan"
+    "input": "tan",
+    "technical_name": "SITELEN PONA IDEOGRAPH TAN",
+    "codepoint": "F1967"
    },
    {
     "name": "taso",
-    "input": "taso"
+    "input": "taso",
+    "technical_name": "SITELEN PONA IDEOGRAPH TASO",
+    "codepoint": "F1968"
    },
    {
     "name": "tawa",
-    "input": "tawa"
+    "input": "tawa",
+    "technical_name": "SITELEN PONA IDEOGRAPH TAWA",
+    "codepoint": "F1969"
    },
    {
     "name": "telo",
-    "input": "telo"
+    "input": "telo",
+    "technical_name": "SITELEN PONA IDEOGRAPH TELO",
+    "codepoint": "F196A"
    },
    {
     "name": "tenpo",
-    "input": "tenpo"
+    "input": "tenpo",
+    "technical_name": "SITELEN PONA IDEOGRAPH TENPO",
+    "codepoint": "F196B"
    },
    {
     "name": "toki",
-    "input": "toki"
+    "input": "toki",
+    "technical_name": "SITELEN PONA IDEOGRAPH TOKI",
+    "codepoint": "F196C"
    },
    {
     "name": "tomo",
-    "input": "tomo"
+    "input": "tomo",
+    "technical_name": "SITELEN PONA IDEOGRAPH TOMO",
+    "codepoint": "F196D"
    },
    {
     "name": "tonsi",
-    "input": "tonsi"
+    "input": "tonsi",
+    "technical_name": "SITELEN PONA IDEOGRAPH TONSI",
+    "codepoint": "F197E"
    },
    {
     "name": "tu",
-    "input": "tu"
+    "input": "tu",
+    "technical_name": "SITELEN PONA IDEOGRAPH TU",
+    "codepoint": "F196E"
    },
    {
     "name": "unpa",
-    "input": "unpa"
+    "input": "unpa",
+    "technical_name": "SITELEN PONA IDEOGRAPH UNPA",
+    "codepoint": "F196F"
    },
    {
     "name": "uta",
-    "input": "uta"
+    "input": "uta",
+    "technical_name": "SITELEN PONA IDEOGRAPH UTA",
+    "codepoint": "F1970"
    },
    {
     "name": "utala",
-    "input": "utala"
+    "input": "utala",
+    "technical_name": "SITELEN PONA IDEOGRAPH UTALA",
+    "codepoint": "F1971"
    },
    {
     "name": "walo",
-    "input": "walo"
+    "input": "walo",
+    "technical_name": "SITELEN PONA IDEOGRAPH WALO",
+    "codepoint": "F1972"
    },
    {
     "name": "wan",
-    "input": "wan"
+    "input": "wan",
+    "technical_name": "SITELEN PONA IDEOGRAPH WAN",
+    "codepoint": "F1973"
    },
    {
     "name": "waso",
-    "input": "waso"
+    "input": "waso",
+    "technical_name": "SITELEN PONA IDEOGRAPH WASO",
+    "codepoint": "F1974"
    },
    {
     "name": "wawa",
-    "input": "wawa"
+    "input": "wawa",
+    "technical_name": "SITELEN PONA IDEOGRAPH WAWA",
+    "codepoint": "F1975"
    },
    {
     "name": "weka",
-    "input": "weka"
+    "input": "weka",
+    "technical_name": "SITELEN PONA IDEOGRAPH WEKA",
+    "codepoint": "F1976"
    },
    {
     "name": "wile",
-    "input": "wile"
+    "input": "wile",
+    "technical_name": "SITELEN PONA IDEOGRAPH WILE",
+    "codepoint": "F1977"
    }
   ],
   "punctuation": [
    {
     "name": "between words or tokens (zero-width)",
     "input": "",
+    "technical_name": "ZERO WIDTH SPACE",
+    "codepoint": "0020",
     "explain": "Fontmakers rely on this invisible glyph to separate units from each other",
     "example-before": "mi 'zero-width-space' pona",
     "example-after": "mi pona",
@@ -519,16 +759,25 @@
     "input": [
       "[",
       "]"
-    ], 
+    ],
+    "technical_name": [
+      "SITELEN PONA START OF CARTOUCHE",
+      "SITELEN PONA END OF CARTOUCHE"
+    ],
+    "codepoint": [
+      "F1990",
+      "F1991"
+    ],
     "explain": "Paired with each other, these glyphs can be used to write a container for proper names",
-        "example-before": "jan 'cartouche start' anpa mama awen 'cartouche end'",
+    "example-before": "jan 'cartouche start' anpa mama awen 'cartouche end'",
     "example-after": "jan [anpa mama awen]",
     "pair": "true"
-
    },
    {
     "name": "combined glyph, decided by font <br>(zero-width joiner)",
     "input": "luka&luka",
+    "technical_name": "ZERO WIDTH JOINER",
+    "codepoint": "200D",
     "explain": "This invisible glyph is used to combine two glyphs in a way the fontmaker specifies. Depending on the shape of the glyphs and preferences of the fontmaker, the combination may end up stacked, nested, or combined some other way.",
     "example-before": "soweli 'zw-joiner' suwi li kalama 'zw-joiner' jaki",
     "example-after": "soweli&suwi li kalama&jaki",
@@ -537,26 +786,30 @@
    {
     "name": "combined glyph, written above <br>(stacking joiner)",
     "input": "luka-luka",
+    "technical_name": "SITELEN PONA STACKING JOINER",
+    "codepoint": "F1995",
     "explain": "This invisible glyph is used to combine two glyphs by stacking the second glyph over the first.",
     "example-before": "soweli 'stack-joiner' suwi li kalama 'stack-joiner' jaki",
     "example-after": "soweli-suwi li kalama-jaki"
    },
    {
-    "name": "combined glyph, written inside <br>(scaling joiner)",
+    "name": "combined glyph, written inside <br>(nesting joiner)",
     "input": "luka+luka",
+    "technical_name": "SITELEN PONA NESTING JOINER",
+    "codepoint": "F1996",
     "explain": "This invisible glyph is used to combine two glyphs by writing the second glyph inside the first.",
     "example-before": "soweli 'scale-joiner' suwi li kalama 'scale-joiner' jaki",
     "example-after": "soweli+suwi li kalama+jaki"
-
    },
    {
     "name": "ideographic space",
     "input": "|",
+    "technical_name": "IDEOGRAPHIC SPACE",
+    "codepoint": "3000",
     "explain": "This glyph is used to create a visible space, which can be used as sentence-ending punctuation, or within the indented style.",
     "example-before": "mi toki 'ideographic space' sina toki ala",
     "example-after": "mi toki zz sina toki ala",
     "no-codepoint": "true"
-
    }
   ]
  },
@@ -564,35 +817,51 @@
   "words": [
    {
     "name": "kijetesan-takalu",
-    "input": "kijetesantakalu"
+    "input": "kijetesantakalu",
+    "technical_name": "SITELEN PONA IDEOGRAPH KIJETESANTAKALU",
+    "codepoint": "F1980"
    },
    {
     "name": "kipisi",
-    "input": "kipisi"
+    "input": "kipisi",
+    "technical_name": "SITELEN PONA IDEOGRAPH KIPISI",
+    "codepoint": "F197B"
    },
    {
     "name": "ku",
-    "input": "ku"
+    "input": "ku",
+    "technical_name": "SITELEN PONA IDEOGRAPH KU",
+    "codepoint": "F1988"
    },
    {
     "name": "leko",
-    "input": "leko"
+    "input": "leko",
+    "technical_name": "SITELEN PONA IDEOGRAPH LEKO",
+    "codepoint": "F197C"
    },
    {
     "name": "misikeke",
-    "input": "misikeke"
+    "input": "misikeke",
+    "technical_name": "SITELEN PONA IDEOGRAPH MISIKEKE",
+    "codepoint": "F1987"
    },
    {
     "name": "n",
-    "input": "n"
+    "input": "n",
+    "technical_name": "SITELEN PONA IDEOGRAPH N",
+    "codepoint": "F1986"
    },
    {
     "name": "namako",
-    "input": "namako"
+    "input": "namako",
+    "technical_name": "SITELEN PONA IDEOGRAPH NAMAKO",
+    "codepoint": "F1978"
    },
    {
     "name": "soko",
-    "input": "soko"
+    "input": "soko",
+    "technical_name": "SITELEN PONA IDEOGRAPH SOKO",
+    "codepoint": "F1981"
    }
   ],
   "punctuation": [
@@ -605,14 +874,19 @@
       "zz",
       "zz"
     ],
+    "technical_name": [
+      "SITELEN PONA START OF LONG GLYPH",
+      "SITELEN PONA END OF LONG GLYPH"
+    ],
+    "codepoint": [
+      "F1997",
+      "F1998"
+    ],
     "explain": "When used after a glyph that a fontmaker supports as extendable, this pair of glyphs go on either side of the glyphs that the extension should go around.",
     "example-before": "kili pi 'long-start' nena 'zw-joiner' mute 'long-end' li lon 'long-start' tomo 'long-end'",
-    "example-after": "kili pi(nena&mute) li lon(tomo)" ,
-
+    "example-after": "kili pi(nena&mute) li lon(tomo)",
     "pair": "true"
-
    },
-
    {
     "name": [
       "left corner bracket",
@@ -622,15 +896,25 @@
       "te",
       "to"
     ],
+    "technical_name": [
+      "LEFT CORNER BRACKET",
+      "RIGHT CORNER BRACKET"
+    ],
+    "codepoint": [
+      "300C",
+      "300D"
+    ],
     "explain": "This pair of glyphs are used as quotation punctuation. The left opens, the right closes.",
     "example-before": "ona li toki 'left-bracket' sina pona 'right-bracket",
-    "example-after": "ona li toki te sina pona to" ,
+    "example-after": "ona li toki te sina pona to",
     "pair": "true",
     "no-codepoint": "true"
    },
    {
     "name": "middle dot",
     "input": ".",
+    "technical_name": "SITELEN PONA MIDDLE DOT",
+    "codepoint": "F199C",
     "explain": "This glyph is mostly used as sentence-ending punctuation. In a cartouche, it can refer to one mora in nasin sitelen kalama. ",
     "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middledot'",
     "example-after": "a. nasin pi ma[poka.] li wawa."
@@ -638,10 +922,11 @@
    {
     "name": "semicolon",
     "input": ":",
+    "technical_name": "SITELEN PONA COLON",
+    "codepoint": "F199D",
     "explain": "In a cartouche, this glyph can refer to two morae in nasin sitelen kalama. ",
     "example-before": "ma 'cartouche-start' a meli 'semicolon' 'middledot' kala 'middledot' 'cartouch-end' seli",
-    "example-after": "ma [a meli:.kala.] seli" 
-
+    "example-after": "ma [a meli:.kala.] seli"
    }
   ]
  },
@@ -649,62 +934,86 @@
   "words": [
    {
     "name": "epiku",
-    "input": "epiku"
+    "input": "epiku",
+    "technical_name": "SITELEN PONA IDEOGRAPH EPIKU",
+    "codepoint": "F1983"
    },
    {
     "name": "jasima",
-    "input": "jasima"
+    "input": "jasima",
+    "technical_name": "SITELEN PONA IDEOGRAPH JASIMA",
+    "codepoint": "F197F"
    },
    {
     "name": "lanpan",
-    "input": "lanpan"
+    "input": "lanpan",
+    "technical_name": "SITELEN PONA IDEOGRAPH LANPAN",
+    "codepoint": "F1985"
    },
    {
     "name": "linluwi",
-    "input": "linluwi"
+    "input": "linluwi",
+    "technical_name": "SITELEN PONA IDEOGRAPH LINLUWI",
+    "codepoint": "F19A4"
    },
    {
     "name": "majuna",
-    "input": "majuna"
+    "input": "majuna",
+    "technical_name": "SITELEN PONA IDEOGRAPH MAJUNA",
+    "codepoint": "F19A2"
    },
    {
     "name": "meso",
-    "input": "meso"
+    "input": "meso",
+    "technical_name": "SITELEN PONA IDEOGRAPH MESO",
+    "codepoint": "F1982"
    },
    {
     "name": "ni, leftwards",
-    "input": "ni<"
+    "input": "ni<",
+    "technical_name": "SITELEN PONA IDEOGRAPH LEFTWARDS NI",
+    "codepoint": "F1989"
    },
    {
     "name": "ni, upwards",
-    "input": "ni^"
+    "input": "ni^",
+    "technical_name": "SITELEN PONA IDEOGRAPH UPWARDS NI",
+    "codepoint": "F198A"
    },
    {
     "name": "ni, rightwards",
-    "input": "ni>"
+    "input": "ni>",
+    "technical_name": "SITELEN PONA IDEOGRAPH RIGHTWARDS NI",
+    "codepoint": "F198B"
    },
    {
     "name": "oko",
-    "input": "oko"
+    "input": "oko",
+    "technical_name": "SITELEN PONA IDEOGRAPH OKO",
+    "codepoint": "F197A"
    },
    {
     "name": "sewi, alternate",
-    "input": "sewi&#65025;"
+    "input": "sewi&#65025;",
+    "technical_name": "SITELEN PONA IDEOGRAPH ALTERNATE SEWI",
+    "codepoint": "F198C"
    },
    {
     "name": "su",
-    "input": "su"
+    "input": "su",
+    "technical_name": "SITELEN PONA IDEOGRAPH SU",
+    "codepoint": "F19A6"
    }
   ],
   "punctuation": [
    {
     "name": "combining tally mark",
     "input": ",",
+    "technical_name": "SITELEN PONA COMBINING TALLY MARK",
+    "codepoint": "F199E",
     "explain": "In a cartouche, to write names in the compact nasin sitelen kalama pi linja lili style. ",
     "example-before": "ma 'cartouche-start' a meli 'tally' 'tally' 'tally' kala 'tally' 'cartouch-end' seli",
-    "example-after": "ma [a meli,,,kala,] seli" 
-
-
+    "example-after": "ma [a meli,,,kala,] seli"
    }
   ]
  }

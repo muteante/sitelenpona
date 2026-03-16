@@ -14,7 +14,7 @@ body {
     --lupa: #0063fd;
     --lupa-pimeja: #000099;
     --sp-split: 20rem;
-    --en-split: 20rem;
+    --en-split: 25rem;
     background-color: white;
     color: black;
     font-family: 'Nunito Sans', sans-serif;
@@ -27,7 +27,7 @@ body {
 .split p.sp:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sp; 
   content: "[" counter(sp) "]";
 }
-.split p.sl:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sp; 
+.split p.sl:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: sl; 
   content: "[" counter(sl) "]";
 }
 .split p::before{
@@ -150,16 +150,25 @@ main img {
 [data-selected-language="tok"] .split:not(h1, footer) [lang="en"]{
     display: none;
 }
-
 [data-selected-script="sp"] :is(.split, .splith, .condensed) .sl {
     display: none;
-
 }
 [data-selected-script="sl"] :is(.split, .splith, .condensed) .sp {
     display: none;
-
 }
 
+[data-selected-language="tok"] .ui-en, :is([data-selected-language="en"], [data-selected-language="bilingual"]) .ui-tok {
+    display: none;
+}
+[data-selected-script="sl"] .ui-sp, [data-selected-script="sp"] .ui-sl {
+    display: none;
+}
+
+
+.ui-sp {
+    font-family: nasin-nanpa;
+    text-transform: initial !important;
+}
 
 
 :is(a.sp, .sp a){
