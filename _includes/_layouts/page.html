@@ -155,6 +155,17 @@
             select:is(:hover, :focus-within) {
                 border-color: var(--kule-7);
             }
+            .breadcrumb {
+                position: relative;
+                left: 12.5%;
+            }
+            .breadcrumb a{
+                color: var(--kule-7);
+
+            }
+            .breadcrumb span:not(:last-of-type)::after{
+                content: ' > ';
+            }
 
             footer {
                 color: var(--kule-8);
@@ -269,7 +280,7 @@
                 <img alt="association logo" src="/assets/sitelen/logo.svg">
             </a>
             <p lang="tok" class="sp">kulupu pali pi sitelen pona</p>
-            <p lang="en">sitelen pona publishers &<br>typographers association</p>
+            <p lang="en">sitelen pona publishers &<br>typographers associmbation</p>
         </div>
 </body>
 </header>
@@ -335,6 +346,14 @@
 
 <main>
 
+      {%- if breadcrumb -%}
+        <p class="breadcrumb">
+            {%- for item in breadcrumb -%}
+            <span><a href="{{ item.link }}">{{item.name}}</a> </span>
+            {%- endfor -%}
+        </p>
+    {%- endif -%}
+ 
     <h1 class="split">
         <div>
             {% include "partials/ui-translate.liquid", 
@@ -344,6 +363,8 @@
             %}
         <div>
     </h1>
+
+     
     {{ content }}
 
 </main>
