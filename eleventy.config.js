@@ -54,7 +54,6 @@ export default async function (eleventyConfig) {
         let sorted = unsorted.sort((a, b) => {
             if (a.data.index < b.data.index) return -1; else return 1;
         })
-        console.log(sorted);
         return sorted; 
 	});
 
