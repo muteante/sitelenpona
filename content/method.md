@@ -18,7 +18,7 @@ span:has(.tiers){
     vertical-align: top;
 }
 thead {
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px var(--pimeja);
 }
 .tiers{
     max-width: 50rem;

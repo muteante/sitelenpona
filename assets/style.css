@@ -15,10 +15,29 @@ body {
     --lupa-pimeja: #000099;
     --sp-split: 20rem;
     --en-split: 25rem;
-    background-color: white;
-    color: black;
+    --pimeja: black;
+    --walo: white;
+    background-color: var(--walo, white);
+    color: var(--pimeja, black);
     font-family: 'Nunito Sans', sans-serif;
     counter-reset: sp en sl;
+}
+@media (prefers-color-scheme: dark){
+    body{
+    --kule-1: #a64300;
+    --kule-3: #cb5300;
+    --kule-5: #ff7000;
+    --kule-7: #ffb17e;
+    --kule-8: #ffe3d2;
+    --lupa: #7cdff5;
+    --lupa-pimeja: #000099;
+    --sp-split: 20rem;
+    --en-split: 25rem;
+    --pimeja: rgb(221, 217, 217);
+    --walo: rgb(52, 51, 51);
+    }
+
+
 }
 
 .split p[lang="en"]:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: en; 

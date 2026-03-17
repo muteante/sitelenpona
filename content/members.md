@@ -59,7 +59,7 @@ permalink: members.html
         top: -1rem;
         left: 0;
         z-index: 1;
-        background-color: white;
+        background-color: var(--walo);
         outline: 2px solid var(--kule-5);
         border-radius: 0.5rem;
         list-style-type: none;

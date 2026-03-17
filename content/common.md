@@ -89,12 +89,12 @@ permalink: common.html
 }
 
 .punctuation :is(.word-name, .word-glyph){
-    border: 2px solid black;
+    border: 2px solid var(--pimeja);
     border-radius: .5rem;
 }
 
 .punctuation .no-codepoint :is(.word-name, .word-glyph){
-    border: 2px dashed black;
+    border: 2px dashed var(--pimeja);
 }
 
 
