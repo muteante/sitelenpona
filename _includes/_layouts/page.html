@@ -165,10 +165,6 @@
                 color: var(--kule-7);
 
             }
-            .breadcrumb span:not(:last-of-type)::after{
-                content: ' > ';
-            }
-
             footer {
                 color: var(--kule-8);
                 margin-bottom: 2rem;
@@ -351,7 +347,14 @@
       {%- if breadcrumb -%}
         <p class="breadcrumb">
             {%- for item in breadcrumb -%}
-            <span><a href="{{ item.link }}">{{item.name}}</a> </span>
+            <span><a href="{{ item.link }}">
+                {% include "partials/ui-translate.liquid", enName: item.enName, spName: item.spName, sLName: item.sLName %}</a>
+                {%- if item != breadcrumb[-1] -%}
+                &nbsp;>
+                {%- endif -%}
+
+
+            </span>
             {%- endfor -%}
         </p>
     {%- endif -%}

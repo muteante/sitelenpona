@@ -3,6 +3,12 @@ title: The Road to Unicode
 sLTitle: kulupu li wile pana e sitelen pona tawa nasin Juniko
 spTitle: kulupu li wile pana e sitelen pona tawa nasin [jan uta ni:ko:]
 permalink: /history.html
+
+breadcrumb:
+  - enName: Common Sitelen Pona
+    sLName: sitelen pona kulupu 
+    spName: sitelen pona kulupu
+    link: /common/
 ---
 
 <style>
