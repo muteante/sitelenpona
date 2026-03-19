@@ -428,9 +428,9 @@ waso Keli tabled two votes within this algorithm. The majority preference of SP 
 
 {% split %}
 {% en %}
-musi ike Majeka transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized. 
+jan Majeka transcribed 698 samples of handwritten Sitelen Pona shared online, annotating features and alternative glyphs. In total, well over 25k glyphs were scrutinized. 
 
-The majority preference of submissions from the handwriting corpus held one vote within this algorithm. Where musi ike Majeka determined that no strong preference was evident, the corpus would not receive a vote.  
+The majority preference of submissions from the handwriting corpus held one vote within this algorithm. Where jan Majeka determined that no strong preference was evident, the corpus would not receive a vote.  
 {% enden %}
 
 {% sp %}
