@@ -7,7 +7,8 @@ layout: '_layouts/method.html'
 index: 2
 ---
 
-
+<style>
+    </style>
 
 {% splith 2%}
 {% en %}Process{% enden %}
@@ -23,7 +24,14 @@ Each representative was free to design their own algorithm based on their data s
 {% enden %}
 
 {% sp %}
+anpa sewi en kala en mun li lon kulupu pi pali nimi  
+zz ni^ en ni^ en ni^ li pali lon ona taso   
+zz zz li nanpa e suli kepeken pi nimi ale kepeken sona ante tan  
+pini la kulupu pi pali nimi li wan e pilin ona tu wan
 
+sona ante tan la ona pali li kepeken sona ni lon nasin pi wile ona  
+o kama sona e anpa sewi e kala e mun   
+zz zz zz e sona ante tan tu wan ona e nasin tu wan ona
 {% endsp %}
 {% sl %}
 anpa sewi en kala en mun li lon kulupu pi pali nimi. ona tu wan li pali lon ona taso li nanpa e suli kepeken pi nimi ale kepeken sona ante tan. pini la, kulupu pi pali nimi li wan e pilin ona tu wan. 
@@ -49,6 +57,18 @@ Mrs. Lang (author of _Official Toki Pona_ series) held one vote within this algo
 {% enden %}
 
 {% sp %}
+anpa sewi li mama pi(toki+pona) li mama pi(sitelen+pona)   
+ona li sona e toki pona tan tenpo open la sona ona li suli a li tenpo a  
+lipu pu pi anpa sewi li kama lon tenpo pini li mama e sitelen+pona  
+lon tenpo pini pi poka lili la anpa sewi li alasa e suli kepeken pi nimi mute 
+zz zz zz zz zz zz zz zz zz zz zz zz li pana e sona ni^ tawa lipu ku
+
+nasin nimi nanpa pi anpa sewi li ni    
+zz nimi ale pi lipu pu li suli kepeken nanpa wan  
+zz nimi ante ala la anpa sewi li kepeken sona+mama ona li kepeken pilin+mama ona
+
+pali nimi la pilin pi anpa sewi   
+zz li pilin wan pi pilin tu wan
 {% endsp %}
 {% sl %}
 anpa sewi li mama pi toki pona li mama pi sitelen pona. ona li sona e toki pona tan tenpo open la sona ona li suli a li tenpo a. lipu pu pi anpa sewi li kama lon tenpo sike #MALLTT li mama e sitelen pona. lon tenpo sike #MAMW la anpa sewi li alasa e suli kepeken pi nimi mute li pana e sona ni tawa lipu ku. 
@@ -61,7 +81,7 @@ pali nimi la pilin pi anpa sewi li pilin wan pi pilin tu wan.
 
 {% splith 3 %}
 {% en %}lipu Linku and kala Asi{% enden %}
-{% sp %}o ante toki e nimi suli ni{% endsp %}
+{% sp %}lipu Linku en kala [alasa sona ilo]{% endsp %}
 {% sl %}lipu Linku en kala Asi{% endsl %}
 {% endsplith %}
 
@@ -79,6 +99,28 @@ As reported by kala Asi, the Linku project held one vote within this algorithm.
 {% enden %}
 
 {% sp %}
+pali Linku li lipu e sona mute lon nimi pi toki pona  
+kulupu pali Linku li alasa e sona ni tan kulupu lon tenpo sike ale  
+zz jan kulupu li kepeken nimi seme li sona e nimi seme  
+lipu nimi Linku li poki e nimi tan suli ona kepeken poki tu tu ni  
+ jan luka luka la jan luka tu tu li kepeken nimi la nimi li te suli a  to  
+  zz zz zz zz jan luka wan li kepeken nimi la nimi li te suli  to  
+  zz zz zz zz jan tu wan li kepeken nimi la nimi li te suli lili  to  
+  zz zz zz zz ante la nimi li te suli ala  to
+
+kala [alasa sona ilo] li jan pali pi kulupu Linku lon pali ni  
+ona li ante e sona Linku pi suli-nimi tawa suli-nimi pi sitelen+pona kulupu la   
+zz ona li ante lili e nanpa
+
+- suli kepeken nanpawan la  jan luka la jan tu tu li kepeken    
+nimi ale te suli a to en nimi lili  te suli to  li lon ni^
+- suli kepeken nanpa tu la    jan luka la jan tu wan li kepeken  
+nimi mute te suli to li lon ni^
+- suli kepeken nanpa tu wan   la  jan luka luka la jan tu wan li kepeken  
+ nimi ale te suli lili to li lon ni^
+
+pali nimi la sona pi lipu Linku en nasin pi kala [alasa sona ilo]   
+zz li pilin wan pi pilin tu wan
 {% endsp %}
 {% sl %}
 pali Linku li lipu e sona mute lon nimi pi toki pona. kulupu pali Linku li alasa e sona ni tan kulupu lon tenpo sike ale: jan kulupu li kepeken nimi seme, li sona e nimi seme. lipu nimi Linku li poki e nimi tan suli ona, kepeken poki tu tu. nimi wan la, jan LL la: jan LTT li kepeken la nimi li suli a. jan LW li kepeken la suli. jan TW la suli lili. ante la suli ala.
@@ -95,7 +137,7 @@ pali nimi la sona pi lipu Linku en nasin pi kala Asi li pilin wan pi pilin tu wa
 
 {% splith 3 %}
 {% en %}ilo Muni and Gregory Danielson III (mun Kekan San){% enden %}
-{% sp %}ilo Muni en mun Kekan San{% endsp %}
+{% sp %}ilo [mute. nimi.] <br>en mun [ken . kalama . nasa][mute:]{% endsp %}
 {% sl %}ilo Muni en mun Kekan San{% endsl %}
 {% endsplith %}
 
@@ -112,6 +154,27 @@ As reported by mun Kekan San, ilo Muni held the tiebreaking vote within this alg
 {% enden %}
 
 {% sp %}
+ilo [mute. nimi.]  li kama e sona+nanpa pi nasin nimi   
+zz kepeken poki suli pi toki+pona  taso   
+en mun [ken . kalama . nasa][mute:] li mama e ilo [mute]  
+ona li wile sona e suli-nimi pi sitelen+pona kulupu kepeken ilo [mute] la   
+zz mun li pali e nasin ni
+
+- suli kepeken nanpa wan li ni   
+tenpo sike luka la jan wan ale la ona luka luka li kepeken nimi ni  
+nasin ni^ la nimi ale pi lipu pu li lon
+- suli kepeken nanpa tu li ni  
+tenpo sike tu-tu la jan tu ale la ona luka-luka tu-tu li kepeken nimi ni  
+nasin ni^ la nimi ale suli pi lipu Linku li lon
+- suli kepeken nanpa tu wan li ni  
+tenpo sike tu-wan la jan wan ale la ona luka taso li kepeken nimi ni  
+nanpa ni^ la ilo [mute.nimi.] li pakala nanpa nasa ala
+
+
+pali nimi la ilo [mute.nimi] en mun [ken][mute]   
+zz li pilin wan pi pilin tu wan   
+taso ken tu li pilin pi mute sama la  pilin mun li ken anpa e pilin ante
+
 {% endsp %}
 {% sl %}
 
@@ -144,19 +207,19 @@ Or download the raw results:
 {% enden %}
 
 {% sp %}
-o lukin e [nimi pi suli #1]()  
-o lukin e [nimi pi suli #2]()  
-o lukin e [nimi pi suli #3]()
+o lukin e [nimi pi suli nanpa wan]()  
+o lukin e [nimi pi suli nanpa tu]()  
+o lukin e [nimi pi suli nanpa tu wan]()
 
-o lukin e sona ale:
-[words-tiers.txt](/content/common/words-tiers.txt)
+o lukin e sona ale ni> zz
+[nimi](/content/common/words-tiers.txt)
 
 {% endsp %}
 
 {% sl %}
-o lukin e [nimi pi suli #1]()  
-o lukin e [nimi pi suli #2]()  
-o lukin e [nimi pi suli #3]()
+o lukin e [nimi pi suli #W]()  
+o lukin e [nimi pi suli #T]()  
+o lukin e [nimi pi suli #TW]()
 
 o lanpan e sona ale:
 [nimi](/content/common/words-tiers.txt)
