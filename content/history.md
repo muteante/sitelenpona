@@ -294,7 +294,11 @@ In 2026, we are finally presenting the labour of the last two years to the publi
 {% enden %}
 
 {% sp %}
-o pana e sitelen pona lon ni
+tenpo suli la kulupu pali li pali len zz tenpo sike ni la len li weka a    
+tenpo mun nanpa wan la mi pana e lipu pi pini ala pi sitelen+pona kulupu tawa lukin pi(jan+ale)  
+tenpo mun nanpa tu la mi pini e pali lon alasa sona pi sitelen+pona pi lipu Linku  
+tenpo mun nanpa tu wan la mi pana e lipu ilo sin  
+o awen zz pali sin mute li kama a
 {% endsp %}
 
 {% sl %}
