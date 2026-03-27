@@ -67,7 +67,55 @@ In second phase, we provided the results of the community survey to our members 
 Twenty-one of our members responded to the survey. The median response of members was used to determine the final tier assignments, with one exception. The Latin-style period was initially assigned to the third tier and later excluded through an unanimous informal poll, due to redundancy with the middot.
 {% enden %}
 {% sp %}
-o pali
+alasa tu li ni> zz alasa pilin pi jan mute en alasa pilin pi jan sona   
+lon open la kulupu pali pi sitelen pona li alasa e sona tan jan mute kepeken lipu   
+lipu li toki e sitelen+nasin mute luka luka luka tu wan kepeken nimi kepeken sitelen   
+zz li wile sona e ni> zz ona seme pi nasin ni ale la  
+zz zz zz  te mi kepeken to zz zz zz zz te mi kepeken lon tenpo lili to   
+zz zz zz te mi wile ala kepeken lon tenpo mute to zz te mi kepeken ala to
+
+jan luka ale luka li pana e sona wile tawa lipu pi alasa pilin
+
+nanpa la mi wile sona e ni> zz jan wan ale la ona pi mute seme li kepeken  
+zz te mi kepeken to la  jan wan li kepeken    
+zz te mi kepeken lon tenpo lili  to la   
+zz zz o kipisi tu wan e jan wan la kipisi tu li kepeken    
+zz te mi wile ala kepeken lon tenpo mute to la   
+zz zz o kipisi tu wan e jan wan la kipisi wan li kepeken 
+
+ni^ la mi ken nanpa e sitelen nasin ale kepeken nasin ni  
+zz jan wan ale la jan pi mute ni li kepeken  
+taso nanpa ale li lili mute a zz pilin la sona li ike zz mi pona e ona kepeken ni  
+lon la ale pi sitelen+pona li ken sitelen e nimi kepeken sitelen+nasin pi lipu pu  
+pali nanpa la mi suli e nanpa pi sitelen+nasin pi lipu pu tawa ni> zz jan ale li kepeken  
+zz ni^> la mi suli pi mute sama e sitelen nasin ante ale  
+tenpo ni la mi sona sin lili e suli kepeken pi sitelen+nasin ale tan alasa pilin pi jan mute 
+
+- suli kepeken nanpa wan la  
+jan luka luka la jan luka tu tu li kepeken 
+- suli kepeken nanpa tu la  
+jan luka luka la jan luka wan li kepeken
+- suli kepeken nanpa tu wan la  
+jan luka la jan tu wan li kepeken
+- suli ala la   
+jan luka luka la jan luka tu li kepeken ala
+
+mi lipu e sona nanpa ale ni^ li pana e lipu tawa jan ale pi kulupu pali mi
+
+alasa pilin pi jan mute li pini la mi kama alasa pilin pi jan sona  
+mi pana e lipu tawa jan sona ale pi kulupu pali li toki e ni  
+zz te sina pi sona mute o zz sitelen+nasin ale li suli nanpa seme tawa kepeken pi kulupu suli   
+zz zz zz zz zz zz zz zz o pana e pilin to  
+jan sona li pana e pilin la ona li ken kepeken sona pi alasa kulupu nanpa wan lon wile  
+zz zz zz zz zz zz zz zz li ken kepeken ala lon wile 
+
+kulupu la ona mute wan pi sona mute li pana e pilin tawa lipu alasa pi jan sona  
+nanpa la mi wan e pilin li alasa e insa kepeken ni> zz nanpa+ale li lon poka lon lipu la  
+zz zz zz nanpa+lili li lon open la nanpa+suli  li lon pini la nanpa  seme li insa lon lipu  
+zz zz nasin li ni> ala zz mi wan e nanpa ale li kipisi pi mute jan e nanpa suli  
+nasa wan li lon zz open la sike lili pi sitelen [la:sina:] li suli kepeken nanpa+mute  
+zz taso sike lili ni^> en sike insa te . to li pali sama a li selo sitelen ante la   
+zz zz kulupu li alasa insa sin e pilin li kama wile weka e ona
 {% endsp %}
 {% sl %}
 alasa li tu: alasa pilin pi jan mute en alasa pilin pi jan sona. lon open la, kulupu pali pi sitelen pona li alasa e sona tan jan mute kepeken lipu. lipu li toki e nasin mute ken pi sitelen pona. lipu li toki e nasin ni MLLLTW kepeken nimi kepeken sitelen li wile sona e ni: ona seme pi nasin ni ale la (#W) sina kepeken,  (#T) sina kepeken lon tenpo lili, (#TW) sina wile ala kepeken lon tenpo mute, (#TT) sina kepeken ala. 
@@ -92,9 +140,9 @@ jan LT li kepeken ala
 
 mi lipu e sona nanpa ale ni li pana e lipu tawa jan ale pi kulupu pali mi. 
 
-alasa pilin pi jan mute li pini la mi kama alasa pilin pi jan sona. mi pana e lipu tawa jan sona ale pi kulupu pali li toki e ni: 'sina pi sona mute la, nasin sitelen ale li suli kepeken nanpa seme? o pana e pilin.' jan sona li pana e pilin la ona li ken kepeken sona pi alasa kulupu nanpa wan lon wile li ken kepeken ala lon wile. 
+alasa pilin pi jan mute li pini la mi kama alasa pilin pi jan sona. mi pana e lipu tawa jan sona ale pi kulupu pali li toki e ni: 'sina pi sona mute o, nasin sitelen ale li suli kepeken nanpa seme? o pana e pilin.' jan sona li pana e pilin la ona li ken kepeken sona pi alasa kulupu nanpa wan lon wile li ken kepeken ala lon wile. 
 
-mi MW pi sona mute li pana e pilin tawa lipu alasa pi jan sona. mi wan e pilin li alasa e insa kepeken ni: nanpa ale li lon poka lon lipu la, nanpa lili li lon open la nanpa suli li lon pini la, nanpa seme li insa lon lipu? nasin li ni ala: mi wan e nanpa ale li kipisi pi mute jan e nanpa suli.
+mi MW pi sona mute li pana e pilin tawa lipu alasa pi jan sona. mi wan e pilin li alasa e insa kepeken ni: nanpa ale li lon poka lon lipu la, nanpa lili li lon open la nanpa suli li lon pini la, nanpa seme li insa lon lipu? nasin li ni ala: mi wan e nanpa ale li kipisi pi mute jan e nanpa suli. nasa wan li lon: open la, sike lili pi nasin sitelen Lasina li suli kepeken nanpa tu wan, taso sike lili ni en sike lili insa li pali pi sama ale li selo sitelen ante la kulupu li alasa insa sin e pilin li kama wile weka e ona. 
 {% endsl %}
 {% endsplit %}
 
@@ -109,7 +157,8 @@ mi MW pi sona mute li pana e pilin tawa lipu alasa pi jan sona. mi wan e pilin l
 Jump to [Common Sitelen Pona's non-word glyphs]().
 {% enden %}
 {% sp %}
-o pali
+o lukin e sona taso lon ni  
+zz [sitelen pi nimi ala lon sitelen pona kulupu]()
 {% endsp %}
 {% sl %}
 o lukin e [sitelen pi nimi ala lon sitelen pona kulupu]().
