@@ -260,8 +260,38 @@ In addition to working on Common Sitelen Pona, the font-makers of the associatio
 {% enden %}
 
 {% sp %}
+open pi tenpo sike pini la sona wile en nasin pali li lon kulupu lili pali  
+kulupu pali li kama pali a
 
+pali li kama lon poka pini la kulupu lili pali li kama wile ante lawa e nimi e nasin 
+zz zz zz zz zz zz zz zz zz zz  zz   li wile kama te kulupu pali pi sitelen pona to  
+tawa lawa pi ma [kasi.nasin.taso.] la kulupu pali pi sitelen pona    
+zz li wile kama kulupu esun pi wile mani ala  la nimi sin en nasin sin en lawa sin   
+zz zz li open lon tenpo suno nanpa mute luka tu wan pi tenpo mun nanpa luka tu 
 
+kepeken nasin alasa pi anpa sewi la   
+zz tenpo mun nanpa tu tu la kulupu pali li kama sona e sitelen nimi pi(sitelen+pona)  
+zz tenpo mun nanpa luka la kulupu pali li kama sona e selo pona pi sitelen nimi ni^<
+
+wile sona ante pi mute lili la mi kama e sona tan nasin ante  
+wile sona nasa wan li ni> zz sitelen mute li lon tawa nimi wan la  
+zz zz zz zz zz zz zz sitelen ante ni^ la sona li ante ala ante  
+sitelen ante pi nimi sama li sona ante la   
+zz ona li wile kama sitelen ante lon nasin [jan uta ni:ko:]  
+zz sama la lipu pi sitelen+pona kulupu li wile jo e ona sama sitelen ante  
+mi kulupu li alasa e sona lon ni^ kepeken ni   
+zz mi pana e lipu pi alasa sona tawa jan ale kulupu li alasa e ni mute  
+zz zz sitelen tu ni li sama ala sama lon sona  
+zz kama la jan pi kulupu pali li kute e sona li toki e wile lon ni  
+zz zz sitelen ante seme pi nimi sama o lon ala lon lipu pi sitelen+pona kulupu  
+tenpo ante la kulupu pali li alasa e sona sama lon sitelen  pi nimi ala lon nasin ante pi sitelen+pona  
+zz sama la jan pali li toki e wile lon ni  
+zz zz ijo ni o lon ala lon lipu pi sitelen+pona kulupu
+
+tenpo suli la ilo li sitelen e sitelen+pona kepeken [nasin [a:su:kili.])](https://tok.wikipedia.org/wiki/sitelen_Asuki) la   
+zz nasin li wan ala zz nasin [a] la nasin sitelen ante li sitelen  e ijo&sama kepeken sitelen ante   
+pali namako wan pi nasin [jan uta ni: ko:] ala la   
+zz kulupu pali li pali e lipu ni> zz sitelen+pona pi nasin [a] o kepeken nasin wan seme 
 {% endsp %}
 
 {% sl %}
@@ -273,7 +303,7 @@ kepeken nasin alasa pi anpa sewi la kulupu pali li kama sona e sitelen nimi pi s
 
 wile sona ante pi mute lili la mi kama e sona tan nasin ante. wile sona nasa wan li ni: sitelen mute li lon tawa nimi wan la, sitelen ante ni la sona li ante ala ante? sitelen ante pi nimi sama li sona ante la, ona li wile kama sitelen ante lon nasin Juniko. sama la lipu pi sitelen pona kulupu li wile jo e ona sama sitelen ante. mi kulupu li alasa e sona lon ni kepeken ni: mi pana e lipu pi alasa sona tawa jan ale kulupu li alasa e ni mute: sitelen tu ni li sama ala sama lon sona? kama la jan pi kulupu pali li kute e sona li toki e wile lon ni: sitelen ante seme pi nimi sama o lon ala lon lipu pi sitelen pona kulupu. tenpo ante la kulupu pali li alasa e sona sama lon sitelen mute pi nimi ala, lon nasin ante pi sitelen pona. sama la jan pali li toki e wile lon ni: ijo ni o lon ala lon lipu pi sitelen pona kulupu.
 
-tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewika (nasin Asuki)](https://tok.wikipedia.org/wiki/sitelen_Asuki) la nasin li wan ala. nasin ilo ante li sitelen kepeken e ijo sama kepeken sitelen ante pi nasin Asuki. pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: sitelen pona pi nasin Asuki o kepeken nasin wan seme. 
+tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewika (nasin Asuki)](https://tok.wikipedia.org/wiki/sitelen_Asuki) la nasin li wan ala. nasin ilo ante pi sitelen pona li sitelen e ijo sama kepeken sitelen ante pi nasin Asuki. pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: sitelen pona pi nasin Asuki o kepeken nasin wan seme. 
 {% endsl %}
 
 {% endsplit %}
