@@ -44,7 +44,7 @@ sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la o
 {% endsl %}
 {% endsplit %}
 
-<span>
+<span class="split">
 <table class="tiers" lang="en">
     <caption>Summarizing Tiers of Teachability<caption>
     <thead>
@@ -72,9 +72,7 @@ sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la o
             </tr>
         </tbody>
 </table>
-</span>
 
-<span>
 <table class="tiers sl" lang="tok">
     <caption>nanpa pi suli kepeken li seme?<caption>
     <thead>
@@ -102,10 +100,6 @@ sitelen pona kulupu li toki e ni: jan li wile kama sona pona e sitelen pona la o
             </tr>
         </tbody>
 </table>
-</span>
-
-
-<span>
 <table class="tiers sp" lang="tok" >
     <caption>nanpa pi suli kepeken li seme<caption>
     <thead>

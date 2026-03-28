@@ -21,7 +21,13 @@ breadcrumb:
         padding-left: 0.25em;
         padding-bottom: 0.5em;
         padding: 0.5em 1em;
-        min-height: 3rem;
+        min-height: 4rem;
+        display: flex;
+        align-items: center;
+        border: 0.005rem solid var(--pimeja);
+    }
+    .chapters li:not(:last-of-type){
+        border-bottom: none;
     }
     .chapters a{
         color: var(--pimeja);
@@ -42,22 +48,26 @@ breadcrumb:
 
     span:has(.tiers){
     margin: auto;
-    width: fit-content;
-    display: block;
 }
 .tiers :is(td, th){
     padding: .5rem 2rem .5rem .5rem;
     max-width: 30rem;
     vertical-align: top;
 }
+.tiers td:first-of-type{
+    white-space: nowrap;
+}
 thead {
     border-bottom: solid 2px var(--pimeja);
 }
 .tiers{
-    max-width: 50rem;
-    margin: 2em;
+    margin-block: 2em;
     text-align: left;
     border-collapse: collapse
+}
+.tiers[lang="en"]{
+    width: var(--en-split);
+    max-width: 100%;
 }
 tbody tr:nth-child(2n-1) {
     background-color: var(--kule-1);
@@ -76,13 +86,93 @@ h3, h4{
     font-family: monospace;
 }
 
+.next{
+    text-align: right;
+    margin: 2rem auto;
+    color: var(--pimeja);
+    font-variation-settings: "wdth" 75;
+    max-width: calc(var(--en-split) + var(--sp-split));
+    grid-column: -1 / 1;
+}
+.split:has(.chapters){
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.split:has(.chapters) :is(span[lang="tok"], span[lang="en"]){
+    max-width:20rem;
+}
+
+.next a{
+    display: block;
+}
+
+@media (min-width: 60rem) and (min-height: 60rem){
+
+    :is([data-selected-language="en"], [data-selected-language="tok"]) {
+        .split.split:has(.chapters){
+            position: fixed;
+            top: 12rem;
+            right: 0;
+            justify-items: right;
+            max-width: 20rem;
+        }
+
+    }
+    
+}
+@media (min-width: 60rem) and (max-width:105rem)and (max-height: 70rem){
+    footer p:has(span.ui-en){
+        grid-column: 2 !important;
+        
+    }
+}
+
+@media (min-width: 140rem) and (min-height: 60rem){
+    :is([data-selected-language="en"], [data-selected-language="tok"]) {
+    .split.split:has(.chapters){
+            left: 25rem;
+
+        }
+    }
+}
+@media (min-width: 30rem){
+    :is([data-selected-language="en"], [data-selected-language="tok"]) .split:has(.chapters){
+        justify-items: start;
+    }
+}
+
+
+
+
 </style>
 
 
 {{ content }}
+{% assign nextPost = collections.sorted_method | getNextCollectionItem: page %}
+
 
 
 {% split %}
+{% if nextPost %}
+    <div class="next" >
+            <p>
+                <span>
+                    {% include "partials/ui-translate.liquid",
+                        enName: "Next:",
+                        spName: "lipu kama li ni>zz",
+                        sLName: "lipu kama:" %}
+                </span>
+                        <a href="{{ nextPost.url}}">
+                {% include "partials/ui-translate.liquid",
+                    enName: nextPost.data.title,
+                    spName: nextPost.data.spTitle,
+                    sLName: nextPost.data.sLTitle %}
+                        </a>
+            </p>
+    </div>
+{% endif %}
 {% en %}<ul class="chapters">
 {% for item in collections.sorted_method %}
 {% if item.url != page.url %}
