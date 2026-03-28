@@ -1,11 +1,11 @@
 ---
-title: "Which non-word glyphs should be combined with existing Unicode equivelants?"
+title: "Which non-word glyphs should be combined with existing Unicode equivalents?"
 sLTitle: sitelen seme pi nimi ala li sama sitelen lon pi nasin Juniko
 spTitle: sitelen seme pi nimi ala <br> zz li sama sitelen lon pi nasin [jan uta ni:ko:]
 tags: method
 layout: '_layouts/method.html'
 index: 6
-description:  "Discussing the technical rationale for merging or separating codepoints required for punctuation in Common Sitelen Pona ."
+description:  "Discussing the technical rationale for merging or separating codepoints required for punctuation in Common Sitelen Pona."
 ---
 
 {% splith %}
