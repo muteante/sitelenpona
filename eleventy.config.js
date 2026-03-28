@@ -6,7 +6,7 @@ import YAML from "yaml";
 export default async function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/");
     eleventyConfig.addPassthroughCopy("scripts/");
-
+	eleventyConfig.addPassthroughCopy("content/common/");
     eleventyConfig.addPlugin(HtmlBasePlugin);
     eleventyConfig.amendLibrary("md", (md) => {
         md.use(markdownItAttrs);
