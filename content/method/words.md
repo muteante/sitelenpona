@@ -5,6 +5,7 @@ spTitle: nimi seme li suli kepeken lon sitelen pona
 tags: method
 layout: '_layouts/method.html'
 index: 2
+description:  "Learn how survey input, corpus input, and input from the 'Official Series' were used to draft Common Sitelen Pona. "
 ---
 
 <style>

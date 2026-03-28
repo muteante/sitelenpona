@@ -5,6 +5,8 @@ spTitle: mi mute pi kulupu pali li seme
 
 
 permalink: members.html
+description:  "Our members are software developers, community leaders, artists, publishers, typographers, and more."
+
 ---
 
 

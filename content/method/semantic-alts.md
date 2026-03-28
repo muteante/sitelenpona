@@ -5,8 +5,10 @@ spTitle: "nimi wan seme la sitelen tu ante li suli kepeken"
 tags: method
 layout: '_layouts/method.html'
 index: 4
----
 
+description: 
+    "View the process and conclusions from the SPPTA's exploration of differing semanticity between alt glyphs. " 
+---
 
 {% splith %}
 {% en %}Rationale{% enden %}

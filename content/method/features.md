@@ -5,6 +5,8 @@ spTitle: sitelen+nasin seme li suli kepeken lon sitelen pona
 tags: method
 layout: '_layouts/method.html'
 index: 5
+description: 
+    "View the process and conclusions from the SPPTA's exploration of punctuation features in Sitelen Pona. "
 ---
 
 {% splith %}

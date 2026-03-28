@@ -12,6 +12,17 @@
         href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wdth,wght@0,12,75..100,400..800;1,12,100,400..800&display=swap"
         rel="stylesheet">
     <title>{{ title }} | SPPTA </title>
+    {% if website %}
+    <meta property="og:type" content="website" />
+    {% else %}
+    <meta property="og:type" content="article" />
+    {% endif %}
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:url" content="https://sitelenpona.net{{page.url}}" />
+    <meta name="description" content="{{description}}(kepeken toki pona kin)">
+    <meta property="og:description" 
+  content="{{description}}. lipu li ken toki pona kin." />
+    <meta property="og:site_name" content="Sitelen Pona Publishers and Typographers Association" />
 </head>
 
 <body class="script-sp sp-and-en">

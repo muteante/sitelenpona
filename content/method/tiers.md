@@ -5,6 +5,7 @@ spTitle: sona pi suli kepeken
 tags: method
 layout: '_layouts/method.html'
 index: 1
+description:  "Tiers of Teachability provide a framework to understand exactly how common a glyph present in Common Sitelen Pona is."
 ---
 
 <style>

@@ -5,6 +5,8 @@ spTitle: sitelen mute li tawa nimi wan la<br>zz sitelen ni seme li suli kepeken 
 tags: method
 layout: '_layouts/method.html'
 index: 3
+description: 
+    "Insights into representative glyph variations, as voted on by invited fontmakers and as observed in samples of Sitelen Pona handwriting. " 
 ---
 
 

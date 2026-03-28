@@ -3,6 +3,7 @@ title: "Public Draft: Common Sitelen Pona"
 sLTitle: lipu pi sitelen pona kulupu (li pini ala)
 spTitle: lipu+ni pi sitelen pona kulupu li pini ala
 permalink: common.html
+description:  "A standard that outlines universal and representative features of Toki Pona's logographic writing system, Sitelen Pona." 
 ---
 <style>
 

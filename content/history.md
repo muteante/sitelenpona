@@ -9,6 +9,8 @@ breadcrumb:
     sLName: sitelen pona kulupu 
     spName: sitelen pona kulupu
     link: /common/
+
+description:  "A history covering the effort to get the Sitelen Pona into Unicode, the formation of the SPPTA, and a timeline of our labour. "
 ---
 
 <style>
@@ -186,7 +188,7 @@ Usage data for Sitelen Pona glyphs and variations was pursued in three ways. At 
 
 In addition to data collection, seeing that many glyphs for neologisms were not explicitly released into the public domain, the working group contacted the authors of these glyphs to confirm [CC0 licensing](https://creativecommons.org/public-domain/cc0/).
 
-After much groundwork had been laid, the group was ready to draft Common Sitelen Pona. In October, Mrs. Lang developed and proposed a [formal methodology for defining Common Sitelen Pona](/method.html). It would assign Sitelen Pona glyphs and features to three tiers of teachworthiness by examining existing and new data sources, uniting the work that had been done up to this point and defining a clear deliverable.
+After much groundwork had been laid, the group was ready to draft Common Sitelen Pona. In October, Mrs. Lang developed and proposed a [formal methodology for defining Common Sitelen Pona](/method.html). It would assign Sitelen Pona glyphs and features to three tiers of teachability by examining existing and new data sources, uniting the work that had been done up to this point and defining a clear deliverable.
 {% enden %}
 
 {% sp %}

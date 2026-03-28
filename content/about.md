@@ -3,13 +3,14 @@ title: About Us
 sLTitle: mi kulupu pali pi sitelen pona
 spTitle: mi kulupu pali pi sitelen pona
 permalink: index.html
+description: 
+    "The SPPTA is a multidisciplinary team of  Sitelen Pona experts who have registered in Canada as a not-for-profit corporation." 
 ---
 
 {% splith %}
     {% en %}Who We Are{% enden %}
     {% sp %}kulupu ni li seme{% endsp %}
     {% sl %}kulupu ni li seme?{% endsl %}
-
 {% endsplith %}
 
 {% split %}

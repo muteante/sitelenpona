@@ -6,6 +6,9 @@ permalink: method.html
 layout: '_layouts/method.html'
 tags: method
 index: 0.5
+
+description: 
+    "This is how the SPPTA is uncovering universal and representative features of Sitelen Pona. " 
 ---
 
 {% split %}
