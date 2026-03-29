@@ -1,7 +1,7 @@
 ---
 title: "Public Draft: Common Sitelen Pona"
 sLTitle: lipu pi sitelen pona kulupu (li pini ala)
-spTitle: lipu+ni pi sitelen pona kulupu li pini ala
+spTitle: te sitelen pona kulupu to li lipu pi pini ala
 permalink: common.html
 description:  "A standard that outlines universal and representative features of Toki Pona's logographic writing system, Sitelen Pona." 
 ---
@@ -146,16 +146,16 @@ h2{
     grid-template-columns: 1fr 1fr;
     margin-top: 2rem
 }
-.foreword div {
+.foreword .fw-section {
     margin: 1em 0;
     padding: 0 2em;
     max-width: 30rem
 }
 
-.foreword div:first-child{
+.foreword .fw-section:first-child{
     margin-left: auto
 }
-.foreword div:last-child{
+.foreword .fw-section:last-child{
     margin-right: auto
 }
 
@@ -165,8 +165,49 @@ h2{
     max-width: 30rem;
 }
 
+.card {
+    position: relative;
+    border-radius: 0.5rem;
+    border: 2px solid var(--pimeja);
+    padding: .5rem .75rem .75rem;
+    margin-block: 1rem;
+    background-color: var(--kule-1);
+    min-height: 9rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card.forthcoming {
+    background-color: var(--walo-pimeja);
+}
+.card:not(.forthcoming):is(:hover, :focus-visible){
+    background-color: var(--kule-3);
+}
 
+.card a::after{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+}
+.card p {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    text-align: center;
 
+}
+.card a {
+    color: inherit;
+}
+.card h3{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
 .tech{
     font-size: 0.5em;
     line-height: 1;
@@ -180,6 +221,14 @@ h2{
     align-items: center;
     justify-content: center;
 
+}
+.caveat p{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+h2.view{
+    margin-block-start: 2em;
 }
 
 @media (max-width: 1561px) {
@@ -220,12 +269,6 @@ h2{
         display: flex;
         flex-direction: column;
     }
-    .foreword {
-        grid-template-columns: 1fr;
-    }
-    .foreword div{
-        margin: 1em auto
-    }
 }
 
 @media (max-width: 930px) {
@@ -254,6 +297,30 @@ h2{
     .example {
         display: grid;
     }
+    .foreword .card{
+        min-height: 15rem;
+    }
+    .fw-section h2 {
+        padding-block: 0;
+        margin-block-start: -2rem;
+        min-height: 3em;
+        display: grid;
+        align-items: end;
+    }
+
+}
+@media (max-width: 530px) {
+    .foreword{
+        grid-template-columns: 1fr;
+    }
+    .foreword .card{
+        min-height: 0;
+    }
+    .fw-section h2{
+        margin-block-start: 0;
+        display: block;
+        min-height: 0;
+    }
 }
 
 @media (max-width: 430px) {
@@ -270,83 +337,194 @@ h2{
 {% split %}
 {% en %}
 This is a public draft of Common Sitelen Pona, released on January 2026 and presented as per our resolutions. 
+
+**Common Sitelen Pona** is a standard that outlines universal basic features and characteristics of Sitelen Pona.
+
+It is derived from described features and characteristcs of Sitelen Pona that have seen stable adoption and use within the Toki Pona community.
+
 {% enden %}
 
 {% sp %}
 lipu+ni pi pini ala li toki e sitelen pona kulupu  
-lon tenpo mun nanpa wan pi sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
+tenpo mun nanpa wan pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
+
+te **sitelen pona kulupu** to li nimi pi(lipu nasin)  
+lipu li toki e ni> zz sitelen pona li nasin seme
+
+lipu li toki ala e nasin musi namako sin pi jan mute ala  
+te sitelen pona kulupu to li wile e nasin ni taso  
+zz zz kulupu pi(toki+pona) la nasin li suli li awen li kepeken
 {% endsp %}
+
+{% sl %}
+lipu ni pi pini ala li toki e sitelen pona kulupu. tenpo mun #W pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
+
+**sitelen pona kulupu** li nimi pi lipu nasin. lipu li toki e ni: sitelen pona li nasin seme.
+
+lipu li toki ala e nasin musi namako sin pi jan mute ala. lipu pi sitelen pona kulupu li wile e nasin ni taso: kulupu pi toki pona la ona li suli li awen li kepeken.
+{% endsl %}
+
 {% endsplit %}
 
 {% assign tier = tier_1 %}
 
 
 
-<div class="foreword">
+<div class="foreword ui-en">
+<div class="fw-section">
 
-<div>
+## About
 
-## Description
+<div class="card">
 
-Common Sitelen Pona is a standard that outlines universal basic features and characteristics of Sitelen Pona.
+### [History](/history.html)
+A history covering the effort to get the Sitelen Pona into Unicode, the formation of the SPPTA, and a timeline of our work.
 
-It is derived from described features and characteristcs of Sitelen Pona that have seen stable adoption and use within the Toki Pona community.
-
-Common Sitelen Pona was prepared algorithmically, with separate processes used to answer the following four questions:
-
-- Which **words** are commonly used in Sitelen Pona?
-- Which **non-word characters** are commonly used in Sitelen Pona?
--  Which **non-word glyphs** commonly rely on uniquely Sitelen Pona codepoints?
-- Which **versions of glyphs are representative** of those commonly used in Sitelen Pona?
-
-[Learn more about how Common Sitelen Pona was prepared.](/method.html)
 </div>
-<div>
+<div class="card">
+
+### [Methodology](/method.html)
+This is how the SPPTA is uncovering universal and representative features of Sitelen Pona.
+
+</div>
+</div>
+<div class="fw-section">
 
 ## Accompanying Instruments
 
-### UCSUR
-
-As Common Sitelen Pona has not yet been accepted into Unicode, codepoints for Common Sitelen Pona are currently restricted to the Private Use Area. These assignments are coordinated within the [Under-ConScript Unicode Registry](https://www.kreativekorp.com/ucsur/).
-
-See [Sitelen Pona: U+F1900 - U+F19FF](https://www.kreativekorp.com/ucsur/charts/sitelen.html).
-
+<div class="card">
+    
+### [Sitelen Pona in UCSUR](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
+    
+As Common Sitelen Pona has not yet been accepted into Unicode, codepoints for Common Sitelen Pona are currently restricted to the Private Use Area. These assignments are coordinated within the Under-ConScript Unicode Registry.
+    
+</div>
+<div class="card forthcoming">
 
 ### ASCII Input Standard
 
-Forthcoming
+Publication coming soon...
+</div>
+</div>
+</div>
+</div>
+<div class="foreword ui-sp ui-tok">
+<div class="fw-section">
+
+## o sona e lipu+ni
+
+<div class="card">
+
+### [tenpo pini](/history.html)
+tenpo suli la kulupu li wile e ni> zz  sitelen+pona li lon nasin [jan uta ni: ko:]. lipu+ni li toki e pali ale pi(tenpo pini) li toki e ni> zz seme la kulupu pali pi(sitelen pona) li kama lon
+
+</div>
+<div class="card">
+
+### [nasin alasa](/method.html)
+kulupu pali pi sitelen+pona li kama sona e sitelen+pona kulupu kepeken nasin ni^ pi(alasa sona). 
+
+</div>
+</div>
+<div class="fw-section">
+
+## o sona e lipu+namako
+
+<div class="card">
+    
+### [sitelen+pona <br>pi nasin [jaki uta sitelen.sama.]](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
+
+sitelen+pona kulupu la kulupu [jan uta ni:ko:] li awen kama ala lawa e nanpa pi sitelen ilo. ni< la kulupu [jaki uta sitelen.sama.] lawa pi(pali ni) li pana e nanpa ilo pi(sitelen+pona kulupu) tawa nanpa ni> pi kulupu [jan uta ni:ko:]zz kulupu lili li pali e nasin namako pi(lawa wawa ala) kepeken ona. 
+
+</div>
+<div class="card forthcoming">
+
+### sitelen+pona <br>pi nasin [akesi su:kili.] 
+
+lipu+ni^ li kama zz o zz awen zz lili zz taso
+</div>
+</div>
+</div>
 </div>
 
+<div class="foreword ui-sl ui-tok">
+<div class="fw-section">
+
+## sona pi lipu ni
+
+<div class="card">
+
+### [tenpo pini](/history.html)
+tenpo suli la kulupu li wile e ni: sitelen pona li lon nasin Juniko. lipu ni li toki e pali ale pi tenpo pini li toki e ni: seme la kulupu pali mi li kama lon. 
+
+</div>
+<div class="card">
+
+### [nasin alasa](/method.html)
+kulupu pali pi sitelen pona li  kama sona e sitelen pona kulupu kepeken nasin ni pi alasa sona. 
+
+</div>
+</div>
+<div class="fw-section">
+
+## lipu sona namako
+
+<div class="card">
+    
+### [sitelen pona pi nasin Jusisa](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
+
+sitelen pona kulupu la kulupu Juniko li awen kama ala lawa e nanpa pi sitelen ilo. ni la kulupu Jusisa lawa pi pali ni li pana e nanpa ilo pi sitelen pona kulupu tawa nanpa ni pi kulupu Juniko: kulupu lili li pali e nasin pi lawa wawa ala kepeken ona. 
+
+</div>
+<div class="card forthcoming">
+
+### sitelen pona pi nasin Asuki 
+
+lipu ni li kama lon tenpo poka...
+</div>
+</div>
+</div>
 </div>
 
 
 
 
+<h2 class="view">{% include "partials/ui-translate.liquid", 
+            enName: "A View of Common Sitelen Pona", 
+            spName: "o lukin e te sitelen pona kulupu to", 
+            sLName: "o lukin e sitelen pona kulupu" %}
+</h2>
+
+<div class="caveat">
+
+{% include "partials/ui-translate.liquid", 
+            enName: "Representative glyphs are provided **as examples only**.<br>  
+                            Ultimately, font designers may choose to design glyphs that vary in appearance.", 
+            spName: "lipu+ni li pana e sitelen tawa nimi la ni< li selo wan lon lipu **a li selo lawa ala a.** jan pali pi(nasin sitelen ilo) o awen kama selo e sitelen kepeken nasin pi(wile ona).", 
+            sLName: "lipu ni li pana e sitelen tawa nimi la ni li selo wan lon lipu. **ni li selo lawa ala.** jan pali pi nasin sitelen ilo o awen kama selo e sitelen kepeken nasin pi wile ona." %}
+
 
 </div>
 
-## A View of Common Sitelen Pona
 <div class="long">
 
 <div class="word-grid-container">
 
 <a id="wordglyphs"></a>
 
-{% include "partials/words.liquid",  index: "1", words: tier_1["words"] %}
+{% include "partials/words.liquid",  index: "1", indexsp: "wan", indexsl: "W",words: tier_1["words"] %}
 
+{% include "partials/words.liquid",  index: "2", indexsp: "tu", indexsl: "T",words: tier_2["words"] %}
 
-{% include "partials/words.liquid",  index: "2", words: tier_2["words"] %}
-
-
-{% include "partials/words.liquid",  index: "3", words: tier_3["words"] %}
+{% include "partials/words.liquid",  index: "3", indexsp: "tu wan", indexsl: "TW",words: tier_3["words"] %}
 
 </div>
 
 <div class="punctuation">
 
-{% include "partials/punctuation.liquid",  number: "1", tier: tier_1 %}
-{% include "partials/punctuation.liquid",  number: "2", tier: tier_2 %}
-{% include "partials/punctuation.liquid",  number: "3", tier: tier_3 %}
+{% include "partials/punctuation.liquid",  number: "1", indexsp: "wan", indexsl: "W", tier: tier_1 %}
+{% include "partials/punctuation.liquid",  number: "2", indexsp: "tu", indexsl: "T", tier: tier_2 %}
+{% include "partials/punctuation.liquid",  number: "3", indexsp: "tu wan", indexsl: "TW", tier: tier_3 %}
 
 <p class="asterisk">* These glyphs are already represented by public-use Unicode codepoints and do not require new assignments.<p>
 </div>

@@ -1,4 +1,13 @@
-<h3 id="tier{{index}}words">Tier {{index}} Word Glyphs</h3>
+<h3 id="tier{{index}}words">
+{%- assign en = "Tier " | append: index | append: " Word Glyphs" -%}
+        {%- assign sp = "sitelen nimi pi(suli nanpa" | append: indexsp | append: ")"-%}
+        {%- assign sL = "sitelen nimi pi suli #" | append: indexsl  -%}
+
+        {% include "partials/ui-translate.liquid", 
+            enName: en,
+            spName: sp, 
+            sLName: sL %}
+</h3>
 <div class="word-grid">
     {%- for entry in words  -%}
                 <span class="cell">

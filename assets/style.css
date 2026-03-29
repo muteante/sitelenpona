@@ -16,6 +16,7 @@ body {
     --sp-split: 20rem;
     --en-split: 25rem;
     --pimeja: black;
+    --walo-pimeja: rgb(201, 201, 201);
     --walo: white;
     background-color: var(--walo, white);
     color: var(--pimeja, black);

@@ -742,20 +742,19 @@
   ],
   "punctuation": [
    {
-    "name": "between words or tokens (zero-width)",
-    "input": "",
-    "technical_name": "ZERO WIDTH SPACE",
-    "codepoint": "0020",
-    "explain": "Fontmakers rely on this invisible glyph to separate units from each other",
-    "example-before": "mi 'zero-width-space' pona",
-    "example-after": "mi pona",
-    "no-codepoint": "true"
-   },
-   {
     "name": [
       "start of cartouche",
       "end of cartouche"
     ],
+    "spname": [
+      "open pi(poki nimi)",
+      "pini pi(poki nimi)"
+    ],
+    "slname": [
+      "open pi poki nimi",
+      "pini pi poki nimi"
+    ],
+
     "input": [
       "[",
       "]"
@@ -775,6 +774,9 @@
    },
    {
     "name": "combined glyph, decided by font <br>(zero-width joiner)",
+    "slname": "wan pi sitelen tu, nasin pi kama wan li suli ala.",
+    "spname": "wan pi sitelen tu la nasin pi kama wan li suli ala.",
+
     "input": "luka&luka",
     "technical_name": "ZERO WIDTH JOINER",
     "codepoint": "200D",
@@ -785,6 +787,9 @@
    },
    {
     "name": "combined glyph, written above <br>(stacking joiner)",
+    "slname": "wan pi sitelen tu la sitelen nanpa wan li lon anpa pi sitelen nanpa tu",
+    "spname": "wan pi sitelen tu la sitelen nanpa wan li lon anpa pi sitelen nanpa tu",
+
     "input": "luka-luka",
     "technical_name": "SITELEN PONA STACKING JOINER",
     "codepoint": "F1995",
@@ -794,6 +799,8 @@
    },
    {
     "name": "combined glyph, written inside <br>(nesting joiner)",
+    "slname": "wan pi sitelen tu la sitelen nanpa tu li lon insa pi sitelen nanpa wan",
+    "spname": "wan pi sitelen tu la sitelen nanpa tu li lon insa pi sitelen nanpa wan",
     "input": "luka+luka",
     "technical_name": "SITELEN PONA NESTING JOINER",
     "codepoint": "F1996",
@@ -803,6 +810,8 @@
    },
    {
     "name": "ideographic space",
+    "slname": "weka sitelen suli",
+    "spname": "weka sitelen suli",
     "input": "|",
     "technical_name": "IDEOGRAPHIC SPACE",
     "codepoint": "3000",
@@ -870,6 +879,14 @@
       "start of long glyph",
       "end of long glyph"
     ],
+        "slname": [
+      "open pi poki sitelen",
+      "pini pi poki sitelen"
+    ],
+        "spname": [
+      "open pi(poki sitelen)",
+      "pini pi(poki sitelen)"
+    ],
     "input": [
       "zz",
       "zz"
@@ -883,14 +900,22 @@
       "F1998"
     ],
     "explain": "When used after a glyph that a fontmaker supports as extendable, this pair of glyphs go on either side of the glyphs that the extension should go around.",
-    "example-before": "kili pi 'long-start' nena 'zw-joiner' mute 'long-end' li lon 'long-start' tomo 'long-end'",
-    "example-after": "kili pi(nena&mute) li lon(tomo)",
+    "example-before": "kili jelo pi 'long-start' nena selo nasa mute laso 'long-end'",
+    "example-after": "kili pi(nena selo nasa mute laso)",
     "pair": "true"
    },
    {
     "name": [
       "left corner bracket",
       "right corner bracket"
+    ],
+        "slname": [
+      "open pi poki toki",
+      "pini pi poki toki"
+    ],
+        "spname": [
+      "open pi(poki toki)",
+      "pini pi(poki toki)"
     ],
     "input": [
       "te",
@@ -912,6 +937,9 @@
    },
    {
     "name": "middle dot",
+    "slname": "sike lili insa",
+    "spname": "sike lili insa",
+
     "input": ".",
     "technical_name": "SITELEN PONA MIDDLE DOT",
     "codepoint": "F199C",
@@ -921,12 +949,15 @@
    },
    {
     "name": "semicolon",
+    "slname": "sike lili tu",
+    "spname": "sike lili tu",
+
     "input": ":",
     "technical_name": "SITELEN PONA COLON",
     "codepoint": "F199D",
     "explain": "In a cartouche, this glyph can refer to two morae in nasin sitelen kalama. ",
     "example-before": "ma 'cartouche-start' a meli 'semicolon' 'middledot' kala 'middledot' 'cartouch-end' seli",
-    "example-after": "ma [a meli:.kala.] seli"
+    "example-after": "ma [a meli: kala.] seli"
    }
   ]
  },
@@ -1012,6 +1043,9 @@
   "punctuation": [
    {
     "name": "combining tally mark",
+    "slname": "linja anpa pi poki nimi",
+    "spname": "linja anpa pi(poki nimi)",
+
     "input": ",",
     "technical_name": "SITELEN PONA COMBINING TALLY MARK",
     "codepoint": "F199E",

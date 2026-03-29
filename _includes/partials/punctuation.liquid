@@ -1,17 +1,56 @@
-<h3 id="tier{{index}}punctuation">Tier {{ number }} Punctuation Glyphs</h3>
+<h3 id="tier{{index}}punctuation">
+                
+        {%- assign en = "Tier " | append: number | append: " Non-Word Glyphs" -%}
+        {%- assign sp = "sitelen nasin pi(suli nanpa" | append: indexsp | append: ")"-%}
+        {%- assign sL = "sitelen nasin pi suli #" | append: indexsl  -%}
+
+        {% include "partials/ui-translate.liquid", 
+            enName: en,
+            spName: sp, 
+            sLName: sL %}
+
+</h3>
 <ul class="punctuation">
         {%- for entry in tier["punctuation"] -%}
         <li  class="{%- if entry.no-codepoint == 'true' -%} no-codepoint {%- endif -%}">
             {%- if entry.pair != "true" -%}
             <span class="word-glyph {%- if entry.invisible == 'true' -%} invisible {%- endif -%}">{{ entry.input }}</span>
             <span class="word-name">
-                <span>{{ entry.name }}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
+                <span>
+        {% include "partials/ui-translate.liquid", 
+            enName: entry.name,
+            spName: entry.spname, 
+            sLName: entry.slname %}
+                                                {%- assign v = entry.name | log %}
+            {%- assign v = entry.slname | log %}
+                        {%- assign v = "----" | log %}
+
+
+{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
             {%- else -%}
             <span class="word-glyph">{{ entry.input[0] }}</span>
             <span class="word-glyph pair">{{ entry.input[1] }}</span>
             <span class="word-name">
-                <span>{{ entry.name[0] }}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>,
-                <span>{{ entry.name[1] }}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
+                <span>
+                {% include "partials/ui-translate.liquid", 
+            enName: entry.name[0],
+            spName: entry.spname[0], 
+            sLName: entry.slname[0] %}
+                        {%- assign v = entry.name[0] | log %}
+            {%- assign v = entry.slname[0] | log %}
+                                    {%- assign v = "----" | log %}
+
+                                    {%- assign v = entry.name[1] | log %}
+            {%- assign v = entry.slname[1] | log %}
+                                    {%- assign v = "----" | log %}
+
+
+
+                {%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>,
+                <span>{% include "partials/ui-translate.liquid", 
+            enName: entry.name[1],
+            spName: entry.spname[1], 
+            sLName: entry.slname[1] %}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
             {%- endif -%}
                 {%- if entry.explain -%}
                 <div class="explain">{{ entry.explain }}</div>

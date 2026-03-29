@@ -10,7 +10,7 @@ breadcrumb:
     spName: sitelen pona kulupu
     link: /common/
 
-description:  "A history covering the effort to get the Sitelen Pona into Unicode, the formation of the SPPTA, and a timeline of our labour. "
+description:  "A history covering the effort to get the Sitelen Pona into Unicode, the formation of the SPPTA, and a timeline of our work. "
 ---
 
 <style>
