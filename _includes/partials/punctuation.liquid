@@ -20,40 +20,29 @@
         {% include "partials/ui-translate.liquid", 
             enName: entry.name,
             spName: entry.spname, 
-            sLName: entry.slname %}
-                                                {%- assign v = entry.name | log %}
-            {%- assign v = entry.slname | log %}
-                        {%- assign v = "----" | log %}
-
-
-{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
+            sLName: entry.slname %}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
             {%- else -%}
             <span class="word-glyph">{{ entry.input[0] }}</span>
             <span class="word-glyph pair">{{ entry.input[1] }}</span>
             <span class="word-name">
-                <span>
-                {% include "partials/ui-translate.liquid", 
+                <span>{%- include "partials/ui-translate.liquid", 
             enName: entry.name[0],
             spName: entry.spname[0], 
-            sLName: entry.slname[0] %}
-                        {%- assign v = entry.name[0] | log %}
-            {%- assign v = entry.slname[0] | log %}
-                                    {%- assign v = "----" | log %}
-
-                                    {%- assign v = entry.name[1] | log %}
-            {%- assign v = entry.slname[1] | log %}
-                                    {%- assign v = "----" | log %}
-
-
-
-                {%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>,
-                <span>{% include "partials/ui-translate.liquid", 
+            sLName: entry.slname[0] -%}</span>{%- include "partials/ui-translate.liquid", 
+            enName: ",",
+            spName: "zz ", 
+            sLName: ","-%}<span>{%- include "partials/ui-translate.liquid", 
             enName: entry.name[1],
             spName: entry.spname[1], 
-            sLName: entry.slname[1] %}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
+            sLName: entry.slname[1] -%}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
             {%- endif -%}
                 {%- if entry.explain -%}
-                <div class="explain">{{ entry.explain }}</div>
+                <div class="explain">
+                {% include "partials/ui-translate.liquid", 
+            enName: entry.explain,
+            spName: entry.explainsp, 
+            sLName: entry.explainsl %}
+                </div>
                 <div class="example">
                 <span>Before:</span> 
                 <code>{{ entry.example-before }}</code>

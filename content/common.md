@@ -103,7 +103,9 @@ description:  "A standard that outlines universal and representative features of
 .explain {
     font-size: 0.8em;
     font-style: italic;
-
+}
+.explain .ui-sp{
+    font-style: normal;
 }
 
 .after {
