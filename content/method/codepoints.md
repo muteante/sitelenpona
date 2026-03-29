@@ -1,7 +1,7 @@
 ---
-title: "Which non-word glyphs should be combined with existing Unicode equivalents?"
-sLTitle: sitelen seme pi nimi ala li sama sitelen lon pi nasin Juniko
-spTitle: sitelen seme pi nimi ala <br> zz li sama sitelen lon pi nasin [jan uta ni:ko:]
+title: "Which punctuation characters would use novel codepoints?"
+sLTitle: sitelen nasin seme li sama sitelen lon pi nasin Juniko
+spTitle: sitelen+nasin seme li sama sitelen lon pi nasin [jan]
 tags: method
 layout: '_layouts/method.html'
 index: 6

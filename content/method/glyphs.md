@@ -1,7 +1,7 @@
 ---
 title: "Which versions of glyphs are representative of those commonly used in Sitelen Pona? "
 sLTitle: sitelen mute li tawa nimi wan la sitelen ni seme li suli kepeken 
-spTitle: sitelen mute li tawa nimi wan la<br>zz sitelen ni seme li suli kepeken lon sitelen pona
+spTitle: sitelen mute li tawa nimi wan la sitelen ni seme li suli kepeken 
 tags: method
 layout: '_layouts/method.html'
 index: 3

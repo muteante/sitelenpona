@@ -1,7 +1,7 @@
 ---
-title: "Which non-word glyphs are commonly used in Sitelen Pona?"
+title: "Which punctuation features are commonly used in Sitelen Pona?"
 sLTitle: sitelen nasin seme li suli kepeken 
-spTitle: sitelen+nasin seme li suli kepeken lon sitelen pona
+spTitle: sitelen+nasin seme li suli kepeken
 tags: method
 layout: '_layouts/method.html'
 index: 5

@@ -1,7 +1,7 @@
 ---
 title: "Which words are commonly used in Sitelen Pona?"
-sLTitle: nimi seme li suli kepeken lon sitelen pona
-spTitle: nimi seme li suli kepeken lon sitelen pona
+sLTitle: nimi seme li suli kepeken 
+spTitle: nimi seme li suli kepeken 
 tags: method
 layout: '_layouts/method.html'
 index: 2
