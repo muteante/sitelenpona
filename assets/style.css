@@ -25,17 +25,16 @@ body {
 }
 @media (prefers-color-scheme: dark){
     body{
-    --kule-1: #a64300;
-    --kule-3: #cb5300;
-    --kule-5: #ff7000;
-    --kule-7: #ffb17e;
-    --kule-8: #ffe3d2;
+    --kule-1: #772e00;
+    --kule-3: #c65100;
+    --kule-5: #ff6e00;
+    --kule-7: #ffac74;
+    --kule-8: #ffc5a0;
     --lupa: #7cdff5;
     --lupa-pimeja: #000099;
-    --sp-split: 20rem;
-    --en-split: 25rem;
-    --pimeja: rgb(221, 217, 217);
-    --walo: rgb(52, 51, 51);
+    --pimeja: #101010;
+    background-color: var(--pimeja, black);
+    color: var(--walo, white);
     }
 
 
