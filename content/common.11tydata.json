@@ -772,6 +772,8 @@
     "explainsp": "nimi kalama li ni> zz ona li sama kute tawa nimi pi(toki ante) li nimi pi(toki+pona ala). sitelen open en sitelen pini li selo e poki.",
 
     "example-before": "jan 'cartouche start' anpa mama awen 'cartouche end'",
+    "example-beforetok": "jan 'nimi-open' anpa mama awen 'nimi-pini'",
+
     "example-after": "jan [anpa mama awen]",
     "pair": "true"
    },
@@ -787,6 +789,8 @@
     "explainsp": "sitelen+ni kon la jan pali pi(nasin sitelen ilo) li wan e sitelen tu kepeken nasin pi(wile ona). wile pi(jan pali) la sitelen tu li ken wan anpa sewi li ken wan selo insa li ken wan musi.",
 
     "example-before": "soweli 'zw-joiner' suwi li kalama 'zw-joiner' jaki",
+    "example-beforetok": "soweli 'wan-pona' suwi li kalama 'wan-pona' jaki",
+
     "example-after": "soweli&suwi li kalama&jaki",
     "no-codepoint": "true"
    },
@@ -804,6 +808,7 @@
 
 
     "example-before": "soweli 'stack-joiner' suwi li kalama 'stack-joiner' jaki",
+    "example-beforetok": "soweli 'wan-sewi' suwi li kalama 'wan-sewi' jaki",
     "example-after": "soweli-suwi li kalama-jaki"
    },
    {
@@ -818,6 +823,8 @@
     "explainsp": "sitelen+ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa insa pi(sitelen nanpa wan).",
 
     "example-before": "soweli 'nesting-joiner' suwi li kalama 'nesting-joiner' jaki",
+    "example-beforetok": "soweli 'wan-insa' suwi li kalama 'wan-insa' jaki",
+
     "example-after": "soweli+suwi li kalama+jaki"
    },
    {
@@ -833,6 +840,7 @@
 
 
     "example-before": "mi toki 'ideographic space' sina toki ala",
+    "example-beforetok": "mi toki 'weka-sitelen' sina toki ala",
     "example-after": "mi toki zz sina toki ala",
     "no-codepoint": "true"
    }
@@ -920,6 +928,8 @@
     "explainsp": "suli la sitelen+ni tu li lon nasin pi nimi te pi to. zz linja li ken kama lon anpa pi(nimi mute) li ken pana lukin e sona ni> zz poki pi nimi te pi to li open lon seme li pini lon seme.",
 
     "example-before": "kili jelo pi 'long-start' nena selo nasa mute laso 'long-end'",
+    "example-beforetok": "kili jelo pi 'linja-open' nena selo nasa mute laso 'linja-pini'",
+
     "example-after": "kili pi(nena selo nasa mute laso)",
     "pair": "true"
    },
@@ -953,6 +963,8 @@
     "explainsp": "sitelen+ni tu li lon toki pi(nasin tu) ni> <br> zz nimi ijo la lipu te jan [o suli uta] pi(wawa nasa) to li musi. <br> zz toki jan la te mi pakala a to. te o pilin ike ala to.",
 
     "example-before": "ona li toki 'left-bracket' sina pona 'right-bracket",
+    "example-beforetok": "ona li toki 'te-open' sina pona 'to-pini'",
+
     "example-after": "ona li toki te sina pona to",
     "pair": "true",
     "no-codepoint": "true"
@@ -971,6 +983,8 @@
     "explainsp": "sitelen pi(sike lili insa) li ken toki e ni> zz pini pi(linja toki) li lon seme. poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama namako wan kepeken sitelen pi(sike lili).",
 
     "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middledot'",
+    "example-beforetok": "a 'sike-insa' nasin pi ma 'nimi-open' poka 'sike-insa' 'nimi-pini' li wawa 'sike-insa'",
+
     "example-after": "a. nasin pi ma[poka.] li wawa."
    },
    {
@@ -985,6 +999,8 @@
     "explainsp": "poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi(nimi wan) kepeken sitelen pi(sike lili tu).",
 
     "example-before": "ma 'cartouche-start' a meli 'semicolon' 'middledot' kala 'middledot' 'cartouch-end' seli",
+    "example-beforetok": "ma 'nimi-open' a meli 'sike-tu' 'sike-insa' kala 'sike-insa' 'nimi-pini' seli",
+
     "example-after": "ma [a meli: kala.] seli"
    }
   ]
@@ -1083,6 +1099,8 @@
 
 
     "example-before": "ma 'cartouche-start' a meli 'tally' 'tally' 'tally' kala 'tally' 'cartouch-end' seli",
+    "example-beforetok": "ma 'nimi-open' a meli 'linja' 'linja' 'linja' kala 'linja' 'nimi-pini' seli",
+
     "example-after": "ma [a meli,,,kala,] seli"
    }
   ]

@@ -44,9 +44,15 @@
             sLName: entry.explainsl %}
                 </div>
                 <div class="example">
-                <span>Before:</span> 
-                <code>{{ entry.example-before }}</code>
-                <span>After: </span>
+                <span>{%- include "partials/ui-translate.liquid", 
+            enName: "Before:",
+            spName: "open la", 
+            sLName: "open:" -%}</span> 
+                <code><span class="before"><span class="ui-en">{{ entry.example-before}}</span><span class="ui-tok">{{ entry.example-beforetok}}</span></span></code>
+                <span>{%- include "partials/ui-translate.liquid", 
+            enName: "After:",
+            spName: "pini la", 
+            sLName: "pini:" -%}</span>
                 <span class="after">{{ entry.example-after}}</span>
                 </div>
 
