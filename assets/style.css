@@ -142,7 +142,7 @@ a {
 }
 
 
-main img {
+main :is(img, svg) {
     width: 100%;
     max-width: calc(42rem + 7vw);
     margin: 1rem auto 4rem;
