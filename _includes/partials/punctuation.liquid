@@ -17,10 +17,10 @@
             <span class="word-glyph {%- if entry.invisible == 'true' -%} invisible {%- endif -%}">{{ entry.input }}</span>
             <span class="word-name">
                 <span>
-        {% include "partials/ui-translate.liquid", 
+        {%- include "partials/ui-translate.liquid", 
             enName: entry.name,
             spName: entry.spname, 
-            sLName: entry.slname %}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
+            sLName: entry.slname -%}{%- if entry.no-codepoint == 'true' -%}*{%- endif -%}</span>
             {%- else -%}
             <span class="word-glyph">{{ entry.input[0] }}</span>
             <span class="word-glyph pair">{{ entry.input[1] }}</span>
