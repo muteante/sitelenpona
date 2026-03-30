@@ -525,7 +525,11 @@ lipu ni li kama lon tenpo poka...
 {% include "partials/punctuation.liquid",  number: "2", indexsp: "tu", indexsl: "T", tier: tier_2 %}
 {% include "partials/punctuation.liquid",  number: "3", indexsp: "tu wan", indexsl: "TW", tier: tier_3 %}
 
-<p class="asterisk">* These glyphs are already represented by public-use Unicode codepoints and do not require new assignments.<p>
+<p class="asterisk">* {%- include "partials/ui-translate.liquid", 
+            enName: "These characters are already served by public-use Unicode codepoints and do not require new assignments.", 
+            spName: "nanpa pi(sitelen ilo) la sitelen+nasin ni li wile ala e sitelen sin namako pi(sitelen+pona taso) <br>li ken kepeken sitelen lon pi nasin [jan uta ni: ko:]."
+            sLName: "nasin Juniko la sitelen nasin ni li wile ala e sitelen sin namako pi sitelen pona taso li ken kepeken sitelen lon pi nasin Juniko." -%}
+<p>
 </div>
 
 
@@ -537,7 +541,3 @@ lipu ni li kama lon tenpo poka...
 
 
 
-
-## Download Raw Files
-<div class="foreword">
-</div>
