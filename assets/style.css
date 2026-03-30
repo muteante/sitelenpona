@@ -18,6 +18,8 @@ body {
     --pimeja: black;
     --walo-pimeja: rgb(201, 201, 201);
     --walo: white;
+    --suno-mun: var(--kule-8);
+
     background-color: var(--walo, white);
     color: var(--pimeja, black);
     font-family: 'Nunito Sans', sans-serif;
@@ -34,6 +36,8 @@ body {
     --walo-pimeja: #404040;
     --pimeja: white;
     --walo: #101010;
+    --suno-mun: var(--kule-8);
+
 }
 @media (prefers-color-scheme: dark){
     :root:not([data-selected-theme="light"]) body{
@@ -47,6 +51,8 @@ body {
     --walo-pimeja: #404040;
     --pimeja: white;
     --walo: #101010;
+    --suno-mun: var(--kule-8);
+
     }
 }
 
