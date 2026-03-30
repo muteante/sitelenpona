@@ -286,6 +286,23 @@
                 width: 2rem;
                 height: 2rem;
             }
+            .theme-selector .start-dark {
+                display: none;
+            }
+            :root[data-selected-theme="dark"] .theme-selector .start-light {
+                display: none;
+            }
+            :root[data-selected-theme="dark"] .theme-selector .start-dark {
+                display: inherit;
+            }
+            @media (prefers-color-scheme: dark) {
+                :root:not([data-selected-theme="light"]) .theme-selector .start-light {
+                    display: none;
+                }
+                :root:not([data-selected-theme="light"]) .theme-selector .start-dark {
+                    display: inherit;
+                }
+            }
 
             @media (width < 860px) {
 
@@ -309,7 +326,6 @@
                 grid-template-columns: max-content max-content;
                 gap: 1em;
                 margin-left: 1rem;
-                
             }
             #menu .nav-category{
                 grid-row: 1 / 2;

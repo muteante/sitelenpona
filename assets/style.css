@@ -23,8 +23,20 @@ body {
     font-family: 'Nunito Sans', sans-serif;
     counter-reset: sp en sl;
 }
+:root[data-selected-theme="dark"] body{
+    --kule-1: #772e00;
+    --kule-3: #c65100;
+    --kule-5: #ff6e00;
+    --kule-7: #ffac74;
+    --kule-8: #ffc5a0;
+    --lupa: #7cdff5;
+    --lupa-pimeja: #000099;
+    --walo-pimeja: #404040;
+    --pimeja: white;
+    --walo: #101010;
+}
 @media (prefers-color-scheme: dark){
-    body{
+    :root:not([data-selected-theme="light"]) body{
     --kule-1: #772e00;
     --kule-3: #c65100;
     --kule-5: #ff6e00;
@@ -36,8 +48,6 @@ body {
     --pimeja: white;
     --walo: #101010;
     }
-
-
 }
 
 .split p[lang="en"]:not(:is(h1, h2, h3, h4) > *)::before {  counter-increment: en; 

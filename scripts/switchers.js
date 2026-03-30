@@ -10,19 +10,16 @@ const applySetting = (savedSetting, setting) => {
     const targets = document.querySelectorAll(`[data-${setting}="${savedSetting}"]`);
     document.documentElement.setAttribute(`data-selected-${setting}`, savedSetting);
     for (let option of targets){
-        option.selected = true; 
+        option.selected = true;
     }
 };
 
 const handleThemeSelection = (event) => {
     const target = event.target;
-    const isPressed = target.getAttribute('aria-pressed');
-
-    if (isPressed !== "true") {
-        const theme = target.getAttribute('data-theme');
-        applySetting(theme);
-        localStorage.setItem('selected-language', theme);
-    }
+    const isDark = window.matchMedia('(prefers-color-scheme: dark)') && document.documentElement.getAttribute('data-selected-theme') !== 'light';
+    const theme = isDark ? 'light' : 'dark';
+    applySetting(theme, 'theme');
+    sessionStorage.setItem('selected-theme', theme);
 
 }
 const handleChange = (savedSetting, setting) => {
@@ -40,6 +37,10 @@ const setInitialSettings = () => {
     if (savedScript && savedScript !== defaultScript) {
         applySetting(savedScript, "script");
     }
+    const savedTheme = sessionStorage.getItem('selected-theme');
+    if (savedTheme) {
+        applySetting(savedTheme, 'theme');
+    }
 };
 const assignListeners = (selects) => {
     for (let select of selects) {
@@ -55,7 +56,7 @@ setInitialSettings();
 console.log("this is");
 assignListeners(selectors);
 console.log(selectors);
-
+document.querySelector('.theme-selector button').addEventListener('click', handleThemeSelection);
 
 /*
 selectElement.addEventListener("change", (event) => {
