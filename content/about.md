@@ -9,13 +9,15 @@ alt: "sitelen pona kulupu, 'common sitelen pona'"
 cover_image: false
 ---
 <style>
-    h1{
+    h1.split{
         margin: 0 0 2rem;
-        background: linear-gradient(to right, var(--kule-7), var(--kule-5));
-        padding: 2rem 0 1rem !important;
-        color: var(--white);}
+        background: var(--kule-mute-suwi);
+        padding: 2rem 0 1rem;
+        color: white;
+        }
+
     @media (width < 860px) {
-        h1 {
+        h1.split {
             padding-inline: 6vw;
         }
 }

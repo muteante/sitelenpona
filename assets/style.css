@@ -23,6 +23,8 @@ body {
     --white: white;
     --suno-mun: var(--kule-8);
     --o-pimeja-e: darken;
+    --kule-mute-suwi: linear-gradient(to right, var(--kule-7), var(--kule-5));
+
 
     background-color: var(--walo, white);
     color: var(--pimeja, black);
@@ -47,6 +49,8 @@ body {
     --white: black;
     --suno-mun: var(--kule-8);
     --o-pimeja-e: lighten;
+    --kule-mute-suwi: linear-gradient(to right, var(--kule-5), var(--kule-2));
+
 
 
 }
@@ -68,6 +72,10 @@ body {
     --white: black;
     --suno-mun: var(--kule-8);
     --o-pimeja-e: lighten;
+    --kule-mute-suwi: linear-gradient(to right, var(--kule-5), var(--kule-2));
+    --nimi-mute-suwi: var(--pimeja);
+
+
 
 
     }
