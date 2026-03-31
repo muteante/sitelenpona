@@ -128,15 +128,8 @@ h1{
     margin: 0;
     background-color: var(--kule-3);
     padding: 2rem 0 1rem;
+    color: var(--pimeja);
 }
-.startsplit{
-    background-color: var(--kule-3);
-    border-radius: 0 0 4rem 4rem;
-    display: grid;
-    grid-template-columns: auto minmax(0, var(--en-split)) minmax(1rem, 7vw) minmax(0, var(--sp-split)) auto;
-    grid-auto-flow: dense;
-    padding: 0 1rem 2rem;
-    margin: 0;}
 
 h2{
     text-align: left;
@@ -342,7 +335,7 @@ h2.view{
 
 
 
-{% startsplit %}
+<div class="split" style="background-color: var(--kule-3); padding-bottom: 2rem;border-radius: 0 0 4rem 4rem;">
 {% en %}
 This is a public draft of Common Sitelen Pona, released on January 2026 and presented as per our resolutions. 
 
@@ -372,7 +365,7 @@ lipu ni pi pini ala li toki e sitelen pona kulupu. tenpo mun #W pi tenpo sike ni
 lipu li toki ala e nasin musi namako sin pi jan mute ala. lipu pi sitelen pona kulupu li wile e nasin ni taso: kulupu pi toki pona la ona li suli li awen li kepeken.
 {% endsl %}
 
-{% endstartsplit %}
+</div>
 
 {% assign tier = tier_1 %}
 
