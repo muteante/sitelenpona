@@ -1,4 +1,5 @@
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import { RenderPlugin } from "@11ty/eleventy";
 import markdownItContainer from 'markdown-it-container';
 import markdownItAttrs from 'markdown-it-attrs';
 import YAML from "yaml";
@@ -7,7 +8,7 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addGlobalData("baseUrl", "https://muteante.github.io/sitelenpona");
 
 
-
+    eleventyConfig.addPassthroughCopy("_includes/assets/");
     eleventyConfig.addPassthroughCopy("assets/");
     eleventyConfig.addPassthroughCopy("scripts/");
 	eleventyConfig.addPassthroughCopy("content/common/");
@@ -60,7 +61,7 @@ export default async function (eleventyConfig) {
         })
         return sorted; 
 	});
-
+    eleventyConfig.addPlugin(RenderPlugin);
 
     eleventyConfig.addPairedShortcode("en", (insa) => insa.startsWith('\n') ? `::: attr {lang=en}\n${insa}\n:::` : `<span lang="en">${insa}</span>`);
     eleventyConfig.addPairedShortcode("sp", (insa) => insa.startsWith('\n') ? `::: attr {.sp lang=tok}\n${insa}\n:::` : `<span class="sp" lang="tok">${insa}</span>`);

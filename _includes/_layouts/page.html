@@ -526,11 +526,11 @@
             %}
         <div>
     </h1>
-    {%- if alt and cover_image -%}
 
-        <img alt="{{ alt }}" src="/assets/sitelen/splash/{{ page.filePathStem | replace: '/content/','' }}.svg">     
-    {%- endif -%}
-
+    {% if alt and cover_image %}
+    {% assign svg_inline = "./_includes/assets/" | append: page.filePathStem | replace: '/content/','' | append: ".svg" |log %}
+    {% renderFile svg_inline, alt, "html" %}
+    {% endif %}
 
      
     {{ content }}

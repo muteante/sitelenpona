@@ -6,10 +6,12 @@
 body {
     margin: 0;
     /* numbers are approximate APCA contrast ÷ 10 */
+    --kule-10: #511d00;
     --kule-8: #a64300;
     --kule-7: #cb5300;
     --kule-5: #ff7000;
     --kule-3: #ffb17e;
+    --kule-2: #ffccab;
     --kule-1: #ffe3d2;
     --lupa: #0063fd;
     --lupa-pimeja: #000099;
@@ -20,18 +22,23 @@ body {
     --walo: white;
     --white: white;
     --suno-mun: var(--kule-8);
+    --o-pimeja-e: darken;
 
     background-color: var(--walo, white);
     color: var(--pimeja, black);
     font-family: 'Nunito Sans', sans-serif;
     counter-reset: sp en sl;
+    
 }
 :root[data-selected-theme="dark"] body{
     --kule-1: #772e00;
+    --kule-2: #a64305;
     --kule-3: #c65100;
     --kule-5: #ff6e00;
     --kule-7: #ffac74;
     --kule-8: #ffc5a0;
+    --kule-10: #ffe3d2;
+
     --lupa: #7cdff5;
     --lupa-pimeja: #000099;
     --walo-pimeja: #404040;
@@ -39,15 +46,20 @@ body {
     --walo: #101010;
     --white: black;
     --suno-mun: var(--kule-8);
+    --o-pimeja-e: lighten;
+
 
 }
 @media (prefers-color-scheme: dark){
     :root:not([data-selected-theme="light"]) body{
     --kule-1: #772e00;
+    --kule-2: #a64305;
     --kule-3: #c65100;
     --kule-5: #ff6e00;
     --kule-7: #ffac74;
     --kule-8: #ffc5a0;
+    --kule-10: #ffe3d2;
+
     --lupa: #7cdff5;
     --lupa-pimeja: #000099;
     --walo-pimeja: #404040;
@@ -55,6 +67,8 @@ body {
     --walo: #101010;
     --white: black;
     --suno-mun: var(--kule-8);
+    --o-pimeja-e: lighten;
+
 
     }
 }
