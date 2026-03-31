@@ -301,6 +301,16 @@
             .theme-selector:has(button:hover){
                 --suno-mun: var(--pimeja);
             }
+
+
+            /*only applies to draft page*/
+            :has(.foreword) :not(h1).split:first-of-type{
+                background-color: var(--kule-3); padding-bottom: 2rem; border-radius: 0 0 4rem 4rem;
+
+            }
+
+
+
             @media (prefers-color-scheme: dark) {
                 :root:not([data-selected-theme="light"]) .theme-selector .start-dark {
                     display: none;
