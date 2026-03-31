@@ -127,7 +127,7 @@ description:  "A standard that outlines universal and representative features of
 h1{
     margin: 0;
     background-color: var(--kule-3);
-    padding: 2rem 0 1rem;
+    padding: 2rem 0 1rem !important;
     color: var(--pimeja);
 }
 
