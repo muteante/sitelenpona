@@ -335,7 +335,7 @@ h2.view{
 
 
 
-<div class="split" style="background-color: var(--kule-3); padding-bottom: 2rem;border-radius: 0 0 4rem 4rem;">
+{% split %}
 {% en %}
 This is a public draft of Common Sitelen Pona, released on January 2026 and presented as per our resolutions. 
 
@@ -365,7 +365,7 @@ lipu ni pi pini ala li toki e sitelen pona kulupu. tenpo mun #W pi tenpo sike ni
 lipu li toki ala e nasin musi namako sin pi jan mute ala. lipu pi sitelen pona kulupu li wile e nasin ni taso: kulupu pi toki pona la ona li suli li awen li kepeken.
 {% endsl %}
 
-</div>
+{% endsplit %}
 
 {% assign tier = tier_1 %}
 
