@@ -127,7 +127,7 @@ description:  "A standard that outlines universal and representative features of
 h1{
     margin: 0;
     background-color: var(--kule-3);
-    padding: 2rem 0 1rem !important;
+    padding: 2rem 0 1rem;
     color: var(--pimeja);
 }
 
@@ -329,6 +329,12 @@ h2.view{
         display: flex;
 
     }
+}
+
+@media (width < 860px) {
+  h1 {
+    padding: 2rem 6vw 1rem !important;
+  }
 }
 
 </style>
