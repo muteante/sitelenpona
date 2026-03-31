@@ -1,4 +1,4 @@
-tier    word
+tier    word    variant
 1	a
 1	akesi
 1	ala
@@ -60,14 +60,12 @@ tier    word
 1	mu
 1	mun
 1	musi
-1	"mute 
-(pu style or three strokes)"
+1	mute    (pu style or three strokes)
 1	nanpa
 1	nasa
 1	nasin
 1	nena
-1	"ni
-(pu style or down-pointing)"
+1	ni  (pu style or down-pointing)
 1	nimi
 1	noka
 1	o
@@ -92,11 +90,8 @@ tier    word
 1	seli
 1	selo
 1	seme
-1	"sewi
-(pu style Arabic divine)"
-3	"sewi
-(spatial or secular)
-(confirmed semantic)"
+1	sewi    (pu style Arabic divine)
+3	sewi    (spatial or secular)
 1	sijelo
 1	sike
 1	sin
@@ -143,7 +138,5 @@ tier    word
 3	linluwi
 3	majuna
 3	meso
-3	"su
-(Oz default)"
-3	"ni
-(left-, up-, right-pointing)"
+3	su  (Oz default)
+3	ni  (left-, up-, right-pointing)
