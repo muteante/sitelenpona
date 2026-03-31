@@ -23,10 +23,10 @@ In the methodology developed by Mrs. Lang for Common Sitelen Pona, one word shal
 {% enden %}
 
 {% sp %}
-nasin alasa pi anpa sewi la   
-zz nimi wan pi toki+pona o lon sitelen wan pi nasin [jan uta ni:ko:]  
-taso nasin pi suli kepeken la sitelen tu pi nimi wan li toki e ijo tu ante la   
-zz sitelen tu ni li ken wan ala li ken sitelen tu pi nasin[jan]{% endsp %}
+nasin alasa pi(anpa-sewi) la   
+zz nimi wan pi(toki+pona) o lon sitelen wan pi(nasin [jan uta ni:ko:])    
+taso nasin pi(suli kepeken) la sitelen tu pi(nimi wan) li toki e ijo tu ante la   
+zz sitelen tu ni li ken wan ala li ken sitelen tu pi(nasin[jan]){% endsp %}
 
 {% sl %}
 nasin alasa pi anpa sewi la nimi wan pi toki pona o lon sitelen wan pi nasin Juniko. taso, nasin pi suli kepeken la sitelen tu pi nimi wan li toki e ijo tu ante, la sitelen tu ni li ken wan ala li ken sitelen tu pi nasin Juniko.
@@ -57,11 +57,11 @@ Download the [raw results for semantic variance](/content/common/semanticity.txt
 {% enden %}
 
 {% sp %}
-mi pana e lipu pi wile sona tawa ale kulupu  
+mi pana e lipu pi(wile sona) tawa ale kulupu  
 lipu la mi toki e nimi mute li wile sona e ni  
-zz sitelen tu pi nimi ni^ la sina kepeken seme  
+zz sitelen tu pi(nimi ni^ )la sina kepeken seme  
 zz zz te ona nanpa wan to anu te ona nanpa tu to anu te ona tu to  
-zz kin la kon sona pi sitelen tu li seme  
+zz kin la kon sona pi(sitelen tu) li seme  
 zz zz te ante ala to anu te ken ante to anu te ante a to
 
 jan mute li pana pona e sona tawa lipu zz mute pana li sama tu tu ale   
@@ -72,7 +72,7 @@ tan nanpa ni^ la mi kama sona e suli kepeken
 jan luka luka la jan luka tu tu li nasin ni^   
 - suli kepeken nanpa tu la  
 jan luka luka la jan luka wan li nasin ni^ 
-- suli kepeken nanpa tu-wan la  
+- suli kepeken nanpa tu wan la  
 jan luka luka la jan tu wan li nasin ni^
 
 mi kama sona e ni  
@@ -84,7 +84,7 @@ mi kama sona e ni> kin
 zz mute en mute2 li ken sitelen e ijo ante    
  taso kulupu pali li alasa insa e pilin li kama wile e ni  
  zz sitelen mute2 o lon ala nasin [jan uta ni:ko:]   
- zz zz zz o lon sitelen pona kulupu kepeken nasin ni taso  
+ zz zz zz o lon sitelen+pona kulupu kepeken nasin ni taso  
 zz zz zz zz luka en luka en luka en luka li kama wan ni> luka-luka_luka-luka
 
 o lukin e sona taso lon ni  

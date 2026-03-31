@@ -25,7 +25,7 @@
   sLName: "sitelen pona kulupu"
   children:
   - enName: "public draft"
-    spName: "lipu pi pini ala"
+    spName: "lipu pi(pini ala)"
     sLName: "lipu pi pini ala"
     link: "/common.html"
   - enName: "methodology"

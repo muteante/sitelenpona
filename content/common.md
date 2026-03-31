@@ -1,7 +1,7 @@
 ---
 title: "Public Draft: Common Sitelen Pona"
 sLTitle: lipu pi sitelen pona kulupu (li pini ala)
-spTitle: te sitelen pona kulupu to li lipu pi pini ala
+spTitle: te sitelen pona kulupu to li lipu pi(pini ala)
 permalink: common.html
 description:  "A standard that outlines universal and representative features of Toki Pona's logographic writing system, Sitelen Pona." 
 ---
@@ -352,19 +352,19 @@ It is derived from described features and characteristcs of Sitelen Pona that ha
 {% enden %}
 
 {% sp %}
-lipu+ni pi pini ala li toki e sitelen pona kulupu  
-tenpo mun nanpa wan pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
+lipu+ni pi(pini )ala li toki e sitelen+pona kulupu  
+tenpo mun nanpa wan pi(tenpo sike ni) la kulupu li pana e lipu pi(pini ala) tawa lukin ale
 
 te **sitelen pona kulupu** to li nimi pi(lipu nasin)  
-lipu li toki e ni> zz sitelen pona li nasin seme
+lipu li toki e ni> zz sitelen+pona li nasin seme
 
-lipu li toki ala e nasin musi namako sin pi jan mute ala  
+lipu li toki ala e nasin musi namako sin pi(jan mute ala)  
 te sitelen pona kulupu to li wile e nasin ni taso  
 zz zz kulupu pi(toki+pona) la nasin li suli li awen li kepeken
 {% endsp %}
 
 {% sl %}
-lipu ni pi pini ala li toki e sitelen pona kulupu. tenpo mun #W pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
+lipu ni pi pini ala li toki e sitelen+pona kulupu. tenpo mun #W pi tenpo sike ni la kulupu li pana e lipu pi pini ala tawa lukin ale
 
 **sitelen pona kulupu** li nimi pi lipu nasin. lipu li toki e ni: sitelen pona li nasin seme.
 
@@ -423,13 +423,13 @@ Publication coming soon...
 <div class="card">
 
 ### [tenpo pini](/history.html)
-tenpo suli la kulupu li wile e ni> zz  sitelen+pona li lon nasin [jan uta ni: ko:]. lipu+ni li toki e pali ale pi(tenpo pini) li toki e ni> zz seme la kulupu pali pi(sitelen pona) li kama lon
+tenpo suli la kulupu li wile e ni> zz  sitelen+pona li lon nasin [jan uta ni: ko:]. lipu+ni li toki e pali ale pi(tenpo pini) li toki e ni> zz seme la kulupu pali pi sitelen pona li kama lon.
 
 </div>
 <div class="card">
 
 ### [nasin alasa](/method.html)
-kulupu pali pi sitelen+pona li kama sona e sitelen+pona kulupu kepeken nasin ni^ pi(alasa sona). 
+kulupu pali pi sitelen pona li kama sona e sitelen+pona kulupu kepeken nasin ni^ pi(alasa sona). 
 
 </div>
 </div>
@@ -439,14 +439,14 @@ kulupu pali pi sitelen+pona li kama sona e sitelen+pona kulupu kepeken nasin ni^
 
 <div class="card">
     
-### [sitelen+pona <br>pi nasin [jaki uta sitelen.sama.]](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
+### [sitelen+pona <br>pi(nasin [jaki uta sitelen.sama.])](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
 
-sitelen+pona kulupu la kulupu [jan uta ni:ko:] li awen kama ala lawa e nanpa pi sitelen ilo. ni< la kulupu [jaki uta sitelen.sama.] lawa pi(pali ni) li pana e nanpa ilo pi(sitelen+pona kulupu) tawa nanpa ni> pi kulupu [jan uta ni:ko:]zz kulupu lili li pali e nasin namako pi(lawa wawa ala) kepeken ona. 
+sitelen+pona kulupu la kulupu [jan uta ni:ko:] li awen kama ala lawa e nanpa pi(sitelen ilo). ni< la kulupu [jaki uta sitelen.sama.] li lawa pi(pali ni) li pana e nanpa ilo pi(sitelen+pona kulupu) tawa nanpa ni> pi kulupu [jan uta ni:ko:]zz kulupu lili li pali e nasin namako pi(lawa wawa ala) kepeken ona. 
 
 </div>
 <div class="card forthcoming">
 
-### sitelen+pona <br>pi nasin [akesi su:kili.] 
+### sitelen+pona <br>pi(nasin [akesi su:kili.]) 
 
 lipu+ni^ li kama zz o zz awen zz lili zz taso
 </div>
@@ -480,7 +480,7 @@ kulupu pali pi sitelen pona li  kama sona e sitelen pona kulupu kepeken nasin ni
     
 ### [sitelen pona pi nasin Jusisa](https://www.kreativekorp.com/ucsur/charts/sitelen.html)
 
-sitelen pona kulupu la kulupu Juniko li awen kama ala lawa e nanpa pi sitelen ilo. ni la kulupu Jusisa lawa pi pali ni li pana e nanpa ilo pi sitelen pona kulupu tawa nanpa ni pi kulupu Juniko: kulupu lili li pali e nasin pi lawa wawa ala kepeken ona. 
+sitelen pona kulupu la kulupu Juniko li awen kama ala lawa e nanpa pi sitelen ilo. ni la kulupu Jusisa li lawa pi pali ni li pana e nanpa ilo pi sitelen pona kulupu tawa nanpa ni pi kulupu Juniko: kulupu lili li pali e nasin pi lawa wawa ala kepeken ona. 
 
 </div>
 <div class="card forthcoming">

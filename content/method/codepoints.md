@@ -10,7 +10,7 @@ alt:  "zero-width joiner and left bracket are colourfully contrasted against sem
 ---
 
 {% splith %}
-{% en %}Process and Results{% enden %}
+{% en %}Rationale and Results{% enden %}
 {% sp %}nasin en sona kama{% endsp %}
 {% sl %}nasin en sona kama{% endsl %}
 {% endsplith %}
@@ -18,9 +18,9 @@ alt:  "zero-width joiner and left bracket are colourfully contrasted against sem
 
 {% split %}
 {% en %}
-For most of the punctuation glyphs in Common Sitelen Pona, the answer to this is self-evident. Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoints. Glyphs that have an equivalent are recommended to rely on existing codepoints.
+For most of the punctuation glyphs in Common Sitelen Pona, the answer to the question is self-evident. Novel glyphs that have no existing Unicode equivalent are recommended to have new codepoints. Glyphs that have an equivalent are recommended to rely on existing codepoints.
 
-Reccommended to be mapped to existing codepoints:
+Recommended to be mapped to existing codepoints:
 
 - <span class="tech">ZERO WIDTH SPACE</span>
 - <span class="tech">ZERO WIDTH JOINER</span>
@@ -43,12 +43,14 @@ Recommended to be assigned new codepoints:
 {% enden %}
 
 {% sp %}
-sitelen mute pi nimi ala la mi sona e nasin kepeken nasa ala  
-sitelen li sin li sama ala sitelen lon pi nasin [jan uta ni: ko:] la   
+sitelen+nasin mute la mi sona e nasin kepeken nasa ala  
+sitelen+nasin li sin li sama ala sitelen lon pi(nasin [jan uta ni: ko:]) la   
 zz nanpa sin o lon tawa ona  
-sitelen sama li lon nasin [jan uta ni: ko:] la  zz o kepeken nanpa pi sitelen lon
+sitelen sama li lon nasin [jan uta ni: ko:] la    
+zz o kepeken nanpa pi( sitelen lon)
 
-sitelen ni li sama sitelen lon pi nasin [jan]  la ona o kepeken nanpa sama
+sitelen ni li sama sitelen lon pi(nasin [jan] ) la 
+ona o kepeken nanpa sama
 
 - <span class="tech">ZERO WIDTH SPACE</span>
 - <span class="tech">ZERO WIDTH JOINER</span>
@@ -58,7 +60,7 @@ sitelen ni li sama sitelen lon pi nasin [jan]  la ona o kepeken nanpa sama
 
 sitelen ni li ante  la ona o jo e nanpa sin
 
-- <span class="tech">SITELEN PONA START OF CARTOUCHE</span>, <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
+- <span class="tech">SITELEN PONA START OF CARTOUCHE</span>,<br> <span class="tech">SITELEN PONA END OF CARTOUCHE</span>
 - <span class="tech">SITELEN PONA STACKING JOINER</span>
 - <span class="tech">SITELEN PONA NESTING JOINER</span>
 - <span class="tech">SITELEN PONA START OF LONG GLYPH</span>
@@ -67,8 +69,8 @@ sitelen ni li ante  la ona o jo e nanpa sin
 - <span class="tech">SITELEN PONA MIDDLE DOT</span>
 - <span class="tech">SITELEN PONA COLON</span>
 
-zz sitelen te<span class="tech">SITELEN PONA MIDDLE DOT</span>to   
-en sitelen te<span class="tech">SITELEN PONA COLON</span>to li nasa  
+sitelen te<span class="tech">SITELEN PONA MIDDLE DOT</span>to  en    
+sitelen te<span class="tech">SITELEN PONA COLON</span>to li nasa  <br><br>
 tenpo mute la [sitelen ni li kama lon poki nimi](https://sona.pona.la/wiki/nasin_sitelen_kalama)  
 sitelen te<span class="tech">MIDDLE DOT</span>to en sitelen te<span class="tech">COLON</span> to li lon nasin [jan]  
 taso ona li ken lon poki nimi la ni< li nasa mute nasin  

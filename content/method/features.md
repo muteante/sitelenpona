@@ -23,15 +23,15 @@ In Sitelen Pona, 'non-word' glyphs refer to punctuation features.
 This includes sentence-ending punctuation. Some people elect to start a new line at the beginning of every sentence, some use a middle-dot, some use a Latin period. To transcribe loan words, there are at least three systems in use: the 2014 style, nasin sitelen kalama, and the tally system. Quote punctuations are also examples of these 'non-word glyphs.' 
 {% enden %}
 {% sp %}
-sitelen+pona kulupu la  te sitelen&nasin to li sitelen pi nimi ala  li pana e sona namako
+sitelen+pona kulupu la  te sitelen&nasin to li sitelen pi(nimi ala ) li pana e sona namako
 
 sitelen+pona la linja toki li pini la jan ante li toki e ni kepeken nasin ante  
-weka sitelen en linja sin en sike lili insa en sike lili pi sitelen [la:sina:]   
+weka sitelen en linja sin en sike lili insa en sike lili pi( sitelen [la:sina:])   
 zz li ken pini e toki zz zz zz ni^ ale li sitelen&nasin  
 sitelen [la:sina:] la mi sitelen e [SITELEN zz LASINA] la   
-zz nasin seme pi sitelen+pona li ken pana e sona sama  zz jan ante li kepeken nasin ante  
-sitelen [la:sina:] en sitelen [laso ala sina insa nasin ale] en sitelen [la,sina,,,]  
-zz ona ante li lon kinzz zz zz  ni^ ale li sitelen+nasin  zz te to li sitelen+nasin a
+zz nasin pi(sitelen+pona) li ken pana e sona sama  zz jan ante li kepeken nasin ante  
+sitelen [la:sina:] en sitelen [la ala sina insa nasin ale] en sitelen [la,,sina,,,,]  
+zz ona ante li lon kinzz zz  ni^ ale li sitelen+nasin  zz zz te to li sitelen+nasin a
 {% endsp %}
 {% sl %}
 sitelen nasin pi sitelen pona li sitelen pi nimi ala. sitelen nasin li pana e sona namako.  
@@ -70,16 +70,16 @@ In second phase, we provided the results of the community survey to our members 
 Twenty-one of our members responded to the survey. The median response of members was used to determine the final tier assignments, with one exception. The Latin-style period was initially assigned to the third tier and later excluded through an unanimous informal poll, due to redundancy with the middot.
 {% enden %}
 {% sp %}
-alasa tu li ni> zz alasa pilin pi jan mute en alasa pilin pi jan sona   
-lon open la kulupu pali pi sitelen pona li alasa e sona tan jan mute kepeken lipu   
+alasa tu li ni> zz alasa pilin pi(jan mute) en alasa pilin pi(jan sona)   
+lon open la kulupu pali li alasa e sona tan jan mute kepeken lipu   
 lipu li toki e sitelen+nasin mute luka luka luka tu wan kepeken nimi kepeken sitelen   
-zz li wile sona e ni> zz ona seme pi nasin ni ale la  
+zz li wile sona e ni> zz sina la ona seme pi(nasin ni^< ale) la  
 zz zz zz  te mi kepeken to zz zz zz zz te mi kepeken lon tenpo lili to   
 zz zz zz te mi wile ala kepeken lon tenpo mute to zz te mi kepeken ala to
 
-jan luka ale luka li pana e sona wile tawa lipu pi alasa pilin
+jan luka ale luka li pana e sona wile tawa lipu pi(alasa pilin)
 
-nanpa la mi wile sona e ni> zz jan wan ale la ona pi mute seme li kepeken  
+nanpa la mi wile sona e ni> zz jan wan ale la ona pi(mute seme) li kepeken  
 zz te mi kepeken to la  jan wan li kepeken    
 zz te mi kepeken lon tenpo lili  to la   
 zz zz o kipisi tu wan e jan wan la kipisi tu li kepeken    
@@ -87,36 +87,37 @@ zz te mi wile ala kepeken lon tenpo mute to la
 zz zz o kipisi tu wan e jan wan la kipisi wan li kepeken 
 
 ni^ la mi ken nanpa e sitelen nasin ale kepeken nasin ni  
-zz jan wan ale la jan pi mute ni li kepeken  
+zz jan wan ale la jan pi(mute seme) li kepeken  
 taso nanpa ale li lili mute a zz pilin la sona li ike zz mi pona e ona kepeken ni  
-lon la ale pi sitelen+pona li ken sitelen e nimi kepeken sitelen+nasin pi lipu pu  
-pali nanpa la mi suli e nanpa pi sitelen+nasin pi lipu pu tawa ni> zz jan ale li kepeken  
-zz ni^> la mi suli pi mute sama e sitelen nasin ante ale  
-tenpo ni la mi sona sin lili e suli kepeken pi sitelen+nasin ale tan alasa pilin pi jan mute 
+lon la ale pi(sitelen+pona) li ken sitelen e nimi kepeken sitelen+nasin pi(lipu pu )   
+pali nanpa la mi suli e nanpa pi(sitelen+nasin) pi(lipu pu) tawa ni> zz jan ale li kepeken  
+zz ni^> la mi suli pi(mute sama) e sitelen nasin ante ale  
+tenpo ni la mi sona sin lili e suli kepeken pi(sitelen+nasin) ale tan alasa pilin pi(jan mute) 
 
 - suli kepeken nanpa wan la  
-jan luka luka la jan luka tu tu li kepeken 
+zz jan luka luka la jan luka tu tu li kepeken 
 - suli kepeken nanpa tu la  
-jan luka luka la jan luka wan li kepeken
+zz jan luka luka la jan luka wan li kepeken
 - suli kepeken nanpa tu wan la  
-jan luka la jan tu wan li kepeken
+zz jan luka la jan tu wan li kepeken
 - suli ala la   
-jan luka luka la jan luka tu li kepeken ala
+zz jan luka luka la jan luka tu li kepeken ala
 
-mi lipu e sona nanpa ale ni^ li pana e lipu tawa jan ale pi kulupu pali mi
+mi lipu e sona nanpa ale ni^ li pana e lipu tawa jan ale pi(kulupu pali mi)
 
-alasa pilin pi jan mute li pini la mi kama alasa pilin pi jan sona  
-mi pana e lipu tawa jan sona ale pi kulupu pali li toki e ni  
-zz te sina pi sona mute o zz sitelen+nasin ale li suli nanpa seme tawa kepeken pi kulupu suli   
+alasa pilin pi(jan mute) li pini la mi kama alasa pilin pi(jan sona)  
+mi pana e lipu tawa jan sona ale pi(kulupu pali) li toki e ni  
+zz te sina pi(sona mute) o zz sitelen+nasin ale li suli nanpa seme tawa kepeken pi(kulupu suli)   
 zz zz zz zz zz zz zz zz o pana e pilin to  
-jan sona li pana e pilin la ona li ken kepeken sona pi alasa kulupu nanpa wan lon wile  
+jan sona li pana e pilin la ona li ken kepeken sona pi(alasa kulupu nanpa wan) lon wile  
 zz zz zz zz zz zz zz zz li ken kepeken ala lon wile 
 
-kulupu la ona mute wan pi sona mute li pana e pilin tawa lipu alasa pi jan sona  
-nanpa la mi wan e pilin li alasa e insa kepeken ni> zz nanpa+ale li lon poka lon lipu la  
-zz zz zz nanpa+lili li lon open la nanpa+suli  li lon pini la nanpa  seme li insa lon lipu  
-zz zz nasin li ni> ala zz mi wan e nanpa ale li kipisi pi mute jan e nanpa suli  
-nasa wan li lon zz open la sike lili pi sitelen [la:sina:] li suli kepeken nanpa+mute  
+kulupu la ona mute wan pi(sona mute) li pana e pilin tawa lipu alasa pi(jan sona)  
+ mi wan nanpa e pilin li alasa e insa kepeken ni> zz    nanpa ale li lon poka lon lipu la  
+zz nanpa lili li lon open la nanpa suli  li lon pini la nanpa  seme li insa lon lipu  
+zz nasin li ni> ala zz mi wan nanpa e nanpa ale li kipisi pi(mute jan) e nanpa suli  
+nasa wan li  ni  
+ zz open la sike lili pi(sitelen [la:sina:] )li ijo pi(suli kepeken nanpa tu wan)  
 zz taso sike lili ni^> en sike insa te . to li pali sama a li selo sitelen ante la   
 zz zz kulupu li alasa insa sin e pilin li kama wile weka e ona
 {% endsp %}
@@ -157,13 +158,13 @@ mi MW pi sona mute li pana e pilin tawa lipu alasa pi jan sona. mi wan e pilin l
 
 {% split %}
 {% en %}
-Jump to [Common Sitelen Pona's non-word glyphs]().
+Jump to [Common Sitelen Pona's non-word glyphs](/common.html#tier1punctuation).
 {% enden %}
 {% sp %}
-o lukin e sona taso lon ni  
-zz [sitelen pi nimi ala lon sitelen pona kulupu]()
+o lukin e sona lon ni  
+zz [sitelen+nasin li lon lipu pi(sitelen+pona kulupu)](/common.html#tier1punctuation)
 {% endsp %}
 {% sl %}
-o lukin e [sitelen pi nimi ala lon sitelen pona kulupu]().
+o lukin e [sitelen nasin li lon lipu sitelen pona kulupu](/common.html#tier1punctuation).
 {% endsl %}
 {% endsplit %}

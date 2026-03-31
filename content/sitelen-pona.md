@@ -1,13 +1,13 @@
 ---
 title: About Sitelen Pona
 sLTitle: sitelen pona li seme
-spTitle: sitelen pona li seme
+spTitle: sitelen+pona li seme
 permalink: sitelen-pona.html
 description:  "Learn about a beloved pictographic writing system used by speakers of the minimalist constructed language, Toki Pona. "
 ---
 {% splith %}
     {% en %}What does Sitelen Pona look like?{% enden %}
-    {% sp %}sitelen pona li seme lukin{% endsp %}
+    {% sp %}sitelen+pona li seme lukin{% endsp %}
     {% sl %}sitelen pona li seme lukin?{% endsl %}
 
 {% endsplith %}
@@ -18,8 +18,8 @@ In Sitelen Pona, each word can be represented by one simple pictogram or, ‘gly
 {% enden %}
 
 {% sp %}
-sitelen pona la nimi wan li sitelen wan  
-tenpo mute la sina sona ala e nasin pi sitelen pona la   
+sitelen+pona la nimi wan li sitelen wan  
+tenpo mute la sina sona ala e nasin pi(sitelen+pona) la   
 zz sina awen ken sona e nimi sitelen tan lukin taso  
 zz sitelen li sitelen e ijo nimi  
 tomo en pipi en sike li sitelen e tomo e pipi e sike  
@@ -133,12 +133,12 @@ Sitelen Pona is usually written from left to right, from top to bottom. Glyphs c
 {% enden %}
 
 {% sp %}
-nasin tawa pi sitelen pona li sama sitelen [la.sina:] lon tenpo mute  
+nasin tawa pi(sitelen+pona) li sama sitelen [la:sina:] lon tenpo mute  
 o open lon sewi o pini lon anpa  
 sitelen tu li ken kama sama sitelen wan   
-tomo pipi la sitelen pipi li ken lon insa pi sitelen tomo  
+tomo pipi la sitelen pipi li ken lon insa pi(sitelen tomo)  
 zz o lukin pona e  tomo+pipi  
-pipi sike la sitelen sike li ken lon sewi pi sitelen pipi  
+pipi sike la sitelen sike li ken lon sewi pi(sitelen pipi)  
 zz o lukin pona e pipi-sike
 {% endsp %}
 {% sl %}
@@ -232,7 +232,7 @@ nasin tawa pi sitelen pona li sama sitelen Lasina lon tenpo mute. o open lon sew
 
 {% splith %}
     {% en %}Why use Sitelen Pona?{% enden %}
-    {% sp %}sitelen pona li pona tan seme{% endsp %}
+    {% sp %}sitelen+pona li pona tan seme{% endsp %}
     {% sl %}sitelen pona li pona tan seme?{% endsl %}
 
 {% endsplith %}
@@ -246,14 +246,14 @@ Because it’s such a visual script, some people find a text written with Sitele
 
 {% sp %}
 jan li sona e toki+pona la tenpo mute la ona li sona e sitelen+pona kin  
-sitelen pona li pona mute tawa jan mute kulupu  
-nimi pi toki+pona li mute lili la sitelen pi toki+pona li ken mute lili kin  
-kepeken palisa sitelen la luka li ken sitelen pona kepeken tenpo lili   
-tan ni taso ala la sitelen pona li musi pilin li pona pilin tawa jan mute  
+sitelen+pona li pona mute tawa jan mute kulupu  
+nimi pi(toki+pona )li mute lili la sitelen pi(toki+pona) li ken mute lili kin  
+kepeken palisa sitelen la luka li ken sitelen+pona kepeken tenpo lili   
+tan ni taso ala la sitelen+pona li musi pilin li pona pilin tawa jan mute  
 
 sitelen pona li ken pona sona tawa lukin la jan pi mute lili li toki e ni  
-te mi lukin e toki kepeken sitelen pona la ken lukin mi li pona  
-zz mi kepeken sitelen [la.sina:] la ken lukin mi li pona sama ala to
+te mi lukin e toki kepeken sitelen+pona la ken lukin mi li pona  
+zz mi kepeken sitelen [la:sina:] la ken lukin mi li pona sama ala to
 {% endsp %}
 
 {% sl %}

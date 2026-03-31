@@ -26,13 +26,13 @@ We have lost access to email history on the previous domain. If you have tried t
 {% sp %}
 sina wile toki tawa jan lawa kulupu la   
 zz o kepeken [nimi tetokito 
-lon nimi ma [sitelen pona zz sike+lili zz NET ] ](mailto:toki@sitelenpona.net)
+lon nimi ma te sitelen+pona zz sike+lili zz [NET] to](mailto:toki@sitelenpona.net)
 
-tenpo pini la kulupu li kepeken ilo ante pi nimi ante  
-tenpo ni la kulupu li kepeken ilo sin pi nimi sin  
-kulupu li kama ken ala lukin e toki ale pi tenpo pini lon ilo ante  
-sina pana e lipu kepeken nimi pi ilo ante li awen kute ala tan mi la   
-zz sina o pana sin e toki kepeken nimi pi ilo sin
+tenpo pini la kulupu li kepeken ilo ante pi(nimi ante)  
+tenpo ni la kulupu li kepeken ilo sin pi(nimi sin)  
+kulupu li kama ken ala lukin e toki ale pi(tenpo pini) lon ilo ante  
+sina pana e lipu kepeken nimi pi(ilo ante) li awen kute ala tan mi la   
+zz sina o pana sin e toki kepeken nimi pi(ilo sin)
 {% endsp %}
 
 {% sl %}
@@ -75,11 +75,11 @@ sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni
 
 nanpa pi(tomo+suli) li nanpa luka luka ale mute mute mute mute wan  
 nanpa pi(tomo+lili) li nanpa luka luka tu ale mute mute luka tu tu  
-nimi pi nasin tomo li te nasin pi ma [suno . seli .] to  
-nimi pi ma tomo  li ma [monsi .. ken . laso .]  
-nimi pi ma lili li ma [ken . pilin esun]  
-nanpa pi ma pana li te H3H zz 2A1 to  
-nimi pi ma suli li ma [kasi . nasin . taso .]  
+nimi pi(nasin tomo) li te nasin pi ma [[suno . seli .]](https://en.wikipedia.org/wiki/Sussex) to  
+nimi pi(ma tomo)  li ma[[monsi .. ken . laso .]](https://tok.wikipedia.org/wiki/ma_tomo_Monkela)  
+nimi pi(ma lili) li ma [[ken . pilin esun]](https://tok.wikipedia.org/wiki/ma_Kepeke)  
+nanpa pi(ma pana) li te H3H zz 2A1 to  
+nimi pi(ma suli) li ma [[kasi . nasin . taso .]](https://tok.wikipedia.org/wiki/ma_Kanata)  
 {% endsp %}
 
 {% sl %}
@@ -88,10 +88,10 @@ sina wile pana e ijo tawa kulupu la  o sitelen e sona ale ni:
 tomo suli li #LLLAMMMMW.   
 tomo lili li #LLTAMMLTT.  
 nasin tomo li "nasin pi ma Sussex".  
-ma tomo  li ma Monkela.   
-ma lili li ma Kepe.  
+ma tomo  li [ma Monkela](https://tok.wikipedia.org/wiki/ma_tomo_Monkela).   
+ma lili li [ma Kepe](https://tok.wikipedia.org/wiki/ma_Kepeke).  
 ma pana li lon poka ni: "H3H 2A1."  
-nimi pi ma suli li ma Kanata.
+nimi pi ma suli li [ma Kanata](https://tok.wikipedia.org/wiki/ma_Kanata).
 {% endsl %}
 
 
