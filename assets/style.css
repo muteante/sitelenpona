@@ -184,6 +184,7 @@ a {
 
 main :is(img, svg) {
     width: 100%;
+    height: auto;
     max-width: calc(42rem + 7vw);
     margin: 1rem auto 4rem;
     display: block;
