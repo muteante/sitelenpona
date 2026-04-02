@@ -40,7 +40,7 @@ zz zz sitelen+nasin kon li wan e sitelen nimi tu
 zz zz sitelen+nasin li ken poki e ijo lon te pi to
 
 kulupu pi(toki+pona) la sitelen nasin mute li lon li musi  
-taso [lipu pi sitelen+pona kulupu](/common.html) la  kulupu pali li wile sona e ni   
+taso [lipu pi(sitelen+pona kulupu)](/common.html) la  kulupu pali li wile sona e ni   
 zz sitelen nasin seme li [suli kepeken](/method/tiers.html) 
 {% endsp %}
 {% sl %}
@@ -130,7 +130,7 @@ zz zz o pana e sona sina  zz sina ken sama alasa pilin pi(jan mute)
 zz zz sina ken sama ala alasa pilin pi(jan mute) zz o wile sina to  
 
 
-alasa pilin pi jan sona la mi mute wan pi(kulupu pali) li pana e sona  
+alasa pilin pi(jan sona) la mi mute wan pi(kulupu pali) li pana e sona  
  mi wan e nanpa ale li alasa e insa kepeken ni  
  zz  nanpa ale li lon linja ante pi(lipu kasi wan) la  
 zz zz nanpa lili li lon linja open la nanpa suli  li lon linja pini la    
