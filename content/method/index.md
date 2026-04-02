@@ -49,7 +49,7 @@ zz sitelen nimi wan li jo e selo ante mute la
 zz zz selo ante ni^ li ken ala ken sama nimi ante    
 zz selo ante pi(sitelen nimi sama) li ken sona ante la ni< li ken nimi ante  
 zz selo ante pi(sitelen nimi sama) pi(sona ken ante) o kama sitelen nimi ante   
-zz zz lon lipu pi(sitelen+pona kulupu)  lon nasin [jan uta ni: ko:]   
+zz zz lon lipu pi (sitelen+pona kulupu)  lon nasin [jan uta ni: ko:]   
 zz mi kulupu li alasa e sona ni^  kepeken ni  
 zz zz mi pana e lipu pi(alasa pilin) tawa ale kulupu li alasa mute e ni   
 zz zz zz selo tu pi(sitelen nimi wan ni<) li pilin ala pilin sama lon sona  
