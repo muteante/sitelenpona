@@ -1,7 +1,7 @@
 ---
 title: "Which versions of glyphs are representative of those commonly used in Sitelen Pona? "
-sLTitle: selo seme pi sitelen nimi li suli kepeken 
-spTitle: selo seme pi sitelen nimi li suli kepeken 
+sLTitle: selo wan seme pi sitelen nimi li suli kepeken 
+spTitle: selo wan seme pi sitelen nimi li suli kepeken 
 tags: method
 layout: '_layouts/method.html'
 index: 3
