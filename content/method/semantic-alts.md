@@ -1,7 +1,7 @@
 ---
 title: "Which variant glyphs for the same word are commonly used concurrently?"
-sLTitle: "nimi wan seme la sitelen tu ante li suli kepeken"
-spTitle: "nimi wan seme la sitelen tu ante li suli kepeken"
+sLTitle: "sitelen nimi seme la selo mute li suli kepeken"
+spTitle: "sitelen nimi seme la selo mute li suli kepeken"
 tags: method
 layout: '_layouts/method.html'
 index: 4
@@ -22,17 +22,18 @@ permalink: /method/semantic-alts.html
 
 {% split %}
 {% en %}
-In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/method/words.html) shall receive one codepoint, except where it is determined that a word's variant glyphs can each have teachably distinct sub-meanings.
+In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/method/words.html) shall receive one codepoint, except where it is determined that a word's variant [glyphs](/method/glyphs.html) can each have [teachably](/method/tiers/html) distinct sub-meanings.
 {% enden %}
 
 {% sp %}
-nasin alasa pi(anpa-sewi) la   
-zz nimi wan pi(toki+pona) o lon sitelen wan pi(nasin [jan uta ni:ko:])    
-taso nasin pi(suli kepeken) la sitelen tu pi(nimi wan) li toki e ijo tu ante la   
-zz sitelen tu ni li ken wan ala li ken sitelen tu pi(nasin[jan]){% endsp %}
+[nasin alasa](/method.html) pi([anpa-sewi](/members.html/#mrs-lang)) la  nimi wan o [sitelen nimi wan](/method/words.html) lon lipu pi([sitelen+pona kulupu](/common.html))    
+taso [selo mute](/method/glyphs.html) pi(sitelen nimi wan) li ken toki e ijo ante   
+zz lon [nasin suli pi kepeken kulupu](/method/tiers.html) la selo ni^ mute li sama nimi mute a  
+|||||||| nimi mute o lon  sitelen nimi wan  ala   
+ | selo  mute li ni^ la o kama sitelen nimi mute lon lipu pi(sitelen+pona kulupu){% endsp %}
 
 {% sl %}
-nasin alasa pi anpa sewi la nimi wan pi toki pona o lon sitelen wan pi nasin Juniko. taso, nasin pi suli kepeken la sitelen tu pi nimi wan li toki e ijo tu ante, la sitelen tu ni li ken wan ala li ken sitelen tu pi nasin Juniko.
+[nasin alasa](/method.html) pi [anpa sewi](/members.html#mrs-lang) la nimi wan pi toki pona o [sitelen nimi wan](/method/words.html) tawa lipu pi [sitelen pona kulupu](/common.html). taso [selo ante](/method/glyphs.html) mute pi sitelen nimi sama li ken toki e ijo ante lon [nasin suli pi kepeken kulupu](/method/tiers.html) la, pali la selo ni mute li sama nimi mute. nimi mute o lon ala sitelen wan taso. selo ni mute o kama sitelen nimi mute lon lipu pi sitelen pona kulupu. 
 {% endsl %}
 {% endsplit %}
 
@@ -60,35 +61,37 @@ Download the [raw results for semantic variance](/content/common/semanticity.txt
 {% enden %}
 
 {% sp %}
-mi pana e lipu pi(wile sona) tawa ale kulupu  
-lipu la mi toki e nimi mute li wile sona e ni  
-zz sitelen tu pi(nimi ni^ )la sina kepeken seme  
-zz zz te ona nanpa wan to anu te ona nanpa tu to anu te ona tu to  
-zz kin la kon sona pi(sitelen tu) li seme  
+mi pana e lipu pi(alasa pilin) tawa kulupu suli  
+lipu ni^ li toki e sitelen nimi mute li wile sona e ni  
+zz selo tu ni< pi(sitelen nimi ni^ )la sina kepeken seme ni   
+te ona nanpa wan to anu te ona nanpa tu to anu te ona tu to  
+zz kin la toki pi(selo tu ni<) li seme ni  
 zz zz te ante ala to anu te ken ante to anu te ante a to
 
-jan mute li pana pona e sona tawa lipu zz mute pana li sama tu tu ale   
-mi nanpa e ni> zz jan wan ale la jan seme li kepeken sitelen tu li pilin e ni zz zz zz zz zz zz zz zz zz zz zz  sitelen tu li ken toki e kon ante  
-tan nanpa ni^ la mi kama sona e suli kepeken
+jan mute li pana pona e sona tawa lipu   
+mute pi(pana pona) li sama tu tu ale    
+mi nanpa e ni>  zz  jan wan ale la selo tu pi(sitelen nimi wan) la   
+zz jan pi(mute seme) li kepeken selo tu li pilin e ni zz zz zz zz   
+zz zz zz zz zz zz zz  selo tu li ken toki pi(kon ante)  
+tan nanpa ni^ la mi kama sona nanpa e selo toki nimi pi([suli kepeken](/method/tiers.html))
 
 - suli kepeken nanpa wan la  
-jan luka luka la jan luka tu tu li nasin ni^   
+jan luka luka la jan luka tu tu li ni   
 - suli kepeken nanpa tu la  
-jan luka luka la jan luka wan li nasin ni^ 
+jan luka luka la jan luka wan li ni 
 - suli kepeken nanpa tu wan la  
-jan luka luka la jan tu wan li nasin ni^
+jan luka luka la jan tu wan li ni
 
-mi kama sona e ni  
-zz suli kepeken nanpa tu wan la   
-zz zz sewi en sewi2 li ken sitelen e ijo ante  
-zz zz ni en ni> en ni< en ni^ li ken sitelen e ijo ante
 
-mi kama sona e ni> kin
-zz mute en mute2 li ken sitelen e ijo ante    
- taso kulupu pali li alasa insa e pilin li kama wile e ni  
- zz sitelen mute2 o lon ala nasin [jan uta ni:ko:]   
- zz zz zz o lon sitelen+pona kulupu kepeken nasin ni taso  
-zz zz zz zz luka en luka en luka en luka li kama wan ni> luka-luka_luka-luka
+mi kama sona e ni> zz suli kepeken nanpa tu wan la   
+zz [selo sewi pu](https://sona.pona.la/wiki/sewi#sitelen_pona) en [selo sewi2 poki](https://sona.pona.la/wiki/sewi#Secular_sewi) li ken toki e ijo ante  
+zz [ni en ni^ en ni> en ni<](https://sona.pona.la/wiki/ni#Directional_ni)  li ken toki e ijo ante
+
+kin selo mute linja en [selo mute2 luka](https://sona.pona.la/wiki/mute#sitelen_pona) li ken toki e ijo ante    
+ taso kulupu pali li kama alasa insa e pilin li kama wile e ni  
+ zz sitelen nimi sin pi(selo mute2) o lon ala lipu pi(sitelen+pona kulupu)  
+ zz zz ni^ li wile ala zz mi ken kepeken nasin ni  
+zz [sitelen+nasin](/common.html#tier1punctuation) li wan e luka e luka e luka e luka la  luka&luka&luka&luka
 
 o lukin e sona taso lon ni  
 zz [nimi mute la sitelen ante li ken ala ken toki e ijo ante](/content/common/semanticity.txt)
@@ -98,9 +101,9 @@ zz [nimi mute la sitelen ante li ken ala ken toki e ijo ante](/content/common/se
 
 
 {% sl %}
-mi pana e lipu pi wile sona tawa ale kulupu. lipu la mi toki e nimi mute li wile sona e ni: sitelen tu pi nimi ni la sina kepeken seme: ona nanpa wan anu ona nanpa tu anu ona tu? kin la, kon sona pi sitelen tu li seme: ante ala anu ken ante anu ante a?
+mi pana e lipu pi alasa pilin tawa kulupu suli. lipu la mi toki e sitelen nimi mute li wile sona e ni: selo tu ni pi sitelen nimi ni la sina kepeken seme: ona nanpa wan anu ona nanpa tu anu ona tu? kin la toki pi selo tu ni li seme: ante ala anu ken ante anu ante a?
 
-jan TWAMMMML li pana pona e sona tawa lipu. mi nanpa e ni: jan WA la ona pi mute seme li kepeken sitelen tu li pilin e ni: sitelen tu li ken toki e kon ante. tan nanpa ni la mi kama sona e suli kepeken. 
+jan TWAMMMML li pana pona e sona tawa lipu. mi nanpa e ni: jan WA la ona pi mute seme li kepeken selo tu li pilin e ni: selo tu li ken toki pi kon ante. tan nanpa ni la mi kama sona e [suli kepeken](/method/tiers.html). 
 
 - suli kepeken nanpa wan:  
 jan LL la jan LTT li ken ni   
@@ -109,9 +112,9 @@ jan LL la jan LW li ken ni
 - suli kepeken nanpa tu wan:  
 jan LL la jan TW li ken ni
 
-mi kama sona e ni:  suli kepeken nanpa tu wan la sitelen 'sewi' pi lipu pu en sitelen 'sewi' poki pi lipu pu ala li ken ante. kin la, suli kepeken nanpa tu wan la sitelen pi nimi 'ni' li ken tawa poka ante pi anpa ala li ken toki e poka ante ni.  
+mi kama sona e ni:  suli kepeken nanpa tu wan la [selo pu pi sitelen nimi 'sewi'](https://sona.pona.la/wiki/sewi#sitelen_pona) en [selo poki pi sitelen nimi 'sewi'](https://sona.pona.la/wiki/sewi#Secular_sewi) li ken toki e ijo ante. kin la, suli kepeken nanpa tu wan la [selo pi sitelen nimi 'ni' li ken tawa poka ante](https://sona.pona.la/wiki/ni#Directional_ni) pi anpa ala li ken toki e poka ante ni.  
 
-mi kama sona e ni kin: sitelen 'mute' pi linja tu wan en sitelen 'mute' pi luka jan tu tu li ante. taso kulupu pali li alasa insa e pilin li kama wile e ni: sitelen 'mute' pi luka jan tu tu o lon ala nasin Juniko o lon sitelen pona kulupu kepeken nasin ni taso: o sitelen e luka e luka e luka e luka. 
+mi kama sona e ni kin: sitelen nimi 'mute' la selo pi linja tu wan en [selo pi luka jan tu tu](https://sona.pona.la/wiki/mute#sitelen_pona) li ante. taso kulupu pali li alasa insa e pilin li kama wile ale e ni: sitelen nimi sin pi selo ni o lon ala, ni li wile ala. selo li ken lon sitelen pona kulupu kepeken nasin ni taso: [sitelen nasin](/common.html#tier1punctuation) li wan e luka e luka e luka e luka. 
 
 
 o lukin e sona taso: [nimi mute la sitelen ante li ken ala ken toki e ijo ante](/content/common/semanticity.txt).
