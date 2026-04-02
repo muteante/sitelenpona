@@ -23,29 +23,32 @@ permalink: /method/features.html
 {% en %}
 In Sitelen Pona, multiple styles of punctuation co-exist alongside each other. 
 
-For sentence-ending punctuation, some people elect to start a new line at the beginning of every sentence, some use a middle-dot, some use a Latin period. 
+This includes approaches to sentence-ending punctuation, glyph combination, quotative punctuation, and punctuation of proper names (in Sitelen Pona, proper names are  phonetically transcribed).
 
-In Toki Pona, proper names of languages, people and concepts are indicated through capitalization. In Sitelen Pona, proper names are  phonetically transcribed.  At least three different punctuation styles can be used to do so: the 2014 style, *[nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama)*, and [the tally system](https://sona.pona.la/wiki/nasin_sitelen_kalama_pi_linja_lili). 
-
-Approaches to [combining glyphs together](https://sona.pona.la/wiki/Combined_glyphs) also vary in frequency and in style, as do approaches to quotative punctuation. 
-
-In [standardizing](/common.html) the set of punctuation characters, the association needed to determine which of these many punctuation styles were [teachable](/method/tiers.html). 
+In [standardizing](/common.html) the set of punctuation characters, the association needed to determine which of these many punctuation styles were [teachable](/method/tiers.html).  
 {% enden %}
 {% sp %}
-sitelen+pona kulupu la  te sitelen&nasin to li sitelen pi(nimi ala ) li pana e sona namako
+sitelen+pona kulupu la  te sitelen&nasin to li toki e sitelen ni  
+ sitelen+nasin li sitelen ala e nimi zz sitelen+nasin li nasin e toki sitelen
 
-sitelen+pona la linja toki li pini la jan ante li toki e ni kepeken nasin ante  
-weka sitelen en linja sin en sike lili insa en sike lili pi( sitelen [la:sina:])   
-zz li ken pini e toki zz zz zz ni^ ale li sitelen&nasin  
-sitelen [la:sina:] la mi sitelen e [SITELEN zz LASINA] la   
-zz nasin pi(sitelen+pona) li ken pana e sona sama  zz jan ante li kepeken nasin ante  
-sitelen [la:sina:] en sitelen [la ala sina insa nasin ale] en sitelen [la,,sina,,,,]  
-zz ona ante li lon kinzz zz  ni^ ale li sitelen+nasin  zz zz te to li sitelen+nasin a
+tan pali pi(sitelen+nasin) la jan lukin li ken sona e ni  
+ zz linja  toki li open lon seme li pini lon seme  
+ zz sitelen seme li sitelen e nimi kalama sama nimi [jan en]   
+zz  jan mute li toki la toki seme li tan jan ante   
+kin la sitelen+nasin li ken kon zz  weka sitelen li sitelen+nasin  
+zz zz sitelen+nasin kon li wan e sitelen nimi tu  
+zz zz sitelen+nasin li ken poki e ijo lon te pi to
+
+kulupu pi(toki+pona) la sitelen nasin mute li lon li musi  
+taso [lipu pi sitelen+pona kulupu](/common.html) la  kulupu pali li wile sona e ni   
+zz sitelen nasin seme li [suli kepeken](/method/tiers.html) 
 {% endsp %}
 {% sl %}
-sitelen nasin pi sitelen pona li sitelen pi nimi ala. sitelen nasin li pana e sona namako.  
+sitelen pona kulupu la 'sitelen nasin' li toki e sitelen ni: ona li sitelen ala e nimi, ona li nasin e toki sitelen. 
 
-sitelen pona la linja toki li pini la jan ante li toki e ni kepeken nasin ante: weka sitelen en linja sin en sike lili insa en sike lili pi sitelen Lasina li ken pini e toki. ni ale li sitelen nasin. sitelen Lasina la mi ken sitelen e 'sitelen Lasina' la nasin seme pi sitelen pona li ken pana e sona sama? jan ante li kepeken nasin ante: nasin sitelen kalama en nasin sitelen pi lipu en nasin ante mute li lon kin. sitelen te en sitelen to li sitelen nasin. 
+tan pali pi sitelen nasin la jan lukin li ken sona e ni: linja  toki li open lon seme li pini lon seme, sitelen seme li sitelen e nimi kalama (nimi jan, en nimi ma, en nimi toki, en nimi ijo li ni). sitelen nasin li pana e sona ni: toki seme li kama tan ijo seme. kin la, sitelen nasin li ken kon. weka sitelen li sitelen nasin. sitelen nasin kon li wan e sitelen nimi tu. sitelen nasin li ken poki e ijo lon poka pi nimi 'pi.'
+
+kulupu pi toki pona la sitelen nasin mute li lon li musi. taso [lipu pi sitelen pona kulupu](/common.html) la  kulupu pali li wile sona e ni: sitelen nasin seme li [suli kepeken](/method/tiers.html). 
 {% endsl %}
 {% endsplit %}
 
@@ -82,26 +85,30 @@ Twenty-one of our members responded to the survey. The median response of member
 alasa tu li ni> zz alasa pilin pi(jan mute) en alasa pilin pi(jan sona)   
 lon open la kulupu pali li alasa e sona tan jan mute kepeken lipu   
 lipu li toki e sitelen+nasin mute luka luka luka tu wan kepeken nimi kepeken sitelen   
-zz li wile sona e ni> zz sina la ona seme pi(nasin ni^< ale) la  
-zz zz zz  te mi kepeken to zz zz zz zz te mi kepeken lon tenpo lili to   
-zz zz zz te mi wile ala kepeken lon tenpo mute to zz te mi kepeken ala to
+zz li wile sona e ni> zz ona seme pi(nasin ni^ ale) la     
+ sina te kepeken to  zz zz zz zzzz sina  te kepeken lon tenpo lili to     
+ sina te wile ala kepeken lon tenpo mute to  sina te kepeken ala to
 
 jan luka ale luka li pana e sona wile tawa lipu pi(alasa pilin)
 
-nanpa la mi wile sona e ni> zz jan wan ale la ona pi(mute seme) li kepeken  
-zz te mi kepeken to la  jan wan li kepeken    
-zz te mi kepeken lon tenpo lili  to la   
+mi kama sona e mute pi(jan kepeken) tawa sitelen+nasin ale kepeken nasin ni  
+zz te kepeken ala to la  jan ala li kepeken    
+zz te kepeken to la  jan wan li kepeken    
+zz te kepeken lon tenpo lili  to la   
 zz zz o kipisi tu wan e jan wan la kipisi tu li kepeken    
-zz te mi wile ala kepeken lon tenpo mute to la   
+zz te wile ala kepeken lon tenpo mute to la   
 zz zz o kipisi tu wan e jan wan la kipisi wan li kepeken 
 
 ni^ la mi ken nanpa e sitelen nasin ale kepeken nasin ni  
 zz jan wan ale la jan pi(mute seme) li kepeken  
-taso nanpa ale li lili mute a zz pilin la sona li ike zz mi pona e ona kepeken ni  
-lon la ale pi(sitelen+pona) li ken sitelen e nimi kepeken sitelen+nasin pi(lipu pu )   
-pali nanpa la mi suli e nanpa pi(sitelen+nasin) pi(lipu pu) tawa ni> zz jan ale li kepeken  
-zz ni^> la mi suli pi(mute sama) e sitelen nasin ante ale  
-tenpo ni la mi sona sin lili e suli kepeken pi(sitelen+nasin) ale tan alasa pilin pi(jan mute) 
+taso nanpa ale li lili mute a zz pilin la sona li ike  
+mi pona e ona kepeken ni  
+zz lon la ale pi(sitelen+pona) li ken sitelen e nimi kepeken sitelen+nasin pi(lipu pu )   
+zz ni^ la mi ken suli e nanpa pi(sitelen+nasin) pi(lipu pu) tawa ni  
+zz zz jan wan ale la jan wan ale li kepeken  
+zz ni^ la mi suli pi(mute sama) e sitelen+nasin ante ale  
+tenpo ni la mi sona e ni   
+zz alasa pilin pi(jan mute) la suli kepeken pi(sitelen+nasin) ale li seme
 
 - suli kepeken nanpa wan la  
 zz jan luka luka la jan luka tu tu li kepeken 
@@ -112,35 +119,37 @@ zz jan luka la jan tu wan li kepeken
 - suli ala la   
 zz jan luka luka la jan luka tu li kepeken ala
 
-mi lipu e sona nanpa ale ni^ li pana e lipu tawa jan ale pi(kulupu pali mi)
 
-alasa pilin pi(jan mute) li pini la mi kama alasa pilin pi(jan sona)  
-mi pana e lipu tawa jan sona ale pi(kulupu pali) li toki e ni  
-zz te sina pi(sona mute) o zz sitelen+nasin ale li suli nanpa seme tawa kepeken pi(kulupu suli)   
-zz zz zz zz zz zz zz zz o pana e pilin to  
-jan sona li pana e pilin la ona li ken kepeken sona pi(alasa kulupu nanpa wan) lon wile  
-zz zz zz zz zz zz zz zz li ken kepeken ala lon wile 
+mi kama e lipu e sona tan alasa pilin pi(jan mute)   
+zz li pana e lipu tawa jan ale pi(kulupu pali mi) 
 
-kulupu la ona mute wan pi(sona mute) li pana e pilin tawa lipu alasa pi(jan sona)  
- mi wan nanpa e pilin li alasa e insa kepeken ni> zz    nanpa ale li lon poka lon lipu la  
-zz nanpa lili li lon open la nanpa suli  li lon pini la nanpa  seme li insa lon lipu  
-zz nasin li ni> ala zz mi wan nanpa e nanpa ale li kipisi pi(mute jan) e nanpa suli  
-nasa wan li  ni  
- zz open la sike lili pi(sitelen [la:sina:] )li ijo pi(suli kepeken nanpa tu wan)  
-zz taso sike lili ni^> en sike insa te . to li pali sama a li selo sitelen ante la   
-zz zz kulupu li alasa insa sin e pilin li kama wile weka e ona
+alasa pilin pi jan mute li pini la alasa pilin pi(jan sona) li open   
+mi pana e lipu pi(wile sona) tawa jan sona ale pi(kulupu pali)    
+zz te  sitelen+nasin ale ni< o kama suli kepeken nanpa seme lon lipu pi(sitelen+pona kulupu)    
+zz zz o pana e sona sina  zz sina ken sama alasa pilin pi(jan mute)   
+zz zz sina ken sama ala alasa pilin pi(jan mute) zz o wile sina to  
+
+
+alasa pilin pi jan sona la mi mute wan pi(kulupu pali) li pana e sona  
+ mi wan e nanpa ale li alasa e insa kepeken ni  
+ zz  nanpa ale li lon linja ante pi(lipu kasi wan) la  
+zz zz nanpa lili li lon linja open la nanpa suli  li lon linja pini la    
+zz zz zz nanpa seme li linja insa   zz nasin li ni ala   
+zz mi wan nanpa e nanpa ale li kipisi pi(mute jan) e nanpa suli  
+sona pi(sitelen+nasin wan ni) li tan ala nasin nanpa ni^     
+nanpa la sike lili pi(sitelen [la:sina:] )li suli nanpa tu wan  
+zz taso sike ni^ en sike insa te . to li selo sama pi(pali ante)  
+zz ni^ la kulupu li alasa insa sin e pilin li kama wile ale e ni  
+zz zz sike lili pi(sitelen [la:sina:] ) li weka
 {% endsp %}
 {% sl %}
 alasa li tu: alasa pilin pi jan mute en alasa pilin pi jan sona. lon open la, kulupu pali pi sitelen pona li alasa e sona tan jan mute kepeken lipu. lipu li toki e nasin mute ken pi sitelen pona. lipu li toki e nasin ni MLLLTW kepeken nimi kepeken sitelen li wile sona e ni: ona seme pi nasin ni ale la (#W) sina kepeken,  (#T) sina kepeken lon tenpo lili, (#TW) sina wile ala kepeken lon tenpo mute, (#TT) sina kepeken ala. 
 
 ona LAL li pana e sona wile tawa lipu pi alasa pilin. 
 
-pali nanpa la mi wile sona e ni: jan WA la ona pi mute seme li kepeken:   
--'mi kepeken' la jan wan li kepeken  
--'mi kepeken lon tenpo lili' la o kipisi tu wan e jan wan la kipisi tu li kepeken  
--'mi wile ala kepeken lon tenpo mute' la o kipisi tu wan e jan wan la kipisi wan li kepeken 
+pali nanpa la mi wile sona e ni: jan pi mute seme li kepeken. 'mi kepeken' la jan wan li kepeken  'mi kepeken lon tenpo lili' la o kipisi tu wan e jan wan la kipisi tu li kepeken. 'mi wile ala kepeken lon tenpo mute' la o kipisi tu wan e jan wan la kipisi wan li kepeken. 
 
-tenpo ni la mi ken nanpa e sitelen nasin ale kepeken nasin ni: jan wan ale la jan pi mute ni li kepeken. taso nanpa ale li lili mute a. pilin la sona li ike. mi pona e ona kepeken nasin ni: lon la ale pi sitelen pona li ken sitelen e nimi kepeken sitelen nasin pi lipu pu. pali nanpa la mi kama e ni: o suli e nanpa pi sitelen nasin pi lipu pu tawa ni: jan ale li kepeken. ni la o suli pi mute sama e sitelen nasin ante ale. tenpo ni la, sitelen nasin ale li lon poki pi suli kepeken tan alasa pilin pi jan mute. 
+tenpo ni la mi ken nanpa e sitelen nasin ale kepeken nasin ni: jan wan ale la jan pi mute seme li kepeken. taso nanpa ale li lili mute a. pilin la sona li ike. mi pona e ona kepeken nasin ni: lon la ale pi sitelen pona li ken sitelen e nimi kepeken sitelen nasin pi lipu pu. pali nanpa la mi kama e ni: o suli e nanpa pi sitelen nasin pi lipu pu tawa ni: jan ale li kepeken. ni la o suli pi mute sama e sitelen nasin ante ale. tenpo ni la, sitelen nasin ale li lon poki pi suli kepeken tan alasa pilin pi jan mute. 
 
 - suli kepeken nanpa wan:   
 jan LL la jan LTT li kepeken 
