@@ -2,9 +2,10 @@
 title: "ASCII Input Standard (v1.0)"
 sLTitle: todo
 spTitle: todo
-permalink: ascii.html
 description:  "This is a standard for typing Sitelen Pona using ASCII." 
 cover_image: false
+eleventyExcludeFromCollections: true
+permalink: false
 ---
 
 <style>
