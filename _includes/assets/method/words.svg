@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+role="img"
    width="1200"
    height="630"
    viewBox="0 0 317.5 166.6875"
@@ -16,6 +17,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+      <title>{{ alt }}</title>
+
   <sodipodi:namedview
      id="namedview1"
      pagecolor="#ffffff"

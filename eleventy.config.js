@@ -33,7 +33,7 @@ export default async function (eleventyConfig) {
         });
     });
 
-
+	eleventyConfig.addFilter("svg_alt_data", function(alt) { return { "alt": alt} });
     eleventyConfig.addFilter("nnp", async function (nanpa) {
         var nanpas = parseInt(nanpa.toString().split(".")[0]);
         var sulinanpa = Math.floor((nanpas.toString().length - 1) / 2);

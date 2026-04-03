@@ -531,10 +531,12 @@
             %}
         <div>
     </h1>
+    
+    {% assign svg_alt = alt | svg_alt_data %}
 
     {% if alt and cover_image %}
     {% assign svg_inline = "./_includes/assets/" | append: page.filePathStem | replace: '/content/','' | append: ".svg" %}
-    {% renderFile svg_inline, alt, "html" %}
+    {% renderFile svg_inline, svg_alt, "liquid" %}
     {% endif %}
 
      
