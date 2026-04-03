@@ -45,7 +45,7 @@ zz lon [nasin suli pi kepeken kulupu](/method/tiers.html) la selo ni^ mute li sa
 
 {% split %}
 {% en %}
-The association invited survey respondents to describe whether they used certain variant glyph pairs. If they used both, the association asked whether the the meaning of the glyphs were never, sometimes, or always different.
+The association invited survey respondents to describe whether they used certain variant glyph pairs. If they used both, the association asked whether the meaning of the glyphs were never, sometimes, or always different.
 
 After filtering, members analyzed 385 responses. [Tiers of Teachability](/method/tiers.html) were set by what percent of respondants indicated that they (1) used both glyphs and (2) considered the meanings of the glyphs to be either sometimes *or* always different. The association used these thresholds:
 
