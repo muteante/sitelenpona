@@ -43,6 +43,19 @@ cover_image: true
         position: relative;
         padding-top: 4rem;
     }
+
+    /*this fixes a tiny bit of weird offset on sitelen pona only mode*/
+    @media (min-width: 700px){
+    [data-selected-language="tok"][data-selected-script="sp"]
+        .year-marker{
+            width: 20rem;
+            left: unset;
+            text-align: left;
+            padding-left: 2rem;
+            right: unset;
+    }
+
+    }
 </style>
 
 
