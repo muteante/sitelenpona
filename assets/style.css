@@ -175,6 +175,16 @@ h2.split>p {
 }
 
 
+[data-selected-language="tok"][data-selected-script="sp"]
+main .split{
+        justify-items: center;
+
+}
+[data-selected-language="tok"][data-selected-script="sp"]
+main h2.split {
+    justify-items: center;
+
+}
 
 
 a {
