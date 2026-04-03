@@ -351,9 +351,8 @@ tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewik
 
 
 {% splith %}
-    {% en %}<span class="year-marker"><span lang="en">2026</span><span class="sp">tenpo sike ni</span><span class="sl">sike #MAMLW</span></span> 
-     The Year of Sitelen Pona
-{% enden %}
+<span class="year-marker"><span lang="en">2026</span><span class="sp">tenpo sike ni</span><span class="sl">sike #MAMLW</span></span> 
+    {% en %}The Year of Sitelen Pona  {% enden %}
     {% sp %}tenpo sike pi sitelen pona{% endsp %}
      {% sl %}tenpo sike pi sitelen pona{% endsl %}
 
