@@ -50,7 +50,7 @@ permalink: ascii.html
         max-width: 40rem;
     }
 </style>
-<div markdown="1" class="en">
+<div markdown="1" class="en" style="margin: auto">
 
 # ASCII Input Standard  
 
