@@ -4,7 +4,6 @@ sLTitle: todo
 spTitle: todo
 description:  "This is a standard for typing Sitelen Pona using ASCII." 
 cover_image: false
-eleventyExcludeFromCollections: true
 permalink: ascii.html
 ---
 

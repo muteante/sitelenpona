@@ -425,11 +425,12 @@ This is how the SPPTA is uncovering common and representative features of Sitele
 As the system has not yet been accepted into Unicode, codepoints for **Common Sitelen Pona** are  coordinated through the Under-ConScript Unicode Registry within codes available in Unicode's Private Use Area.
     
 </div>
-<div class="card forthcoming">
+<div class="card">
 
-### ASCII Input Standard
+### [ASCII Input Standard](/ascii.html)
 
-Publication coming soon...
+SPPTA's standard for writing Common Sitelen Pona through ASCII input, already implemented across 130+ fonts. 
+
 </div>
 </div>
 </div>
@@ -463,11 +464,14 @@ kulupu pali pi sitelen pona li kama sona e sitelen+pona kulupu kepeken nasin ni^
 sitelen+pona kulupu la kulupu [jan uta ni:ko:] li awen kama ala lawa e nanpa pi(sitelen ilo). ni< la kulupu [jaki uta sitelen.sama.] li lawa pi(pali ni) li pana e nanpa ilo pi(sitelen+pona kulupu) tawa nanpa ni> pi kulupu [jan uta ni:ko:]zz kulupu lili li pali e nasin namako pi(lawa wawa ala) kepeken ona. 
 
 </div>
-<div class="card forthcoming">
+<div class="card">
 
 ### sitelen+pona <br>pi(nasin [akesi su:kili.]) 
 
-lipu+ni^ li kama zz o zz awen zz lili zz taso
+### [sitelen+pona <br> pi nasin ([akesi su:kili.])](/ascii.html)
+
+kulupu pali li pali e lipu nasin tawa sitelen+pona pi (nasin [akesi su:kili.]). nasin wan ale mute luka luka  pi(sitelen+pona ilo) li kepeken nasin pi(lipu ni< a).
+
 </div>
 </div>
 </div>
@@ -502,11 +506,12 @@ kulupu pali pi sitelen pona li  kama sona e sitelen pona kulupu kepeken nasin ni
 sitelen pona kulupu la kulupu Juniko li awen kama ala lawa e nanpa pi sitelen ilo. ni la kulupu Jusisa li lawa pi pali ni li pana e nanpa ilo pi sitelen pona kulupu tawa nanpa ni pi kulupu Juniko: kulupu lili li pali e nasin pi lawa wawa ala kepeken ona. 
 
 </div>
-<div class="card forthcoming">
+<div class="card">
 
-### sitelen pona pi nasin Asuki 
+### [sitelen pona <br> pi nasin Asuki](/ascii.html)
 
-lipu ni li kama lon tenpo poka...
+kulupu pali li pali e lipu nasin tawa sitelen pona pi nasin Asuki. nasin WAMLL pi sitelen pona ilo li kepeken nasin pi lipu ni a.
+
 </div>
 </div>
 </div>

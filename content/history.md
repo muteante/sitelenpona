@@ -296,7 +296,7 @@ Some matters were resolved by alternative processes. One complexity that arose w
 
 Later, the association studied specific [punctuation marks and other features](/method/features.html) of Sitelen Pona in a similar manner, and again determined which would be included in Common Sitelen Pona via vote.
 
-In addition to working on Common Sitelen Pona, the font-makers of the association worked to coordinate an ASCII input standard, which would unify the use of ASCII text for writing Sitelen Pona across all implementing fonts.
+In addition to working on Common Sitelen Pona, the font-makers of the association worked to coordinate an [ASCII input standard](/ascii.html), which  seeks to unify the use of ASCII text for writing Sitelen Pona across all implementing fonts.
 {% enden %}
 
 {% sp %}
@@ -338,7 +338,7 @@ zz nasin pini li kama tan wile suli pi(jan sona mute kulupu)
 
 pali namako wan pi(nasin [jan uta ni: ko:] ala) la   
 zz jan pali nasin pi kulupu pali li pali e  lipu sin    
-zz te  lipu pi(sitelen+pona) pi(nasin [a:su:kili.] to   
+zz te  [lipu pi(sitelen+pona) pi(nasin [a:su:kili.]](/ascii.html) to   
 ilo li sitelen e sitelen+pona kepeken [nasin [a:su:kili.])](https://tok.wikipedia.org/wiki/sitelen_Asuki) la     
 zz  nasin sitelen mute li wan ala li sitelen  e ijo sama kepeken sitelen ante   
 lipu sin pi(kulupu pali) li wile wan e nasin 
@@ -356,7 +356,7 @@ wile sona ante pi mute lili la mi kama e sona tan nasin ante. wile sona nasa wan
 
 tenpo ante la kulupu pali li alasa e sona ni: sitelen pona la kulupu  li nasin e sitelen nimi kepeken seme? sitelen nasin seme li suli tawa kepeken kulupu li wile lon sitelen pona kulupu? open la mi kulupu li pana e lipu pi alasa pilin tawa jan ale kulupu. pini pi nasin sama la jan sona mute pi kulupu pali li lukin e lipu pilin li toki e wile lon ni: [sitelen nasin seme o lon lipu pi sitelen pona kulupu](/method/features.html).
 
-pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: sitelen pona pi nasin Asuki o kepeken nasin wan seme.
+pali namako wan pi nasin Juniko ala la kulupu pali pi sitelen pona li pali e lipu ni: [sitelen pona pi nasin Asuki o kepeken nasin wan seme](/ascii.html).
 tenpo suli la ilo li sitelen e toki pona kepeken [nasin sitelen sona pi ma Mewika (nasin Asuki)](https://tok.wikipedia.org/wiki/sitelen_Asuki) la nasin li wan ala. nasin ilo ante pi sitelen pona li sitelen e ijo sama kepeken sitelen ante pi nasin Asuki.  lipu sin pi kulupu pali li wile wan e nasin.
 {% endsl %}
 

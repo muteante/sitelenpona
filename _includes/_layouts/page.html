@@ -19,9 +19,9 @@
     {% endif %}
     <meta property="og:title" content="{{ title }}" />
     <meta property="og:url" content="https://sitelenpona.net{{page.url}}" />
-    <meta name="description" content="{{description}}(kepeken toki pona kin)">
+    <meta name="description" content="{{description}} {% if spTitle != 'todo' %}(kepeken toki pona kin.){% endif %}">
     <meta property="og:description" 
-  content="{{description}} (lipu li ken toki pona kin.)" />
+  content="{{description}} {% if spTitle != 'todo' %}(lipu li ken toki pona kin.){% endif %}" />
     <meta property="og:site_name" content="Sitelen Pona Publishers and Typographers Association" />
     {% if alt %}
     <meta property="og:image" content="{{baseUrl}}/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.png" />
