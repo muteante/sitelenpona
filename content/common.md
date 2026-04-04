@@ -429,7 +429,7 @@ As the system has not yet been accepted into Unicode, codepoints for **Common Si
 
 ### [ASCII Input Standard](/ascii.html)
 
-SPPTA's standard for writing Common Sitelen Pona through ASCII input, already implemented across 130+ fonts. 
+SPPTA's standard for writing Sitelen Pona  through ASCII input, already implemented across 130+ fonts. 
 
 </div>
 </div>

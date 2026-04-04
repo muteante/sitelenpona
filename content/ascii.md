@@ -124,7 +124,7 @@ These ASCII symbols aren't standardized by this document, and may be repurposed 
 
 To wrap a glyph backwards around other words, use `{` and `}`. For example, "mi tawa tomo mi" might be written `mi tawa {tomo}mi`. (Many font makers use `{` and `}` for other purposes, such as custom cartouches, and that isn't a violation of this standard.)
 
-To type dakuten in a cartouche, use `"` and `*`. For example, "jan Itan" might be written `jan [ijo" tan*]`.
+To type [dakuten](https://sona.pona.la/wiki/User:Waso_Keli/kalama_wan_nimi) in a cartouche, use `"` and `*`. For example, "jan Itan" might be written `jan [ijo" tan*]`.
 
 To manually insert a combining cartouche extension (the middle of a cartouche), use `=`. To manually insert a combining long glyph extension (the middle of long pi), use `_`. Combining extensions are applied to the preceding glyph, so `mi toki= pona` shows "toki" with a line above and below it.
 
