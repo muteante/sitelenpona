@@ -338,8 +338,8 @@ zz nasin pini li kama tan wile suli pi(jan sona mute kulupu)
 
 pali namako wan pi(nasin [jan uta ni: ko:] ala) la   
 zz jan pali nasin pi kulupu pali li pali e  lipu sin    
-zz te  [lipu pi(sitelen+pona) pi(nasin [a:su:kili.]](/ascii.html) to   
-ilo li sitelen e sitelen+pona kepeken [nasin [a:su:kili.])](https://tok.wikipedia.org/wiki/sitelen_Asuki) la     
+zz te  [lipu pi(sitelen+pona) pi(nasin [akesi su:kili.]](/ascii.html) to   
+ilo li sitelen e sitelen+pona kepeken [nasin [akesi su:kili.])](https://tok.wikipedia.org/wiki/sitelen_Asuki) la     
 zz  nasin sitelen mute li wan ala li sitelen  e ijo sama kepeken sitelen ante   
 lipu sin pi(kulupu pali) li wile wan e nasin 
 

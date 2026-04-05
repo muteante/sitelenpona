@@ -465,8 +465,6 @@ sitelen+pona kulupu la kulupu [jan uta ni:ko:] li awen kama ala lawa e nanpa pi(
 </div>
 <div class="card">
 
-### sitelen+pona <br>pi(nasin [akesi su:kili.]) 
-
 ### [sitelen+pona <br> pi nasin ([akesi su:kili.])](/ascii.html)
 
 kulupu pali li pali e lipu nasin tawa sitelen+pona pi (nasin [akesi su:kili.]). nasin wan ale mute luka luka  pi(sitelen+pona ilo) li kepeken nasin pi(lipu ni< a).
