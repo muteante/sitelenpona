@@ -1,0 +1,185 @@
+---
+title: What's New?
+sLTitle: seme li sin?
+spTitle: ijo sin
+permalink: sin.html
+description:  ". "
+alt: ""
+cover_image: false
+
+---
+
+<style>
+
+    .tiny-toggle{
+        display: none;
+        flex-wrap: wrap;
+        flex-direction: column;
+        min-width: 6rem;
+        justify-content:center;
+        padding-left:1em;
+         justify-self: end;
+
+    }
+    [data-selected-language="bilingual"] :has(.tiny-toggle #sp-tog:checked) .show-tok, 
+    [data-selected-language="bilingual"] :has(.tiny-toggle #en-tog:checked) .show-en{
+        display: block;
+    }
+    [data-selected-language="bilingual"] :has(.tiny-toggle #en-tog:checked) .show-tok, 
+    [data-selected-language="bilingual"] :has(.tiny-toggle #sp-tog:checked) .show-en{
+        display: none;
+    }
+
+    [data-selected-language="bilingual"] .tiny-toggle{
+        display: flex;
+    }
+    [data-selected-language="en"] .show-tok{
+        display: none;
+    }
+    [data-selected-language="tok"] .show-en{
+        display: none;
+    }
+
+    article{
+        max-width: 50rem;
+        margin: 0 auto;
+        border: 0.2em solid var(--kule-5);
+        border-radius: 2rem;
+    }
+    .info{
+        padding: 1em 2em 0.5em 2em;
+        background-color: var(--kule-1);
+        border-top-left-radius: 2rem;
+        border-top-right-radius: 2rem;
+
+    } 
+    .info h2{
+        border: 0;
+        text-align: left;
+        display: block;
+        width: 100%;
+        grid-column: 1 / 6;
+        font-variation-settings: initial;
+
+    }
+    .info {
+        display: grid;
+        grid-template-columns: auto auto auto auto 1fr;
+        row-gap: 1em;
+        column-gap: 0.75em;
+        align-items: center;
+        justify-content: start;
+        
+    }
+    .author-date{
+        display: flex;
+        flex-wrap: wrap;
+        grid-column: 1 / 5;
+        grid-row: 2 / 3;
+    }
+    .info a {
+        width: max-content;
+    }
+    .article-content{
+        padding: 0.5em 2em;
+        border-top: 0.2em solid var(--kule-2);
+
+    }
+    @media (max-width: 40rem){
+      
+
+    }
+
+
+</style>
+{% for article in collections.sin | log %}
+<article>
+<div class="info">
+    <h2>
+        {%- include "partials/ui-translate.liquid",
+                    enName: article.data.title,
+                    spName: article.data.spTitle,
+                    sLName: article.data.sLTitle -%}
+    </h2>
+        <div class="author-date">
+            <span class="article-author">
+                {%- include "partials/ui-translate.liquid",
+                                enName: "by ",
+                                spName: "",
+                                sLName: "tan "
+                -%}<a href="/members.html#{{ linkAuthor }}">{%- include "partials/ui-translate.liquid",
+                                enName: article.data.enAuthor,
+                                spName: article.data.spAuthor,
+                                sLName: article.data.sLAuthor -%}</a>
+            </span>
+            <span class="date">
+                &nbsp;
+                {%- assign dates = article.date | postDate -%}
+                <span class="ui-en" lang="en">
+                (posted {{ dates.en.year }}-{{ dates.en.month }}-{{ dates.en.day }})</span>
+                <span class="ui-tok" lang="tok">
+                    <span class="ui-sp">
+                    li toki lon sike nanpa {{ dates.sp.year }} lon mun nanpa {{ dates.sp.month }} lon suno nanpa {{ dates.sp.day }}</span>
+                    <span class="ui-sl">
+                    (lon sike#{{ dates.sL.year }}-mun#{{ dates.sL.month }}-suno#{{ dates.sL.day }})</span>
+                </span>
+            </span>
+        </div>
+        <div class="tiny-toggle">
+  
+     <label lang="tok" for="en-tog" style="margin-right: 1rem">   <input type="radio" id="en-tog" name="toki" checked >English</label><br>
+     <label lang="tok" class="sp" for="sp-tog"><input type="radio" id="sp-tog" name="toki">toki pona</label><br>
+ </div>
+     
+
+
+</div>
+<div class="article-content">
+
+
+    {% assign folderPath = article.page.inputPath | split: "/" | slice: 0, -1 | join: "/" %}
+
+{% assign dirFiles = collections.all | where_exp: "i", "i.inputPath contains folderPath" %}
+
+    {% assign en_item = dirFiles | where_exp: "i", "i.inputPath contains 'en.md'" | first %}
+    {% assign sp_item = dirFiles | where_exp: "i", "i.inputPath contains 'sp.md'" | first %}
+    {% assign sl_item = dirFiles | where_exp: "i", "i.inputPath contains 'sl.md'" | first %}
+
+    {% assign me = en_item.content | replace: "h3","h5" |  replace: "h2","h4" | replace: "h1","h3" %}
+    <div class="show-en">
+        
+        {{ me }}
+    
+    </div>
+
+    <div class="show-tok">
+    {% assign me = sl_item.content | replace: "h3","h5" |  replace: "h2","h4" | replace: "h1","h3" %}
+    <div class="sl">
+        
+        {{ me }}
+    
+    </div>
+
+
+
+    {% assign me = sp_item.content | replace: "h3","h5" |  replace: "h2","h4" | replace: "h1","h3" %}
+    <div class="sp">
+        
+        {{ me }}
+    
+    </div>
+    </div>
+
+
+
+
+    
+
+
+</div>
+
+
+
+</article>
+
+{% endfor %}

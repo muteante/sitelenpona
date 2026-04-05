@@ -227,10 +227,10 @@ main :is(img, svg) {
 [data-selected-language="tok"] .split:not(h1, footer) [lang="en"]{
     display: none;
 }
-[data-selected-script="sp"] :is(.split, .splith, .condensed) .sl {
+[data-selected-script="sp"] :is(.split, .splith, .condensed, .article-content) .sl {
     display: none;
 }
-[data-selected-script="sl"] :is(.split, .splith, .condensed) .sp {
+[data-selected-script="sl"] :is(.split, .splith, .condensed, .article-content) .sp {
     display: none;
 }
 

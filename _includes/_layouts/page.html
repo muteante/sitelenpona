@@ -331,33 +331,69 @@
                     display: none
                 }
             }
-            @media (width < 860px) and (max-height: 35rem){
-            #menu nav{
-                display: grid;
-                grid-template-columns: max-content max-content;
-                gap: 1em;
-                margin-left: 1rem;
-            }
-            #menu .nav-category{
-                grid-row: 1 / 2;
-                text-align: left;
-            }
-            #menu nav ul {
-                margin: 0;
-                padding: 0;
-                text-align: left;
+            @media (max-width: 1070px) and (max-height: 40rem){
+                #menu nav{
+                    display: grid;
+                    grid-template-columns: max-content max-content;
+                    column-gap: 1em;
+                    row-gap: 0.25em;
+                    margin-left: 1rem;
+                }
+                #menu .nav-category:last-of-type{
+                    grid-column: 1 / 2;
+                    grid-row: 3 / 4
+                }
+                #menu ul:last-of-type{
+                    grid-column: 1 / 2;
+                    grid-row: 4 / 5
+                }
+                
+                #menu .nav-category{
+                    text-align: left;
+                    max-width: 10rem;
+                    display: flex;
+                    max-height: 2.5rem
 
-            }
-            #menu{
-                z-index: 100;
-            }
-            #menu label:first-of-type{
-                margin-top: 0.5rem;
-            }
+                }
+                #menu nav ul {
+                    margin: 0;
+                    padding: 0;
+                    text-align: left;
+
+                }
+                #menu .nav-category:nth-of-type(2){
+                    grid-column: 2 / 3;
+                    grid-row: 1 / 2;
+
+                }
+                #menu ul:nth-of-type(2){
+                    grid-column: 2 / 3;
+                    grid-row: 2 / 3
+                }
+                #menu{
+                    z-index: 100;
+                }
+                #menu label:first-of-type{
+                    margin-top: 0.5rem;
+                }
+                #menu label{
+                    position: relative;
+                    top: -8rem;
+                }
             }
             @media (width < 400px) and (max-height: 35rem){
-                #menu .nav-category{
-                    width: 8rem;
+                #menu nav ul {
+                    max-width: 10rem;
+                    min-width: 8rem;
+
+                }
+                #menu .nav-category:nth-of-type(2){
+                    max-width: 11rem;
+
+                }
+                #menu nav{
+                    column-gap: 0.5em;    
+
                 }
             }
 

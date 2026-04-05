@@ -33,9 +33,11 @@ export default async function (eleventyConfig) {
             }
         });
     });
-
-    eleventyConfig.addFilter("svg_alt_data", function(alt) { return { "alt": alt} });
+    eleventyConfig.addFilter("svg_alt_data", function (alt) { return { "alt": alt } });
     eleventyConfig.addFilter("nnp", async function (nanpa) {
+        return nnp(nanpa);
+    });
+    function nnp(nanpa){
         var nanpas = parseInt(nanpa.toString().split(".")[0]);
         var sulinanpa = Math.floor((nanpas.toString().length - 1) / 2);
         var nanpai = nanpas;
@@ -50,16 +52,41 @@ export default async function (eleventyConfig) {
             if (i > 0) nanpanimi += "ale ";
             nanpai = nanpai % (100 ** i);
         }
-
         return nanpanimi;
+    }
+    eleventyConfig.addFilter("postDate", (dateObj) => {
+        
+        const d = new Date(dateObj);
+        const year = d.getUTCFullYear();      // Use UTC methods
+        const month = String(d.getUTCMonth() + 1);
+        const day = String(d.getUTCDate());
+        let en = {
+            year: year,
+            month: month.padStart(2, "0"),
+            day: day.padStart(2, "0"),
+
+            
+        };
+         let sp = {
+            year: nnp(year),
+            month: nnp(month),
+            day: nnp(day),
+        }
+        let sL = {
+            year: sp.year.split(' ').map(w => w[0]).join('').toUpperCase(),
+            month: sp.month.split(' ').map(w => w[0]).join('').toUpperCase(),
+            day: sp.day.split(' ').map(w => w[0]).join('').toUpperCase()
+        }
+        let dates = { en: en, sp: sp, sL: sL}
+        return dates;
     });
 
     eleventyConfig.addCollection("sorted_method", function (collectionsApi) {
-        let unsorted =  collectionsApi.getFilteredByTag("method");
+        let unsorted = collectionsApi.getFilteredByTag("method");
         let sorted = unsorted.sort((a, b) => {
             if (a.data.index < b.data.index) return -1; else return 1;
         })
-        return sorted; 
+        return sorted;
     });
     eleventyConfig.addPlugin(RenderPlugin);
 
