@@ -818,7 +818,7 @@
     "input": "luka+luka",
     "technical_name": "SITELEN PONA NESTING JOINER",
     "codepoint": "F1996",
-    "explain": "This invisible character is used to combine two glyphs by stacking the second glyph over the first.",
+    "explain": "This invisible character is used to combine two glyphs by writing the second glyph inside the first.",
     "explainsl": "sitelen ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa insa pi sitelen nanpa wan.",
     "explainsp": "sitelen+ni kon li wan e sitelen tu la nasin sitelen ilo li pana e sitelen nanpa tu tawa insa pi(sitelen nanpa wan).",
 
@@ -988,7 +988,7 @@
     "example-after": "a. nasin pi ma[poka.] li wawa."
    },
    {
-    "name": "semicolon",
+    "name": "colon",
     "slname": "sitelen pi sike lili tu",
     "spname": "sitelen pi(sike lili tu)",
     "input": ":",
@@ -998,7 +998,7 @@
     "explainsl": "poki pi nimi kalama la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi nimi wan kepeken sitelen pi sike lili tu.",
     "explainsp": "poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi(nimi wan) kepeken sitelen pi(sike lili tu).",
 
-    "example-before": "ma 'cartouche-start' a meli 'semicolon' 'middledot' kala 'middledot' 'cartouche-end' seli",
+    "example-before": "ma 'cartouche-start' a meli 'colon' 'middledot' kala 'middledot' 'cartouche-end' seli",
     "example-beforetok": "ma 'nimi-open' a meli 'sike-tu' 'sike-insa' kala 'sike-insa' 'nimi-pini' seli",
 
     "example-after": "ma [a meli: kala.] seli"

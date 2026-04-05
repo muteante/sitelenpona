@@ -6,7 +6,7 @@ tags: method
 layout: '_layouts/method.html'
 index: 6
 description:  "Discussing the technical rationale for merging or separating codepoints required for punctuation in Common Sitelen Pona."
-alt:  "zero-width joiner and left bracket are colourfully contrasted against semicolon and stacking joiner."
+alt:  "zero-width joiner and left bracket are colourfully contrasted against colon and stacking joiner."
 cover_image: true
 permalink: /method/codepoints.html
 ---
