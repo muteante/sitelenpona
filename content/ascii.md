@@ -38,6 +38,121 @@ permalink: ascii.html
     .sl {
         max-width: 40rem;
     }
+
+
+.ascii-char :is(td, th){
+    padding: .5rem 1rem .5rem .5rem;
+    vertical-align: top;
+}
+.ascii-char td:has(.input){
+    white-space: nowrap;
+}
+thead {
+    border-bottom: solid 2px var(--pimeja);
+}
+.ascii-char{
+    margin-block: 2em;
+    text-align: left;
+    border-collapse: collapse
+}
+.ascii-char[lang="en"]{
+    width: var(--en-split);
+    max-width: 100%;
+}
+tr.even{
+    background-color: var(--kule-1);
+}
+td:has(.input){
+    max-width: 13rem;
+    display: flex;
+    flex-direction: row;
+    gap: 0.3rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: start;
+    padding-inline: 0;
+}
+thead th:nth-of-type(3){
+        text-align: center;
+    }
+
+.input {
+    font-family: monospace;
+    display: inline;
+    font-size: 1rem;
+    width: min-content;
+    color: var(--pimeja);
+    background-color: var(--kule-1);
+    border: 0.05rem solid var(--kule-7);
+    padding: 0.2em;
+}
+tr.even .input{
+    background-color: var(--walo);
+    color: var(--kule-8);
+
+}
+
+
+caption {
+    text-align: left;
+    padding-left: .5rem;
+}
+
+@media (max-width: 39rem){
+    .ascii-char {
+        width: 100%;
+    }
+    .ascii-char tr{
+        display: grid;
+        grid-template-columns: 0.5fr 12rem 0.5fr 1.2fr;
+    }
+    :is(td):has(.input), thead th:nth-of-type(3){
+        grid-column: 2 / 3;
+
+    }
+    thead th:nth-of-type(3){
+        text-align: left;
+    }
+
+
+    :is(td):first-of-type, thead th:nth-of-type(2){
+        grid-column: 3 / 4;
+    }
+    :is(td, thead th):last-of-type{
+        grid-column: 4/ 5; 
+
+    }
+    thead th{
+        grid-row: 1 / 2;
+    }
+    thead th:first-of-type{
+        position: absolute;
+        opacity: 0;
+    }
+    tbody td{
+        grid-row: 2 / 3;
+    }
+
+    .ascii-char tbody th{
+        grid-column: 1 / 5;
+        font-size: 1.2rem;
+        padding-block: 1rem 0.5rem;
+        justify-self: start;
+    }
+    .input {
+        font-size: 0.9rem;
+    }
+}
+@media (max-width: 554px){
+        .ascii-char tr{
+        display: grid;
+        grid-template-columns: 0rem 12rem min-content 1.2fr;
+        }
+}
+
+
+
+
 </style>
 <div markdown="1" class="en" style="margin: auto">
 
@@ -122,117 +237,48 @@ The following list is [maintained by kulupu Linku](https://github.com/lipu-linku
 
 For every glyph included in "Toki Pona: The Language of Good" (2014), `word01` produces the original version of that glyph. For example, `sama01` produces an equals sign.
 
-- `a01`: pu a
-- `a03` (not a typo): triple-stick a
-- `akesi01`: 6 legged akesi
-- `akesi02`: 4 legged akesi
-- `ante01`: pu ante
-- `ante02`: skew ante
-- `apeja01`: kulupu apeja
-- `epiku01`: upvote epiku
-- `epiku02`: emitters epiku
-- `isipin01`: lawa emitters isipin
-- `jami01`: suwi jami
-- `jan01`: pu jan
-- `jan02`: eyes jan
-- `kala01`: pu kala
-- `kala02`: eyes kala
-- `kamalawala01`: anarchist kamalawala
-- `kapesi01`: loje jelo laso style kapesi
-- `kiki01`: explosion kiki
-- `kiki02`: triangle kiki
-- `ko01`: blobby ko
-- `ko02`: flower ko
-- `kokosila02` (not a typo): toki kokosila
-- `konwe01`: glider konwe
-- `kulijo01`: lete kulijo
-- `lanpan01`: jo lanpan
-- `lanpan02`: pana lanpan
-- `lape01`: lying down lape
-- `lape02`: u.u lape
-- `linluwi01`: emitters linluwi
-- `linluwi02`: sitelen linluwi
-- `linluwi03`: kulupu linluwi
-- `lupa01`: pu lupa
-- `lupa02`: sitelen sa lupa
-- `majuna01`: turned sin majuna
-- `majuna02`: lotus/book majuna
-- `meli01`: pu meli
-- `meli02`: venus meli
-- `melome01`: right-side-up melome
-- `meso01`: tu meso
-- `mije01`: pu mije
-- `mije02`: mars mije
-- `mijomi01`: right-side-up mijomi
-- `misa01`: legless earless misa
-- `misikeke01`: capsule misikeke
-- `misikeke02`: mortar and pestle misikeke
-- `moli01`: pu moli
-- `moli02`: x_x moli
-- `monsi01`: pu monsi
-- `monsi02`: tail monsi
-- `monsuta01`: jagged line monsuta
-- `mu01`: pu mu
-- `mu02`: dialogue punctuation
-- `mute01`: pu mute
-- `mute02` or `luka&luka&luka&luka`: four hands mute
-- `namako01`: 4-line sin namako
-- `namako02`: pepper namako
-- `nena01`: pu nena
-- `nena02`: sitelen sa nena
-- `ni01` or `niv`: down ni
-- `ni02` or `ni>`: right ni
-- `ni03` or `ni^`: up ni
-- `ni04` or `ni<`: left ni
-- `ni05`, `niv>`, or `ni>v`: down right ni
-- `ni06`, `ni^v`, or `ni>^`: up right ni
-- `ni07`, `ni^<`, or `ni<^`: up left ni
-- `ni08`, `niv<`, or `ni<v`: down left ni
-- `oko01`: side oko
-- `olin01`: pu olin
-- `olin02`: overlapping olin
-- `olin03`: emitters olin
-- `omekapo01`: kala emitters omekapo
-- `owe01`: lukin emitters oko
-- `pake01`: T pake
-- `penpo01`: toki pona with 8 emitters penpo
-- `pika01`: lightning pika
-- `po01`: numeral 4 po
-- `powe01`: lon ala powe
-- `puwa01`: cloud puwa
-- `san01`: triple backwards wan san
-- `sewi01`: pu sewi
-- `sewi02`: turned anpa sewi
-- `sinpin01`: pu sinpin
-- `sinpin02`: face sinpin
-- `sitelen01`: pu sitelen
-- `sitelen02`: line sitelen
-- `soko01`: thin stem soko
-- `soko02`: thick stem soko
-- `soko03`: annulus soko
-- `soto01`: box soto
-- `su01`: oz su
-- `su02`: unicorn su
-- `su03`: suno su
-- `sutopatikuna01`: head sutopatikuna
-- `taki01`: yin yang taki
-- `taki02`: magnet taki
-- `teje01`: box teje
-- `tenpo01`: pu tenpo
-- `tenpo02`: hourglass tenpo
-- `tomo01`: pu tomo
-- `tomo02`: overhang tomo
-- `tonsi01`: transgender symbol tonsi
-- `tonsi02`: nonbinary symbol tonsi
-- `unu01`: kule mun unu
-- `usawi01`: nasa emitters usawi
-- `uta01`: pu uta
-- `uta02`: dotless uta
-- `wa01`: exclamation wile wa
-- `wasoweli01`: 4 legged wasoweli
-- `wekama01`: weka kama wekama
-- `wile01`: pu wile
-- `wile02`: turned heart wile
-- `wuwojiti01`: box wuwojiti
-- `yupekosi01`: y yupekosi
-</div>
+{% assign items = ascii %}
+
+<table class="ascii-char">
+<caption></caption>
+<thead>
+<tr>
+    <th>Word</th>
+    <th>#</th>
+    <th>Input</th>
+    <th>Description</th>
+</tr>
+</thead>
+<tbody>
+{%- for item in items -%}
+{%- capture current_class -%}
+    {% cycle 'even', 'odd' %}
+{% endcapture %}
+<tr class="word-entry {{ current_class }}">
+    <th rowspan="{{ item.glyphs.size }}">{{ item.word_name }}</th>
+{%- for var in item.glyphs -%}
+    <td>{{ var.version }}</td>
+    <td>
+    {%- if var.glyph_names -%}
+        {%- for subname in var.glyph_names -%}
+            <span class="input">{{ subname }}</span>
+            {%- if subname != var.glyph_names[-1] -%}
+            <span class="or">or</span>
+            {%- endif -%}
+        {%- endfor -%}
+    {%- else -%}
+    <span class="input">{{ var.glyph_name }}</span>
+        {%- if var.not_typo -%}            
+        <span class="or">[sic]</span>
+        {%- endif -%}
+
+    {%- endif -%}
+    </td>
+    <td>{{var.description}} </td>
+</tr>
+{%- if var != item.glyphs[-1] -%}<tr class="{{current_class}}">{%- endif -%}
+{%- endfor -%}
+{%- endfor -%}
+
+</tbody>
+</table>

@@ -1,0 +1,455 @@
+{"ascii": [
+  {
+    "word_name": "a",
+    "glyphs": [
+      { "glyph_name": "a01", "version": "01", "description": "pu a" },
+      { "glyph_name": "a03", "version": "03", "description": "triple-stick a", "not_typo": true }
+    ]
+  },
+  {
+    "word_name": "akesi",
+    "glyphs": [
+      { "glyph_name": "akesi01", "version": "01", "description": "6 legged akesi" },
+      { "glyph_name": "akesi02", "version": "02", "description": "4 legged akesi" }
+    ]
+  },
+  {
+    "word_name": "ante",
+    "glyphs": [
+      { "glyph_name": "ante01", "version": "01", "description": "pu ante" },
+      { "glyph_name": "ante02", "version": "02", "description": "skew ante" }
+    ]
+  },
+  {
+    "word_name": "apeja",
+    "glyphs": [
+      { "glyph_name": "apeja01", "version": "01", "description": "kulupu apeja" }
+    ]
+  },
+  {
+    "word_name": "epiku",
+    "glyphs": [
+      { "glyph_name": "epiku01", "version": "01", "description": "upvote epiku" },
+      { "glyph_name": "epiku02", "version": "02", "description": "emitters epiku" }
+    ]
+  },
+  {
+    "word_name": "isipin",
+    "glyphs": [
+      { "glyph_name": "isipin01", "version": "01", "description": "lawa emitters isipin" }
+    ]
+  },
+  {
+    "word_name": "jami",
+    "glyphs": [
+      { "glyph_name": "jami01", "version": "01", "description": "suwi jami" }
+    ]
+  },
+  {
+    "word_name": "jan",
+    "glyphs": [
+      { "glyph_name": "jan01", "version": "01", "description": "pu jan" },
+      { "glyph_name": "jan02", "version": "02", "description": "eyes jan" }
+    ]
+  },
+  {
+    "word_name": "kala",
+    "glyphs": [
+      { "glyph_name": "kala01", "version": "01", "description": "pu kala" },
+      { "glyph_name": "kala02", "version": "02", "description": "eyes kala" }
+    ]
+  },
+  {
+    "word_name": "kamalawala",
+    "glyphs": [
+      { "glyph_name": "kamalawala01", "version": "01", "description": "anarchist kamalawala" }
+    ]
+  },
+  {
+    "word_name": "kapesi",
+    "glyphs": [
+      { "glyph_name": "kapesi01", "version": "01", "description": "loje jelo laso style kapesi" }
+    ]
+  },
+  {
+    "word_name": "kiki",
+    "glyphs": [
+      { "glyph_name": "kiki01", "version": "01", "description": "explosion kiki" },
+      { "glyph_name": "kiki02", "version": "02", "description": "triangle kiki" }
+    ]
+  },
+  {
+    "word_name": "ko",
+    "glyphs": [
+      { "glyph_name": "ko01", "version": "01", "description": "blobby ko" },
+      { "glyph_name": "ko02", "version": "02", "description": "flower ko" }
+    ]
+  },
+  {
+    "word_name": "kokosila",
+    "glyphs": [
+      { "glyph_name": "kokosila02", "version": "02", "description": "toki kokosila", "not_typo": true }
+    ]
+  },
+  {
+    "word_name": "konwe",
+    "glyphs": [
+      { "glyph_name": "konwe01", "version": "01", "description": "glider konwe" }
+    ]
+  },
+  {
+    "word_name": "kulijo",
+    "glyphs": [
+      { "glyph_name": "kulijo01", "version": "01", "description": "lete kulijo" }
+    ]
+  },
+  {
+    "word_name": "lanpan",
+    "glyphs": [
+      { "glyph_name": "lanpan01", "version": "01", "description": "jo lanpan" },
+      { "glyph_name": "lanpan02", "version": "02", "description": "pana lanpan" }
+    ]
+  },
+  {
+    "word_name": "lape",
+    "glyphs": [
+      { "glyph_name": "lape01", "version": "01", "description": "lying down lape" },
+      { "glyph_name": "lape02", "version": "02", "description": "u.u lape" }
+    ]
+  },
+  {
+    "word_name": "linluwi",
+    "glyphs": [
+      { "glyph_name": "linluwi01", "version": "01", "description": "emitters linluwi" },
+      { "glyph_name": "linluwi02", "version": "02", "description": "sitelen linluwi" },
+      { "glyph_name": "linluwi03", "version": "03", "description": "kulupu linluwi" }
+    ]
+  },
+  {
+    "word_name": "lupa",
+    "glyphs": [
+      { "glyph_name": "lupa01", "version": "01", "description": "pu lupa" },
+      { "glyph_name": "lupa02", "version": "02", "description": "sitelen sa lupa" }
+    ]
+  },
+  {
+    "word_name": "majuna",
+    "glyphs": [
+      { "glyph_name": "majuna01", "version": "01", "description": "turned sin majuna" },
+      { "glyph_name": "majuna02", "version": "02", "description": "lotus/book majuna" }
+    ]
+  },
+  {
+    "word_name": "meli",
+    "glyphs": [
+      { "glyph_name": "meli01", "version": "01", "description": "pu meli" },
+      { "glyph_name": "meli02", "version": "02", "description": "venus meli" }
+    ]
+  },
+  {
+    "word_name": "melome",
+    "glyphs": [
+      { "glyph_name": "melome01", "version": "01", "description": "right-side-up melome" }
+    ]
+  },
+  {
+    "word_name": "meso",
+    "glyphs": [
+      { "glyph_name": "meso01", "version": "01", "description": "tu meso" }
+    ]
+  },
+  {
+    "word_name": "mije",
+    "glyphs": [
+      { "glyph_name": "mije01", "version": "01", "description": "pu mije" },
+      { "glyph_name": "mije02", "version": "02", "description": "mars mije" }
+    ]
+  },
+  {
+    "word_name": "mijomi",
+    "glyphs": [
+      { "glyph_name": "mijomi01", "version": "01", "description": "right-side-up mijomi" }
+    ]
+  },
+  {
+    "word_name": "misa",
+    "glyphs": [
+      { "glyph_name": "misa01", "version": "01", "description": "legless earless misa" }
+    ]
+  },
+  {
+    "word_name": "misikeke",
+    "glyphs": [
+      { "glyph_name": "misikeke01", "version": "01", "description": "capsule misikeke" },
+      { "glyph_name": "misikeke02", "version": "02", "description": "mortar and pestle misikeke" }
+    ]
+  },
+  {
+    "word_name": "moli",
+    "glyphs": [
+      { "glyph_name": "moli01", "version": "01", "description": "pu moli" },
+      { "glyph_name": "moli02", "version": "02", "description": "x_x moli" }
+    ]
+  },
+  {
+    "word_name": "monsi",
+    "glyphs": [
+      { "glyph_name": "monsi01", "version": "01", "description": "pu monsi" },
+      { "glyph_name": "monsi02", "version": "02", "description": "tail monsi" }
+    ]
+  },
+  {
+    "word_name": "monsuta",
+    "glyphs": [
+      { "glyph_name": "monsuta01", "version": "01", "description": "jagged line monsuta" }
+    ]
+  },
+  {
+    "word_name": "mu",
+    "glyphs": [
+      { "glyph_name": "mu01", "version": "01", "description": "pu mu" },
+      { "glyph_name": "mu02", "version": "02", "description": "dialogue punctuation" }
+    ]
+  },
+  {
+    "word_name": "mute",
+    "glyphs": [
+      { "glyph_name": "mute01", "version": "01", "description": "pu mute" },
+      { "glyph_names": ["mute02", "luka&luka&luka&luka"], "version": "02", "description": "four hands mute" }
+    ]
+  },
+  {
+    "word_name": "namako",
+    "glyphs": [
+      { "glyph_name": "namako01", "version": "01", "description": "4-line sin namako" },
+      { "glyph_name": "namako02", "version": "02", "description": "pepper namako" }
+    ]
+  },
+  {
+    "word_name": "nena",
+    "glyphs": [
+      { "glyph_name": "nena01", "version": "01", "description": "pu nena" },
+      { "glyph_name": "nena02", "version": "02", "description": "sitelen sa nena" }
+    ]
+  },
+  {
+    "word_name": "ni",
+    "glyphs": [
+      { "glyph_names": ["ni01", "niv"], "version": "01", "description": "down ni" },
+      { "glyph_names": ["ni02", "ni>"], "version": "02", "description": "right ni" },
+      { "glyph_names": ["ni03", "ni^"], "version": "03", "description": "up ni" },
+      { "glyph_names": ["ni04", "ni<"], "version": "04", "description": "left ni" },
+      { "glyph_names": ["ni05", "niv>", "ni>v"], "version": "05", "description": "down right ni" },
+      { "glyph_names": ["ni06", "ni^>", "ni>^"], "version": "06", "description": "up right ni" },
+      { "glyph_names": ["ni07", "ni^<", "ni<^"], "version": "07", "description": "up left ni" },
+      { "glyph_names": ["ni08", "niv<", "ni&ltv"], "version": "08", "description": "down left ni" }
+    ]
+  },
+  {
+    "word_name": "oko",
+    "glyphs": [
+      { "glyph_name": "oko01", "version": "01", "description": "side oko" }
+    ]
+  },
+  {
+    "word_name": "olin",
+    "glyphs": [
+      { "glyph_name": "olin01", "version": "01", "description": "pu olin" },
+      { "glyph_name": "olin02", "version": "02", "description": "overlapping olin" },
+      { "glyph_name": "olin03", "version": "03", "description": "emitters olin" }
+    ]
+  },
+  {
+    "word_name": "omekapo",
+    "glyphs": [
+      { "glyph_name": "omekapo01", "version": "01", "description": "kala emitters omekapo" }
+    ]
+  },
+  {
+    "word_name": "owe",
+    "glyphs": [
+      { "glyph_name": "owe01", "version": "01", "description": "lukin emitters oko" }
+    ]
+  },
+  {
+    "word_name": "pake",
+    "glyphs": [
+      { "glyph_name": "pake01", "version": "01", "description": "T pake" }
+    ]
+  },
+  {
+    "word_name": "penpo",
+    "glyphs": [
+      { "glyph_name": "penpo01", "version": "01", "description": "toki pona with 8 emitters penpo" }
+    ]
+  },
+  {
+    "word_name": "pika",
+    "glyphs": [
+      { "glyph_name": "pika01", "version": "01", "description": "lightning pika" }
+    ]
+  },
+  {
+    "word_name": "po",
+    "glyphs": [
+      { "glyph_name": "po01", "version": "01", "description": "numeral 4 po" }
+    ]
+  },
+  {
+    "word_name": "powe",
+    "glyphs": [
+      { "glyph_name": "powe01", "version": "01", "description": "lon ala powe" }
+    ]
+  },
+  {
+    "word_name": "puwa",
+    "glyphs": [
+      { "glyph_name": "puwa01", "version": "01", "description": "cloud puwa" }
+    ]
+  },
+  {
+    "word_name": "san",
+    "glyphs": [
+      { "glyph_name": "san01", "version": "01", "description": "triple backwards wan san" }
+    ]
+  },
+  {
+    "word_name": "sewi",
+    "glyphs": [
+      { "glyph_name": "sewi01", "version": "01", "description": "pu sewi" },
+      { "glyph_name": "sewi02", "version": "02", "description": "turned anpa sewi" }
+    ]
+  },
+  {
+    "word_name": "sinpin",
+    "glyphs": [
+      { "glyph_name": "sinpin01", "version": "01", "description": "pu sinpin" },
+      { "glyph_name": "sinpin02", "version": "02", "description": "face sinpin" }
+    ]
+  },
+  {
+    "word_name": "sitelen",
+    "glyphs": [
+      { "glyph_name": "sitelen01", "version": "01", "description": "pu sitelen" },
+      { "glyph_name": "sitelen02", "version": "02", "description": "line sitelen" }
+    ]
+  },
+  {
+    "word_name": "soko",
+    "glyphs": [
+      { "glyph_name": "soko01", "version": "01", "description": "thin stem soko" },
+      { "glyph_name": "soko02", "version": "02", "description": "thick stem soko" },
+      { "glyph_name": "soko03", "version": "03", "description": "annulus soko" }
+    ]
+  },
+  {
+    "word_name": "soto",
+    "glyphs": [
+      { "glyph_name": "soto01", "version": "01", "description": "box soto" }
+    ]
+  },
+  {
+    "word_name": "su",
+    "glyphs": [
+      { "glyph_name": "su01", "version": "01", "description": "oz su" },
+      { "glyph_name": "su02", "version": "02", "description": "unicorn su" },
+      { "glyph_name": "su03", "version": "03", "description": "suno su" }
+    ]
+  },
+  {
+    "word_name": "sutopatikuna",
+    "glyphs": [
+      { "glyph_name": "sutopatikuna01", "version": "01", "description": "head sutopatikuna" }
+    ]
+  },
+  {
+    "word_name": "taki",
+    "glyphs": [
+      { "glyph_name": "taki01", "version": "01", "description": "yin yang taki" },
+      { "glyph_name": "taki02", "version": "02", "description": "magnet taki" }
+    ]
+  },
+  {
+    "word_name": "teje",
+    "glyphs": [
+      { "glyph_name": "teje01", "version": "01", "description": "box teje" }
+    ]
+  },
+  {
+    "word_name": "tenpo",
+    "glyphs": [
+      { "glyph_name": "tenpo01", "version": "01", "description": "pu tenpo" },
+      { "glyph_name": "tenpo02", "version": "02", "description": "hourglass tenpo" }
+    ]
+  },
+  {
+    "word_name": "tomo",
+    "glyphs": [
+      { "glyph_name": "tomo01", "version": "01", "description": "pu tomo" },
+      { "glyph_name": "tomo02", "version": "02", "description": "overhang tomo" }
+    ]
+  },
+  {
+    "word_name": "tonsi",
+    "glyphs": [
+      { "glyph_name": "tonsi01", "version": "01", "description": "transgender symbol tonsi" },
+      { "glyph_name": "tonsi02", "version": "02", "description": "nonbinary symbol tonsi" }
+    ]
+  },
+  {
+    "word_name": "unu",
+    "glyphs": [
+      { "glyph_name": "unu01", "version": "01", "description": "kule mun unu" }
+    ]
+  },
+  {
+    "word_name": "usawi",
+    "glyphs": [
+      { "glyph_name": "usawi01", "version": "01", "description": "nasa emitters usawi" }
+    ]
+  },
+  {
+    "word_name": "uta",
+    "glyphs": [
+      { "glyph_name": "uta01", "version": "01", "description": "pu uta" },
+      { "glyph_name": "uta02", "version": "02", "description": "dotless uta" }
+    ]
+  },
+  {
+    "word_name": "wa",
+    "glyphs": [
+      { "glyph_name": "wa01", "version": "01", "description": "exclamation wile wa" }
+    ]
+  },
+  {
+    "word_name": "wasoweli",
+    "glyphs": [
+      { "glyph_name": "wasoweli01", "version": "01", "description": "4 legged wasoweli" }
+    ]
+  },
+  {
+    "word_name": "wekama",
+    "glyphs": [
+      { "glyph_name": "wekama01", "version": "01", "description": "weka kama wekama" }
+    ]
+  },
+  {
+    "word_name": "wile",
+    "glyphs": [
+      { "glyph_name": "wile01", "version": "01", "description": "pu wile" },
+      { "glyph_name": "wile02", "version": "02", "description": "turned heart wile" }
+    ]
+  },
+  {
+    "word_name": "wuwojiti",
+    "glyphs": [
+      { "glyph_name": "wuwojiti01", "version": "01", "description": "box wuwojiti" }
+    ]
+  },
+  {
+    "word_name": "yupekosi",
+    "glyphs": [
+      { "glyph_name": "yupekosi01", "version": "01", "description": "y yupekosi" }
+    ]
+  }
+]}
