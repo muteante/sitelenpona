@@ -22,7 +22,7 @@ permalink: /method/semantic-alts.html
 
 {% split %}
 {% en %}
-In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/method/words.html) shall receive one codepoint, except where it is determined that a word's variant [glyphs](/method/glyphs.html) can each have [teachably](/method/tiers/html) distinct sub-meanings.
+In the [methodology](/method.html) developed by [Mrs. Lang](/members.html#mrs-lang) for [Common Sitelen Pona](/common.html), one [word](/method/words.html) shall receive one codepoint, except where it is determined that a word's variant [glyphs](/method/glyphs.html) can each have [teachably](/method/tiers.html) distinct sub-meanings.
 {% enden %}
 
 {% sp %}

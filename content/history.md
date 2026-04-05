@@ -208,7 +208,7 @@ ni la kulupu pali lili li open e pali pi ilo sin mute.
 {% en %}
 In the latter half of 2024, members of the working group had their priorities set on creating new tools and gathering usage data. 
 
-In August, [mun Kekan San](/members.html#gregory-danielson-iii) published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#paliwhere-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona by drawing on a new filtered corpus with major sources from 2016 onwards. 
+In August, [mun Kekan San](/members.html#gregory-danielson-iii) published [ilo Muni](https://ilo.muni.la/), a new corpus-based word-frequency analyzer. Owing to [extensive web-scraping efforts](https://ilo.muni.la/about/#where-is-the-data-from), ilo Muni provides robust data on word usage in Toki Pona by drawing on a new filtered corpus with major sources from 2016 onwards. 
 
 Usage data for Sitelen Pona glyph variants was pursued in three ways. At the font level, [jan Ke Tami](/members.html#ret-samys) created a [new annotated database of all Sitelen Pona fonts](https://antetokipona.infinityfreeapp.com/font/?i=1). At the text level, several working group members gathered and annotated a new corpus of Sitelen Pona handwriting examples. Finally, [waso Keli](/members.html#waso-keli) created and published [SP Font Maker](https://wasokeli.github.io/sp-font-maker/). This tool allows anyone to create and upload their own handwriting samples to create a Sitelen Pona font, and also serves as a database where individual preferences for Sitelen Pona glyphs can be batched and analyzed.
 
@@ -311,7 +311,7 @@ nimi sin en nasin sin en lawa sin  la  te kulupu pali pi sitelen pona to
 zz li open lon suno nanpa mute luka tu wan pi(mun nanpa luka tu)   
 
 
-kepeken [nasin alasa](/method/index.html) pi(anpa-sewi) la   
+kepeken [nasin alasa](/method) pi(anpa-sewi) la   
 zz mun nanpa tu tu la kulupu pali li kama sona e [sitelen nimi pi(sitelen+pona kulupu)](/method/words.html)  
 zz mun nanpa luka la kulupu pali li kama sona e [selo pona pi(sitelen nimi ni^)](/method/glyphs.html)
 
@@ -350,7 +350,7 @@ open pi tenpo sike #MAML la sona wile en nasin pali li lon kulupu pali lili. kul
 
 pali li kama lon poka pini la kulupu pali lili li kama wile ante lawa e nimi e nasin li wile kama kulupu pali pi sitelen pona. tawa lawa pi ma Kanata la, kulupu pali pi sitelen pona li wile kama [kulupu esun pi wile mani ala](https://laws.justice.gc.ca/eng/acts/c-7.75/). nimi sin en nasin sin en lawa sin li open lon tenpo suno #MLTW pi tenpo mun #LT. 
 
-kepeken nasin alasa pi anpa sewi la kulupu pali li kama sona e sitelen nimi pi sitelen pona lon tenpo mun #TT e selo pona pi sitelen nimi ni lon tenpo mun #L.
+kepeken [nasin alasa pi anpa sewi](/method.html) la kulupu pali li kama sona e sitelen nimi pi sitelen pona lon tenpo mun #TT e selo pona pi sitelen nimi ni lon tenpo mun #L.
 
 wile sona ante pi mute lili la mi kama e sona tan nasin ante. wile sona nasa wan li ni: sitelen nimi wan li jo e selo ante mute la selo ante ni li ken ala ken sama nimi ante? selo ante pi sitelen nimi sama li ken sona ante la, selo ni li ken nimi ante. ona o sitelen nimi ante lon nasin Juniko lon sitelen pona kulupu. mi kulupu li alasa e sona  kepeken ni: mi pana e lipu pi alasa pilin tawa jan ale kulupu li alasa e ni mute: selo tu pi sitelen nimi wan ni li pilin ala pilin sama lon sona? kama la jan sona mute pi kulupu pali li kute e pilin pi kulupu suli li toki e wile ona ni: [selo seme pi sitelen sama o lon lipu pi sitelen pona kulupu](/method/semantic-alts.html). nasin pini li kama tan wile suli pi jan kulupu. 
 
