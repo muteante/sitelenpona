@@ -98,9 +98,8 @@ body {
     font-weight: 700;
     opacity: 0;
 }
-.split p {
+main .split p {
     position: relative;
-    z-index: -1;
 }
 
 
