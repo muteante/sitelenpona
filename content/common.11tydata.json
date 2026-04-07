@@ -771,7 +771,7 @@
     "explainsl": "nimi kalama li ni: ona li sama kute tawa nimi pi toki ante li nimi pi toki pona ala. 'sitelen Lasina' la 'Lasina' li nimi kalama. sitelen pona la nimi kalama ale li lon insa poki.",
     "explainsp": "nimi kalama li ni> zz ona li sama kute tawa nimi pi(toki ante) li nimi pi(toki+pona ala). sitelen open en sitelen pini li selo e poki.",
 
-    "example-before": "jan 'cartouche start' anpa mama awen 'cartouche end'",
+    "example-before": "jan 'cartouche-start' anpa mama awen 'cartouche-end'",
     "example-beforetok": "jan 'nimi-open' anpa mama awen 'nimi-pini'",
 
     "example-after": "jan [anpa mama awen]",
@@ -839,7 +839,7 @@
     "explainsp": "weka sitelen li ken pini e toki. nasin ante wan la, weka sitelen li lon open pi(linja sitelen) la toki pi(linja ni<) li awen e toki pi(linja pini). tenpo mute la selo pi(weka sitelen) li suli sama sitelen wan. ",
 
 
-    "example-before": "mi toki 'ideographic space' sina toki ala",
+    "example-before": "mi toki 'ideographic-space' sina toki ala",
     "example-beforetok": "mi toki 'weka-sitelen' sina toki ala",
     "example-after": "mi toki zz sina toki ala",
     "no-codepoint": "true"
@@ -982,7 +982,7 @@
     
     "explainsp": "sitelen pi(sike lili insa) li ken toki e ni> zz pini pi(linja toki) li lon seme. poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama namako wan kepeken sitelen pi(sike lili).",
 
-    "example-before": "a 'middledot' nasin pi ma 'cartouche-start' poka 'middledot' 'cartouche-end' li wawa 'middledot'",
+    "example-before": "a 'middle-dot' nasin pi ma 'cartouche-start' poka 'middle-dot' 'cartouche-end' li wawa 'middle-dot'",
     "example-beforetok": "a 'sike-insa' nasin pi ma 'nimi-open' poka 'sike-insa' 'nimi-pini' li wawa 'sike-insa'",
 
     "example-after": "a. nasin pi ma[poka.] li wawa."
@@ -998,7 +998,7 @@
     "explainsl": "poki pi nimi kalama la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi nimi wan kepeken sitelen pi sike lili tu.",
     "explainsp": "poki pi(nimi kalama) la [nasin sitelen kalama](https://sona.pona.la/wiki/nasin_sitelen_kalama) li sitelen e kalama ale pi(nimi wan) kepeken sitelen pi(sike lili tu).",
 
-    "example-before": "ma 'cartouche-start' a meli 'colon' 'middledot' kala 'middledot' 'cartouche-end' seli",
+    "example-before": "ma 'cartouche-start' a meli 'colon' 'middle-dot' kala 'middle-dot' 'cartouche-end' seli",
     "example-beforetok": "ma 'nimi-open' a meli 'sike-tu' 'sike-insa' kala 'sike-insa' 'nimi-pini' seli",
 
     "example-after": "ma [a meli: kala.] seli"
