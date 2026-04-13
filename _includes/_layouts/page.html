@@ -755,10 +755,10 @@
             <a href="{{licenses['MIT License'].nasin}}">MIT License</a>.)
 
             {% if font %}
-                Additionally, this particular page features <a href="{{fonts[font].nasin}}">{{ font | log }}</a> (licensed
+                Additionally, this particular page features <a href="{{fonts[font].nasin}}">{{ font  }}</a> (licensed
                 under <a href="{{licenses[fonts[font].license].nasin}}">{{ fonts[font].license }}</a>)
                 {% if secondFont %}
-                and <a href="{{fonts[secondFont].nasin}}">{{ secondFont | log }}</a> (licensed under <a href="{{licenses[fonts[secondFont].license].nasin}}">{{ fonts[font].license }})</a>
+                and <a href="{{fonts[secondFont].nasin}}">{{ secondFont  }}</a> (licensed under <a href="{{licenses[fonts[secondFont].license].nasin}}">{{ fonts[font].license }})</a>
                 {% endif %}
                 in images and/or embeds.
             {% endif %}

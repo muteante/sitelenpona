@@ -104,6 +104,13 @@ main table svg{
         margin: 0 auto;
         padding: 0;
 }
+main table :is(.wasoweli, .misa) svg{
+        width: 1.2em;
+        height: 2em;
+        margin: 0 auto;
+        padding: 0;
+}
+
 
 
 @media (max-width: 39rem){
@@ -278,7 +285,7 @@ For every glyph included in "Toki Pona: The Language of Good" (2014), `word01` p
 {%- capture current_class -%}
     {% cycle 'even', 'odd' %}
 {% endcapture %}
-<tr class="word-entry {{ current_class }}">
+<tr class="word-entry {{ current_class }} {{item.word_name}}">
     <th rowspan="{{ item.glyphs.size }}">{{ item.word_name }}</th>
 {%- for var in item.glyphs -%}
     <td>{{ var.version }}</td>
