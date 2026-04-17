@@ -20,10 +20,14 @@
     <meta property="og:title" content="{{ title }}" />
     <link href="https://sitelenpona.net{{page.url}}" rel="canonical" />
     <meta property="og:url" content="https://sitelenpona.net{{page.url}}" />
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Sitelen Pona Publishers and Typographers Association">
     <meta name="description" content="{{description}} {% if spTitle != 'todo' %}(kepeken toki pona kin.){% endif %}">
     <meta property="og:description"
         content="{{description}} {% if spTitle != 'todo' %}(lipu li ken toki pona kin.){% endif %}" />
     <meta property="og:site_name" content="Sitelen Pona Publishers and Typographers Association" />
+    <meta property="og:locale" content="en_US">
+    <meta property="og:locale:alternate" content="tok">
     {% if alt %}
     <meta property="og:image"
         content="{{baseUrl}}/assets/sitelen/og/{{ page.filePathStem | replace: '/content/','' }}.png" />
