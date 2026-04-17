@@ -23,7 +23,7 @@ const handleThemeSelection = (event) => {
 
 }
 const handleChange = (savedSetting, setting) => {
-    console.log(savedSetting, setting);
+    // console.log(savedSetting, setting);
     applySetting(savedSetting, setting);
     localStorage.setItem(`selected-${setting}`, savedSetting);
 }
@@ -53,9 +53,9 @@ const assignListeners = (selects) => {
 
 setInitialSettings();
 
-console.log("this is");
+// console.log("this is");
 assignListeners(selectors);
-console.log(selectors);
+// console.log(selectors);
 for (let themeSelector of document.querySelectorAll('.theme-selector button')) {
     themeSelector.addEventListener('click', handleThemeSelection);
 }
